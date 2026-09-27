@@ -1,0 +1,57 @@
+{
+  "id": "hebrews-9",
+  "book": "hebrews",
+  "name": "히브리서",
+  "chapter": 9,
+  "rows": [
+    {
+      "url": "/hebrews-9/hb9-furnishings/",
+      "nt": "히 9:2, 4–5",
+      "ot": "출애굽기 25:9–30",
+      "lead": "언약궤와 성막의 기물",
+      "kind": "암시 · 성막 기물"
+    },
+    {
+      "url": "/hebrews-9/hb9-atonement/",
+      "nt": "히 9:7",
+      "ot": "레위기 16:2, 14–19",
+      "lead": "일 년에 한 번",
+      "kind": "암시 · 속죄일"
+    },
+    {
+      "url": "/hebrews-9/hb9-ashes/",
+      "nt": "히 9:13",
+      "ot": "민수기 19:9, 17",
+      "lead": "암송아지의 재",
+      "kind": "암시 · 정결 규정"
+    },
+    {
+      "url": "/hebrews-9/hb9-blood/",
+      "nt": "히 9:19–20",
+      "ot": "출애굽기 24:3–8",
+      "lead": "언약의 피",
+      "kind": "직접 인용과 서술"
+    },
+    {
+      "url": "/hebrews-9/hb9-sprinkling/",
+      "nt": "히 9:19",
+      "ot": "민수기 19:6",
+      "lead": "우슬초와 붉은 실",
+      "kind": "복합 제의 배경"
+    },
+    {
+      "url": "/hebrews-9/hb9-life/",
+      "nt": "히 9:22",
+      "ot": "레위기 17:11",
+      "lead": "피와 속죄",
+      "kind": "암시"
+    },
+    {
+      "url": "/hebrews-9/hb9-sins/",
+      "nt": "히 9:28",
+      "ot": "이사야 53:12",
+      "lead": "많은 이의 죄를 담당하다",
+      "kind": "암시"
+    }
+  ]
+}

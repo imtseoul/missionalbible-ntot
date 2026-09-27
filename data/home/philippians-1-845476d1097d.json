@@ -1,0 +1,29 @@
+{
+  "id": "philippians-1",
+  "book": "philippians",
+  "name": "빌립보서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/philippians-1/php1-fruit/",
+      "nt": "빌 1:11",
+      "ot": "잠언 3:9",
+      "lead": "의의 열매",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/philippians-1/php1-deliverance/",
+      "nt": "빌 1:19",
+      "ot": "욥기 13:16",
+      "lead": "이것이 나의 구원이 되리라",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/philippians-1/php1-shame/",
+      "nt": "빌 1:20",
+      "ot": "시편 21:6",
+      "lead": "부끄러움을 당하지 않음",
+      "kind": "암시"
+    }
+  ]
+}

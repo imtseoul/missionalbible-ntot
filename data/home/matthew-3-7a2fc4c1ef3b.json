@@ -1,0 +1,29 @@
+{
+  "id": "matthew-3",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/matthew-3/mt3-way/",
+      "nt": "마 3:3",
+      "ot": "이사야 40:3",
+      "lead": "주의 길을 준비하라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-3/mt3-spirit/",
+      "nt": "마 3:16",
+      "ot": "이사야 11:2",
+      "lead": "그 위에 머무는 영",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-3/mt3-son/",
+      "nt": "마 3:17",
+      "ot": "시편 2:7",
+      "lead": "내 아들",
+      "kind": "암시"
+    }
+  ]
+}

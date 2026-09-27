@@ -1,0 +1,50 @@
+{
+  "id": "james-1",
+  "book": "james",
+  "name": "야고보서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/james-1/jas1-flower/",
+      "nt": "약 1:10–11",
+      "ot": "이사야 40:6–8",
+      "lead": "풀의 꽃처럼 지나감",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-1/jas1-endure/",
+      "nt": "약 1:12",
+      "ot": "다니엘 12:12",
+      "lead": "견디는 이의 복",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-1/jas1-law/",
+      "nt": "약 1:25",
+      "ot": "시편 18:8",
+      "lead": "완전한 율법",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/james-1/jas1-tongue/",
+      "nt": "약 1:26",
+      "ot": "시편 33:14",
+      "lead": "혀를 제어함",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-1/jas1-orphans/",
+      "nt": "약 1:27",
+      "ot": "이사야 1:17",
+      "lead": "고아와 과부를 돌봄",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-1/jas1-fatherless/",
+      "nt": "약 1:27",
+      "ot": "시편 9:35, 39",
+      "lead": "고아를 돕는 분",
+      "kind": "암시"
+    }
+  ]
+}

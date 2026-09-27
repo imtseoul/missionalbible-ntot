@@ -1,0 +1,36 @@
+{
+  "id": "matthew-13",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 13,
+  "rows": [
+    {
+      "url": "/matthew-13/mt13-hearing/",
+      "nt": "마 13:14–15",
+      "ot": "이사야 6:9–10",
+      "lead": "듣고도 깨닫지 못함",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-13/mt13-leaven/",
+      "nt": "마 13:33",
+      "ot": "창세기 18:6",
+      "lead": "가루 서 말",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-13/mt13-parables/",
+      "nt": "마 13:35",
+      "ot": "시편 77:2",
+      "lead": "입을 열어 비유로 말함",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-13/mt13-shine/",
+      "nt": "마 13:43",
+      "ot": "다니엘 12:3",
+      "lead": "의인들이 빛나리라",
+      "kind": "암시"
+    }
+  ]
+}

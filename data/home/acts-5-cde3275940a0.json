@@ -1,0 +1,15 @@
+{
+  "id": "acts-5",
+  "book": "acts",
+  "name": "사도행전",
+  "chapter": 5,
+  "rows": [
+    {
+      "url": "/acts-5/deuteronomy-21/",
+      "nt": "행 5:30",
+      "ot": "신명기 21:22",
+      "lead": "그를 나무에 매달았을 때",
+      "kind": "암시"
+    }
+  ]
+}

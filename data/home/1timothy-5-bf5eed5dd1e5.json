@@ -1,0 +1,29 @@
+{
+  "id": "1timothy-5",
+  "book": "1timothy",
+  "name": "디모데전서",
+  "chapter": 5,
+  "rows": [
+    {
+      "url": "/1timothy-5/1ti5-elder/",
+      "nt": "딤전 5:1",
+      "ot": "레위기 19:32",
+      "lead": "나이 든 이를 존중함",
+      "kind": "율법적 암시"
+    },
+    {
+      "url": "/1timothy-5/1ti5-ox/",
+      "nt": "딤전 5:18",
+      "ot": "신명기 25:4",
+      "lead": "곡식을 밟는 소의 입",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1timothy-5/1ti5-witnesses/",
+      "nt": "딤전 5:19",
+      "ot": "신명기 19:15",
+      "lead": "두세 증인의 증언",
+      "kind": "율법적 인용"
+    }
+  ]
+}

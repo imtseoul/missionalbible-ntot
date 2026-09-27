@@ -1,0 +1,50 @@
+{
+  "id": "revelation-20",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 20,
+  "rows": [
+    {
+      "url": "/revelation-20/rv20-thrones/",
+      "nt": "계 20:4",
+      "ot": "다니엘 7:9, 22, 27",
+      "lead": "보좌와 성도들의 통치",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-20/rv20-life/",
+      "nt": "계 20:4",
+      "ot": "에스겔 37:10",
+      "lead": "살아서 일어남",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-20/rv20-gog/",
+      "nt": "계 20:8",
+      "ot": "에스겔 38:1–6",
+      "lead": "곡과 마곡",
+      "kind": "이름과 전쟁의 재사용"
+    },
+    {
+      "url": "/revelation-20/rv20-fire/",
+      "nt": "계 20:9",
+      "ot": "에스겔 39:6",
+      "lead": "하늘에서 내려오는 불",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-20/rv20-books/",
+      "nt": "계 20:12",
+      "ot": "다니엘 7:10",
+      "lead": "펼쳐진 책들",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-20/rv20-death/",
+      "nt": "계 20:14",
+      "ot": "이사야 25:8",
+      "lead": "죽음의 끝",
+      "kind": "암시"
+    }
+  ]
+}

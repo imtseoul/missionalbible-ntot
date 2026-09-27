@@ -1,0 +1,4883 @@
+{
+  "schema_version": "3.0",
+  "title": "골로새서의 구약 사용",
+  "translation_status": "AI-assisted draft; no independent scholarly review",
+  "scope": {
+    "nt_books": 1,
+    "nt_chapters": 4,
+    "nt_verse_slots": 95,
+    "nt_verses": 95,
+    "lxx_chapters": 4,
+    "lxx_verse_slots": 83,
+    "lxx_translated_slots": 83,
+    "ot_chapters": 4,
+    "ot_verses": 83,
+    "comparisons": 4,
+    "phrase_pairs": 2
+  },
+  "index_basis": {
+    "edition": "NA28",
+    "appendix": "III. Loci citati vel allegati",
+    "scope": "Selected Old Testament quotation and allusion comparisons across the 27 New Testament books, with complete NT chapter context and the full selected LXX chapters; not an exhaustive appendix transcription. Philemon and 3 John have full NT text without selected comparisons.",
+    "status": "partial_primary_appendix_verification",
+    "verification": "The reference links for the selected comparisons outside Acts were checked against the primary NA28 appendix scan and its OCR. Page and source row references are recorded per comparison. Typeface is not transcribed; relationship classifications are editorial. Jonah 1:5 / Acts 27:19 was visually checked on p. 867. The other 57 Acts comparisons retain NA27 online-transcription selection provenance. UBS6 individual index checking remains pending. Hebrews 10:8–9 repeats the citation indexed at 10:5.",
+    "previous_entry_source": "https://matthewbarron.org/places-quoted-or-alluded-to-in-the-new-testament/",
+    "na28_publisher": "https://www.die-bibel.de/en/the-na-28",
+    "na28_appendix_reference": "https://spu.libguides.com/THEO3210/IdentifySources",
+    "supplementary_edition": {
+      "edition": "UBS6",
+      "section": "Index of Quotations",
+      "page": 627,
+      "printing": "2nd, corrected printing, 2026",
+      "status": "index_existence_verified_in_publisher_contents_entries_not_checked",
+      "allusions": "The preface, p. VIII, states that the Index of Allusions and Parallels and the Cross-Reference apparatus have been removed.",
+      "publisher_sample": "https://shop.die-bibel.de/media/e9/59/fc/1777447024/9783438053107_Leseprobe_01.pdf.pdf"
+    },
+    "reviewed_on": "2026-09-22",
+    "na28_scan": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research"
+  },
+  "editions": {
+    "nt_ko": "개역한글, 대한성서공회",
+    "ot_ko": "개역한글, 대한성서공회",
+    "nt_grc": "SBLGNT, Michael W. Holmes, 2010; CC BY 4.0",
+    "lxx_grc": "Swete; eliranwong/LXX-Swete-1930; GPL-3.0",
+    "lxx_ko": "Original Korean research draft; GPL-3.0"
+  },
+  "sources": [
+    {
+      "title": "개역한글 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=2"
+    },
+    {
+      "title": "개역한글 이용 안내",
+      "url": "https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq&wr_id=5"
+    },
+    {
+      "title": "Swete 칠십인역 전자본문 · GPL-3.0",
+      "url": "https://github.com/eliranwong/LXX-Swete-1930"
+    },
+    {
+      "title": "Swete 시편 인쇄본",
+      "url": "https://archive.org/details/oldtestamenting02swet"
+    },
+    {
+      "title": "Swete 예언서 인쇄본",
+      "url": "https://archive.org/details/oldtestgreek00unknuoft"
+    },
+    {
+      "title": "SBLGNT · CC BY 4.0",
+      "url": "https://sblgnt.com/"
+    },
+    {
+      "title": "SBLGNT 전자본문 출처",
+      "url": "https://github.com/morphgnt/sblgnt"
+    },
+    {
+      "title": "SBLGNT 발행처 전자본문",
+      "url": "https://github.com/Faithlife/SBLGNT/tree/master/data/sblgnt/text"
+    },
+    {
+      "title": "SBLGNT 마태복음 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Matt.txt"
+    },
+    {
+      "title": "SBLGNT 마가복음 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "title": "SBLGNT 고린도전서 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/1Cor.txt"
+    },
+    {
+      "title": "SBLGNT 로마서 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
+    },
+    {
+      "title": "사도행전 항목 선정 자료 · NA27 부록 온라인 전사본",
+      "url": "https://matthewbarron.org/places-quoted-or-alluded-to-in-the-new-testament/"
+    },
+    {
+      "title": "NA28 부록 III 스캔 · 836–869쪽",
+      "url": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research"
+    },
+    {
+      "title": "NA28 · 독일성서공회 판본 안내",
+      "url": "https://www.die-bibel.de/en/the-na-28"
+    },
+    {
+      "title": "NA28 부록 III 안내 · Seattle Pacific University 도서관",
+      "url": "https://spu.libguides.com/THEO3210/IdentifySources"
+    },
+    {
+      "title": "UBS6 공식 미리보기 · 목차 VI쪽, 서문 VIII쪽",
+      "url": "https://shop.die-bibel.de/media/e9/59/fc/1777447024/9783438053107_Leseprobe_01.pdf.pdf"
+    },
+    {
+      "title": "일부 인용·비영리 사용에 관한 대한성서공회 안내",
+      "url": "https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq&wr_id=8"
+    },
+    {
+      "title": "온라인 성경읽기 서비스 이용 안내",
+      "url": "https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq&wr_id=9"
+    },
+    {
+      "title": "저작권법 제28조 · 공표된 저작물의 인용",
+      "url": "https://www.law.go.kr/법령/저작권법/제28조"
+    },
+    {
+      "title": "저작권법 제35조의5 · 공정한 이용",
+      "url": "https://www.law.go.kr/법령/저작권법/제35조의5"
+    },
+    {
+      "title": "개역한글 요엘 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jol&chap=2"
+    },
+    {
+      "title": "개역한글 시편 16편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=16"
+    },
+    {
+      "title": "개역한글 시편 110편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=110"
+    },
+    {
+      "title": "개역한글 시편 69편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=69"
+    },
+    {
+      "title": "개역한글 시편 109편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=109"
+    },
+    {
+      "title": "개역한글 신명기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=18"
+    },
+    {
+      "title": "개역한글 레위기 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=23"
+    },
+    {
+      "title": "개역한글 창세기 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=22"
+    },
+    {
+      "title": "개역한글 시편 118편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=118"
+    },
+    {
+      "title": "개역한글 시편 2편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=2"
+    },
+    {
+      "title": "개역한글 신명기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=21"
+    },
+    {
+      "title": "개역한글 창세기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=12"
+    },
+    {
+      "title": "개역한글 창세기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=15"
+    },
+    {
+      "title": "개역한글 출애굽기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=1"
+    },
+    {
+      "title": "개역한글 출애굽기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=2"
+    },
+    {
+      "title": "개역한글 출애굽기 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=3"
+    },
+    {
+      "title": "개역한글 출애굽기 32장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=32"
+    },
+    {
+      "title": "개역한글 아모스 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=5"
+    },
+    {
+      "title": "개역한글 이사야 66장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=66"
+    },
+    {
+      "title": "개역한글 이사야 53장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=53"
+    },
+    {
+      "title": "개역한글 출애굽기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=18"
+    },
+    {
+      "title": "개역한글 사무엘상 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=3"
+    },
+    {
+      "title": "개역한글 사무엘상 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=13"
+    },
+    {
+      "title": "개역한글 시편 89편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=89"
+    },
+    {
+      "title": "개역한글 이사야 44장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=44"
+    },
+    {
+      "title": "개역한글 이사야 45장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=45"
+    },
+    {
+      "title": "개역한글 이사야 55장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=55"
+    },
+    {
+      "title": "개역한글 하박국 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hab&chap=1"
+    },
+    {
+      "title": "개역한글 이사야 49장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=49"
+    },
+    {
+      "title": "개역한글 시편 146편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=146"
+    },
+    {
+      "title": "개역한글 아모스 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=9"
+    },
+    {
+      "title": "개역한글 출애굽기 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=22"
+    },
+    {
+      "title": "개역한글 이사야 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=6"
+    },
+    {
+      "title": "개역한글 이사야 42장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=42"
+    },
+    {
+      "title": "개역한글 예레미야 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=1"
+    },
+    {
+      "title": "개역한글 에스겔 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=2"
+    },
+    {
+      "title": "개역한글 에스겔 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=4"
+    },
+    {
+      "title": "개역한글 민수기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=6"
+    },
+    {
+      "title": "개역한글 다니엘 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=12"
+    },
+    {
+      "title": "개역한글 요나 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jnh&chap=1"
+    },
+    {
+      "title": "개역한글 레위기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=17"
+    },
+    {
+      "title": "개역한글 시편 74편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=74"
+    },
+    {
+      "title": "개역한글 창세기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=18"
+    },
+    {
+      "title": "개역한글 창세기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=19"
+    },
+    {
+      "title": "개역한글 출애굽기 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=13"
+    },
+    {
+      "title": "개역한글 출애굽기 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=20"
+    },
+    {
+      "title": "개역한글 출애굽기 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=23"
+    },
+    {
+      "title": "개역한글 출애굽기 24장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=24"
+    },
+    {
+      "title": "개역한글 레위기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=12"
+    },
+    {
+      "title": "개역한글 레위기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=19"
+    },
+    {
+      "title": "개역한글 신명기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=6"
+    },
+    {
+      "title": "개역한글 신명기 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=8"
+    },
+    {
+      "title": "개역한글 신명기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=25"
+    },
+    {
+      "title": "개역한글 사무엘상 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=2"
+    },
+    {
+      "title": "개역한글 사무엘하 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2sa&chap=7"
+    },
+    {
+      "title": "개역한글 열왕기상 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=10"
+    },
+    {
+      "title": "개역한글 열왕기상 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=17"
+    },
+    {
+      "title": "개역한글 열왕기하 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ki&chap=5"
+    },
+    {
+      "title": "개역한글 시편 6편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=6"
+    },
+    {
+      "title": "개역한글 시편 22편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=22"
+    },
+    {
+      "title": "개역한글 시편 31편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=31"
+    },
+    {
+      "title": "개역한글 시편 91편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=91"
+    },
+    {
+      "title": "개역한글 이사야 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=5"
+    },
+    {
+      "title": "개역한글 이사야 35장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=35"
+    },
+    {
+      "title": "개역한글 이사야 40장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=40"
+    },
+    {
+      "title": "개역한글 이사야 56장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=56"
+    },
+    {
+      "title": "개역한글 이사야 58장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=58"
+    },
+    {
+      "title": "개역한글 이사야 61장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=61"
+    },
+    {
+      "title": "개역한글 예레미야 31장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=31"
+    },
+    {
+      "title": "개역한글 예레미야 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=7"
+    },
+    {
+      "title": "개역한글 에스겔 34장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=34"
+    },
+    {
+      "title": "개역한글 다니엘 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=7"
+    },
+    {
+      "title": "개역한글 호세아 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=6"
+    },
+    {
+      "title": "개역한글 호세아 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=10"
+    },
+    {
+      "title": "개역한글 요나 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jnh&chap=3"
+    },
+    {
+      "title": "개역한글 말라기 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=3"
+    },
+    {
+      "title": "개역한글 말라기 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=4"
+    },
+    {
+      "title": "개역한글 잠언 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=25"
+    },
+    {
+      "title": "개역한글 신명기 24장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=24"
+    },
+    {
+      "title": "개역한글 창세기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=2"
+    },
+    {
+      "title": "개역한글 창세기 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=4"
+    },
+    {
+      "title": "개역한글 창세기 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=5"
+    },
+    {
+      "title": "개역한글 창세기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=6"
+    },
+    {
+      "title": "개역한글 창세기 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=14"
+    },
+    {
+      "title": "개역한글 창세기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=21"
+    },
+    {
+      "title": "개역한글 창세기 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=27"
+    },
+    {
+      "title": "개역한글 창세기 47장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=47"
+    },
+    {
+      "title": "개역한글 창세기 48장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=48"
+    },
+    {
+      "title": "개역한글 창세기 50장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=50"
+    },
+    {
+      "title": "개역한글 출애굽기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=12"
+    },
+    {
+      "title": "개역한글 출애굽기 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=14"
+    },
+    {
+      "title": "개역한글 출애굽기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=19"
+    },
+    {
+      "title": "개역한글 출애굽기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=25"
+    },
+    {
+      "title": "개역한글 레위기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=16"
+    },
+    {
+      "title": "개역한글 민수기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=12"
+    },
+    {
+      "title": "개역한글 민수기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=19"
+    },
+    {
+      "title": "개역한글 신명기 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=4"
+    },
+    {
+      "title": "개역한글 신명기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=9"
+    },
+    {
+      "title": "개역한글 신명기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=17"
+    },
+    {
+      "title": "개역한글 신명기 29장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=29"
+    },
+    {
+      "title": "개역한글 신명기 31장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=31"
+    },
+    {
+      "title": "개역한글 신명기 32장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=32"
+    },
+    {
+      "title": "개역한글 여호수아 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jos&chap=6"
+    },
+    {
+      "title": "개역한글 잠언 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=3"
+    },
+    {
+      "title": "개역한글 잠언 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=4"
+    },
+    {
+      "title": "개역한글 이사야 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=8"
+    },
+    {
+      "title": "개역한글 이사야 26장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=26"
+    },
+    {
+      "title": "개역한글 호세아 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=14"
+    },
+    {
+      "title": "개역한글 하박국 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hab&chap=2"
+    },
+    {
+      "title": "개역한글 학개 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hag&chap=2"
+    },
+    {
+      "title": "개역한글 시편 8편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=8"
+    },
+    {
+      "title": "개역한글 시편 40편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=40"
+    },
+    {
+      "title": "개역한글 시편 45편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=45"
+    },
+    {
+      "title": "개역한글 시편 95편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=95"
+    },
+    {
+      "title": "개역한글 시편 97편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=97"
+    },
+    {
+      "title": "개역한글 시편 102편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=102"
+    },
+    {
+      "title": "개역한글 시편 104편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=104"
+    },
+    {
+      "title": "개역한글 창세기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=1"
+    },
+    {
+      "title": "개역한글 창세기 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=3"
+    },
+    {
+      "title": "개역한글 창세기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=17"
+    },
+    {
+      "title": "개역한글 창세기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=25"
+    },
+    {
+      "title": "개역한글 출애굽기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=9"
+    },
+    {
+      "title": "개역한글 출애굽기 33장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=33"
+    },
+    {
+      "title": "개역한글 레위기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=18"
+    },
+    {
+      "title": "개역한글 민수기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=15"
+    },
+    {
+      "title": "개역한글 민수기 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=23"
+    },
+    {
+      "title": "개역한글 신명기 30장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=30"
+    },
+    {
+      "title": "개역한글 열왕기상 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=19"
+    },
+    {
+      "title": "개역한글 욥기 41장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=41"
+    },
+    {
+      "title": "개역한글 시편 5편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=5"
+    },
+    {
+      "title": "개역한글 시편 10편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=10"
+    },
+    {
+      "title": "개역한글 시편 14편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=14"
+    },
+    {
+      "title": "개역한글 시편 18편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=18"
+    },
+    {
+      "title": "개역한글 시편 19편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=19"
+    },
+    {
+      "title": "개역한글 시편 32편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=32"
+    },
+    {
+      "title": "개역한글 시편 36편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=36"
+    },
+    {
+      "title": "개역한글 시편 44편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=44"
+    },
+    {
+      "title": "개역한글 시편 51편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=51"
+    },
+    {
+      "title": "개역한글 시편 62편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=62"
+    },
+    {
+      "title": "개역한글 시편 106편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=106"
+    },
+    {
+      "title": "개역한글 시편 116편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=116"
+    },
+    {
+      "title": "개역한글 시편 117편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=117"
+    },
+    {
+      "title": "개역한글 시편 140편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=140"
+    },
+    {
+      "title": "개역한글 시편 143편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=143"
+    },
+    {
+      "title": "개역한글 이사야 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=1"
+    },
+    {
+      "title": "개역한글 이사야 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=10"
+    },
+    {
+      "title": "개역한글 이사야 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=11"
+    },
+    {
+      "title": "개역한글 이사야 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=27"
+    },
+    {
+      "title": "개역한글 이사야 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=28"
+    },
+    {
+      "title": "개역한글 이사야 29장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=29"
+    },
+    {
+      "title": "개역한글 이사야 50장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=50"
+    },
+    {
+      "title": "개역한글 이사야 51장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=51"
+    },
+    {
+      "title": "개역한글 이사야 52장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=52"
+    },
+    {
+      "title": "개역한글 이사야 59장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=59"
+    },
+    {
+      "title": "개역한글 이사야 65장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=65"
+    },
+    {
+      "title": "개역한글 예레미야 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=18"
+    },
+    {
+      "title": "개역한글 에스겔 36장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=36"
+    },
+    {
+      "title": "개역한글 호세아 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=2"
+    },
+    {
+      "title": "개역한글 말라기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=1"
+    },
+    {
+      "title": "개역한글 호세아 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=1"
+    },
+    {
+      "title": "개역한글 창세기 32장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=32"
+    },
+    {
+      "title": "개역한글 출애굽기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=16"
+    },
+    {
+      "title": "개역한글 출애굽기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=17"
+    },
+    {
+      "title": "개역한글 레위기 24장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=24"
+    },
+    {
+      "title": "개역한글 민수기 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=11"
+    },
+    {
+      "title": "개역한글 민수기 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=14"
+    },
+    {
+      "title": "개역한글 민수기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=16"
+    },
+    {
+      "title": "개역한글 민수기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=18"
+    },
+    {
+      "title": "개역한글 민수기 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=20"
+    },
+    {
+      "title": "개역한글 민수기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=21"
+    },
+    {
+      "title": "개역한글 민수기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=25"
+    },
+    {
+      "title": "개역한글 신명기 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=10"
+    },
+    {
+      "title": "개역한글 신명기 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=20"
+    },
+    {
+      "title": "개역한글 욥기 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=5"
+    },
+    {
+      "title": "개역한글 시편 24편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=24"
+    },
+    {
+      "title": "개역한글 시편 33편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=33"
+    },
+    {
+      "title": "개역한글 시편 78편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=78"
+    },
+    {
+      "title": "개역한글 시편 79편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=79"
+    },
+    {
+      "title": "개역한글 시편 94편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=94"
+    },
+    {
+      "title": "개역한글 시편 114편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=114"
+    },
+    {
+      "title": "개역한글 시편 115편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=115"
+    },
+    {
+      "title": "개역한글 시편 150편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=150"
+    },
+    {
+      "title": "개역한글 이사야 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=19"
+    },
+    {
+      "title": "개역한글 이사야 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=22"
+    },
+    {
+      "title": "개역한글 이사야 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=25"
+    },
+    {
+      "title": "개역한글 이사야 33장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=33"
+    },
+    {
+      "title": "개역한글 이사야 64장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=64"
+    },
+    {
+      "title": "개역한글 예레미야 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=4"
+    },
+    {
+      "title": "개역한글 예레미야 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=9"
+    },
+    {
+      "title": "개역한글 예레미야 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=20"
+    },
+    {
+      "title": "개역한글 예레미야 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=23"
+    },
+    {
+      "title": "개역한글 다니엘 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=2"
+    },
+    {
+      "title": "개역한글 호세아 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=13"
+    },
+    {
+      "title": "개역한글 아모스 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=4"
+    },
+    {
+      "title": "개역한글 스가랴 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=8"
+    },
+    {
+      "title": "개역한글 스가랴 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=9"
+    },
+    {
+      "title": "개역한글 스가랴 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=12"
+    },
+    {
+      "title": "개역한글 스가랴 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=13"
+    },
+    {
+      "title": "개역한글 말라기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=2"
+    },
+    {
+      "title": "개역한글 레위기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=6"
+    },
+    {
+      "title": "개역한글 레위기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=7"
+    },
+    {
+      "title": "개역한글 출애굽기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=21"
+    },
+    {
+      "title": "개역한글 신명기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=15"
+    },
+    {
+      "title": "개역한글 신명기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=19"
+    },
+    {
+      "title": "개역한글 사무엘상 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=21"
+    },
+    {
+      "title": "개역한글 사무엘하 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2sa&chap=5"
+    },
+    {
+      "title": "개역한글 시편 37편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=37"
+    },
+    {
+      "title": "개역한글 시편 42편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=42"
+    },
+    {
+      "title": "개역한글 시편 48편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=48"
+    },
+    {
+      "title": "개역한글 이사야 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=7"
+    },
+    {
+      "title": "개역한글 이사야 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=9"
+    },
+    {
+      "title": "개역한글 이사야 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=13"
+    },
+    {
+      "title": "개역한글 이사야 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=14"
+    },
+    {
+      "title": "개역한글 이사야 34장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=34"
+    },
+    {
+      "title": "개역한글 이사야 62장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=62"
+    },
+    {
+      "title": "개역한글 예레미야 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=6"
+    },
+    {
+      "title": "개역한글 다니엘 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=9"
+    },
+    {
+      "title": "개역한글 다니엘 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=11"
+    },
+    {
+      "title": "개역한글 호세아 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=11"
+    },
+    {
+      "title": "개역한글 미가 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mic&chap=5"
+    },
+    {
+      "title": "개역한글 미가 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mic&chap=7"
+    },
+    {
+      "title": "개역한글 요나 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jnh&chap=2"
+    },
+    {
+      "title": "개역한글 스가랴 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=11"
+    },
+    {
+      "title": "개역한글 레위기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=2"
+    },
+    {
+      "title": "개역한글 열왕기하 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ki&chap=1"
+    },
+    {
+      "title": "개역한글 요엘 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jol&chap=3"
+    },
+    {
+      "title": "개역한글 시편 107편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=107"
+    },
+    {
+      "title": "개역한글 시편 41편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=41"
+    },
+    {
+      "title": "개역한글 욥기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=9"
+    },
+    {
+      "title": "개역한글 사무엘상 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=22"
+    },
+    {
+      "title": "개역한글 에스겔 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=17"
+    },
+    {
+      "title": "개역한글 민수기 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=27"
+    },
+    {
+      "title": "개역한글 아모스 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=8"
+    },
+    {
+      "title": "개역한글 이사야 43장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=43"
+    },
+    {
+      "title": "개역한글 에스겔 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=12"
+    },
+    {
+      "title": "개역한글 창세기 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=28"
+    },
+    {
+      "title": "개역한글 시편 82편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=82"
+    },
+    {
+      "title": "개역한글 이사야 54장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=54"
+    },
+    {
+      "title": "개역한글 시편 35편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=35"
+    },
+    {
+      "title": "개역한글 시편 25편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=25"
+    },
+    {
+      "title": "개역한글 에스겔 37장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=37"
+    },
+    {
+      "title": "개역한글 이사야 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=2"
+    },
+    {
+      "title": "개역한글 에스겔 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=28"
+    },
+    {
+      "title": "개역한글 창세기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=9"
+    },
+    {
+      "title": "개역한글 출애굽기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=7"
+    },
+    {
+      "title": "개역한글 신명기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=7"
+    },
+    {
+      "title": "개역한글 신명기 33장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=33"
+    },
+    {
+      "title": "개역한글 시편 49편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=49"
+    },
+    {
+      "title": "개역한글 시편 130편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=130"
+    },
+    {
+      "title": "개역한글 잠언 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=28"
+    },
+    {
+      "title": "개역한글 에스겔 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=18"
+    },
+    {
+      "title": "개역한글 예레미야 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=11"
+    },
+    {
+      "title": "개역한글 창세기 49장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=49"
+    },
+    {
+      "title": "개역한글 출애굽기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=15"
+    },
+    {
+      "title": "개역한글 에스겔 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=1"
+    },
+    {
+      "title": "개역한글 에스겔 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=3"
+    },
+    {
+      "title": "개역한글 에스겔 38장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=38"
+    },
+    {
+      "title": "개역한글 에스겔 39장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=39"
+    },
+    {
+      "title": "개역한글 에스겔 47장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=47"
+    },
+    {
+      "title": "개역한글 스가랴 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=4"
+    },
+    {
+      "title": "개역한글 스가랴 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=6"
+    },
+    {
+      "title": "개역한글 스가랴 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=14"
+    },
+    {
+      "title": "개역한글 이사야 60장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=60"
+    },
+    {
+      "title": "개역한글 이사야 63장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=63"
+    },
+    {
+      "title": "개역한글 다니엘 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=10"
+    },
+    {
+      "title": "개역한글 예레미야 51장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=51"
+    },
+    {
+      "title": "개역한글 시편 119편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=119"
+    },
+    {
+      "title": "개역한글 출애굽기 34장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=34"
+    },
+    {
+      "title": "개역한글 레위기 26장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=26"
+    },
+    {
+      "title": "개역한글 신명기 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=5"
+    },
+    {
+      "title": "개역한글 신명기 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=27"
+    },
+    {
+      "title": "개역한글 시편 68편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=68"
+    },
+    {
+      "title": "개역한글 시편 4편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=4"
+    },
+    {
+      "title": "개역한글 시편 112편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=112"
+    },
+    {
+      "title": "개역한글 욥기 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=13"
+    },
+    {
+      "title": "개역한글 창세기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=16"
+    },
+    {
+      "title": "개역한글 이사야 57장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=57"
+    },
+    {
+      "title": "개역한글 창세기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=7"
+    },
+    {
+      "title": "개역한글 여호수아 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jos&chap=2"
+    },
+    {
+      "title": "개역한글 민수기 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=22"
+    },
+    {
+      "title": "개역한글 열왕기상 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=18"
+    },
+    {
+      "title": "개역한글 욥기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=1"
+    },
+    {
+      "title": "개역한글 시편 34편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=34"
+    },
+    {
+      "title": "개역한글 시편 90편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=90"
+    },
+    {
+      "title": "개역한글 잠언 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=10"
+    },
+    {
+      "title": "개역한글 잠언 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=11"
+    },
+    {
+      "title": "개역한글 잠언 26장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=26"
+    },
+    {
+      "title": "개역한글 스가랴 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=3"
+    },
+    {
+      "title": "개역한글 시편 80편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=80"
+    },
+    {
+      "title": "개역한글 시편 55편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=55"
+    },
+    {
+      "title": "개역한글 잠언 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=2"
+    },
+    {
+      "title": "마태복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=1"
+    },
+    {
+      "title": "마태복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=2"
+    },
+    {
+      "title": "마태복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=3"
+    },
+    {
+      "title": "마태복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=4"
+    },
+    {
+      "title": "마태복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=5"
+    },
+    {
+      "title": "마태복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=6"
+    },
+    {
+      "title": "마태복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=7"
+    },
+    {
+      "title": "마태복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=8"
+    },
+    {
+      "title": "마태복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=9"
+    },
+    {
+      "title": "마태복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=10"
+    },
+    {
+      "title": "마태복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=11"
+    },
+    {
+      "title": "마태복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=12"
+    },
+    {
+      "title": "마태복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=13"
+    },
+    {
+      "title": "마태복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=14"
+    },
+    {
+      "title": "마태복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=15"
+    },
+    {
+      "title": "마태복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=16"
+    },
+    {
+      "title": "마태복음 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=17"
+    },
+    {
+      "title": "마태복음 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=18"
+    },
+    {
+      "title": "마태복음 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=19"
+    },
+    {
+      "title": "마태복음 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=20"
+    },
+    {
+      "title": "마태복음 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=21"
+    },
+    {
+      "title": "마태복음 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=22"
+    },
+    {
+      "title": "마태복음 23장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=23"
+    },
+    {
+      "title": "마태복음 24장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=24"
+    },
+    {
+      "title": "마태복음 25장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=25"
+    },
+    {
+      "title": "마태복음 26장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=26"
+    },
+    {
+      "title": "마태복음 27장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=27"
+    },
+    {
+      "title": "마태복음 28장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=28"
+    },
+    {
+      "title": "마가복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=1"
+    },
+    {
+      "title": "마가복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=2"
+    },
+    {
+      "title": "마가복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=3"
+    },
+    {
+      "title": "마가복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=4"
+    },
+    {
+      "title": "마가복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=5"
+    },
+    {
+      "title": "마가복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=6"
+    },
+    {
+      "title": "마가복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=7"
+    },
+    {
+      "title": "마가복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=8"
+    },
+    {
+      "title": "마가복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=9"
+    },
+    {
+      "title": "마가복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=10"
+    },
+    {
+      "title": "마가복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=11"
+    },
+    {
+      "title": "마가복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=12"
+    },
+    {
+      "title": "마가복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=13"
+    },
+    {
+      "title": "마가복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=14"
+    },
+    {
+      "title": "마가복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=15"
+    },
+    {
+      "title": "마가복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=16"
+    },
+    {
+      "title": "누가복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=1"
+    },
+    {
+      "title": "누가복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=2"
+    },
+    {
+      "title": "누가복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=3"
+    },
+    {
+      "title": "누가복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=4"
+    },
+    {
+      "title": "누가복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=5"
+    },
+    {
+      "title": "누가복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=6"
+    },
+    {
+      "title": "누가복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=7"
+    },
+    {
+      "title": "누가복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=8"
+    },
+    {
+      "title": "누가복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=9"
+    },
+    {
+      "title": "누가복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=10"
+    },
+    {
+      "title": "누가복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=11"
+    },
+    {
+      "title": "누가복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=12"
+    },
+    {
+      "title": "누가복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=13"
+    },
+    {
+      "title": "누가복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=14"
+    },
+    {
+      "title": "누가복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=15"
+    },
+    {
+      "title": "누가복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=16"
+    },
+    {
+      "title": "누가복음 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=17"
+    },
+    {
+      "title": "누가복음 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=18"
+    },
+    {
+      "title": "누가복음 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=19"
+    },
+    {
+      "title": "누가복음 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=20"
+    },
+    {
+      "title": "누가복음 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=21"
+    },
+    {
+      "title": "누가복음 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=22"
+    },
+    {
+      "title": "누가복음 23장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=23"
+    },
+    {
+      "title": "누가복음 24장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=24"
+    },
+    {
+      "title": "요한복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=1"
+    },
+    {
+      "title": "요한복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=2"
+    },
+    {
+      "title": "요한복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=3"
+    },
+    {
+      "title": "요한복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=4"
+    },
+    {
+      "title": "요한복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=5"
+    },
+    {
+      "title": "요한복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=6"
+    },
+    {
+      "title": "요한복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=7"
+    },
+    {
+      "title": "요한복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=8"
+    },
+    {
+      "title": "요한복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=9"
+    },
+    {
+      "title": "요한복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=10"
+    },
+    {
+      "title": "요한복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=11"
+    },
+    {
+      "title": "요한복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=12"
+    },
+    {
+      "title": "요한복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=13"
+    },
+    {
+      "title": "요한복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=14"
+    },
+    {
+      "title": "요한복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=15"
+    },
+    {
+      "title": "요한복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=16"
+    },
+    {
+      "title": "요한복음 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=17"
+    },
+    {
+      "title": "요한복음 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=18"
+    },
+    {
+      "title": "요한복음 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=19"
+    },
+    {
+      "title": "요한복음 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=20"
+    },
+    {
+      "title": "요한복음 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=21"
+    },
+    {
+      "title": "사도행전 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=1"
+    },
+    {
+      "title": "사도행전 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=3"
+    },
+    {
+      "title": "사도행전 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=4"
+    },
+    {
+      "title": "사도행전 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=5"
+    },
+    {
+      "title": "사도행전 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=6"
+    },
+    {
+      "title": "사도행전 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=7"
+    },
+    {
+      "title": "사도행전 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=8"
+    },
+    {
+      "title": "사도행전 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=9"
+    },
+    {
+      "title": "사도행전 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=10"
+    },
+    {
+      "title": "사도행전 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=11"
+    },
+    {
+      "title": "사도행전 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=12"
+    },
+    {
+      "title": "사도행전 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=13"
+    },
+    {
+      "title": "사도행전 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=14"
+    },
+    {
+      "title": "사도행전 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=15"
+    },
+    {
+      "title": "사도행전 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=16"
+    },
+    {
+      "title": "사도행전 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=17"
+    },
+    {
+      "title": "사도행전 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=18"
+    },
+    {
+      "title": "사도행전 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=19"
+    },
+    {
+      "title": "사도행전 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=20"
+    },
+    {
+      "title": "사도행전 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=21"
+    },
+    {
+      "title": "사도행전 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=22"
+    },
+    {
+      "title": "사도행전 23장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=23"
+    },
+    {
+      "title": "사도행전 24장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=24"
+    },
+    {
+      "title": "사도행전 25장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=25"
+    },
+    {
+      "title": "사도행전 26장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=26"
+    },
+    {
+      "title": "사도행전 27장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=27"
+    },
+    {
+      "title": "사도행전 28장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=28"
+    },
+    {
+      "title": "로마서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=1"
+    },
+    {
+      "title": "로마서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=2"
+    },
+    {
+      "title": "로마서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=3"
+    },
+    {
+      "title": "로마서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=4"
+    },
+    {
+      "title": "로마서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=5"
+    },
+    {
+      "title": "로마서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=6"
+    },
+    {
+      "title": "로마서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=7"
+    },
+    {
+      "title": "로마서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=8"
+    },
+    {
+      "title": "로마서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=9"
+    },
+    {
+      "title": "로마서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=10"
+    },
+    {
+      "title": "로마서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=11"
+    },
+    {
+      "title": "로마서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=12"
+    },
+    {
+      "title": "로마서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=13"
+    },
+    {
+      "title": "로마서 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=14"
+    },
+    {
+      "title": "로마서 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=15"
+    },
+    {
+      "title": "로마서 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=16"
+    },
+    {
+      "title": "고린도전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=1"
+    },
+    {
+      "title": "고린도전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=2"
+    },
+    {
+      "title": "고린도전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=3"
+    },
+    {
+      "title": "고린도전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=4"
+    },
+    {
+      "title": "고린도전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=5"
+    },
+    {
+      "title": "고린도전서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=6"
+    },
+    {
+      "title": "고린도전서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=7"
+    },
+    {
+      "title": "고린도전서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=8"
+    },
+    {
+      "title": "고린도전서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=9"
+    },
+    {
+      "title": "고린도전서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=10"
+    },
+    {
+      "title": "고린도전서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=11"
+    },
+    {
+      "title": "고린도전서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=12"
+    },
+    {
+      "title": "고린도전서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=13"
+    },
+    {
+      "title": "고린도전서 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=14"
+    },
+    {
+      "title": "고린도전서 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=15"
+    },
+    {
+      "title": "고린도전서 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=16"
+    },
+    {
+      "title": "고린도후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=1"
+    },
+    {
+      "title": "고린도후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=2"
+    },
+    {
+      "title": "고린도후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=3"
+    },
+    {
+      "title": "고린도후서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=4"
+    },
+    {
+      "title": "고린도후서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=5"
+    },
+    {
+      "title": "고린도후서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=6"
+    },
+    {
+      "title": "고린도후서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=7"
+    },
+    {
+      "title": "고린도후서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=8"
+    },
+    {
+      "title": "고린도후서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=9"
+    },
+    {
+      "title": "고린도후서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=10"
+    },
+    {
+      "title": "고린도후서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=11"
+    },
+    {
+      "title": "고린도후서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=12"
+    },
+    {
+      "title": "고린도후서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=13"
+    },
+    {
+      "title": "갈라디아서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=1"
+    },
+    {
+      "title": "갈라디아서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=2"
+    },
+    {
+      "title": "갈라디아서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=3"
+    },
+    {
+      "title": "갈라디아서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=4"
+    },
+    {
+      "title": "갈라디아서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=5"
+    },
+    {
+      "title": "갈라디아서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=6"
+    },
+    {
+      "title": "에베소서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=1"
+    },
+    {
+      "title": "에베소서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=2"
+    },
+    {
+      "title": "에베소서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=3"
+    },
+    {
+      "title": "에베소서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=4"
+    },
+    {
+      "title": "에베소서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=5"
+    },
+    {
+      "title": "에베소서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=6"
+    },
+    {
+      "title": "빌립보서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=1"
+    },
+    {
+      "title": "빌립보서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=2"
+    },
+    {
+      "title": "빌립보서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=3"
+    },
+    {
+      "title": "빌립보서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=4"
+    },
+    {
+      "title": "골로새서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=1"
+    },
+    {
+      "title": "골로새서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=2"
+    },
+    {
+      "title": "골로새서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=3"
+    },
+    {
+      "title": "골로새서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=4"
+    },
+    {
+      "title": "데살로니가전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=1"
+    },
+    {
+      "title": "데살로니가전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=2"
+    },
+    {
+      "title": "데살로니가전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=3"
+    },
+    {
+      "title": "데살로니가전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=4"
+    },
+    {
+      "title": "데살로니가전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=5"
+    },
+    {
+      "title": "데살로니가후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2th&chap=1"
+    },
+    {
+      "title": "데살로니가후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2th&chap=2"
+    },
+    {
+      "title": "데살로니가후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2th&chap=3"
+    },
+    {
+      "title": "디모데전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=1"
+    },
+    {
+      "title": "디모데전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=2"
+    },
+    {
+      "title": "디모데전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=3"
+    },
+    {
+      "title": "디모데전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=4"
+    },
+    {
+      "title": "디모데전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=5"
+    },
+    {
+      "title": "디모데전서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=6"
+    },
+    {
+      "title": "디모데후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=1"
+    },
+    {
+      "title": "디모데후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=2"
+    },
+    {
+      "title": "디모데후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=3"
+    },
+    {
+      "title": "디모데후서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=4"
+    },
+    {
+      "title": "디도서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=tit&chap=1"
+    },
+    {
+      "title": "디도서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=tit&chap=2"
+    },
+    {
+      "title": "디도서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=tit&chap=3"
+    },
+    {
+      "title": "빌레몬서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=phm&chap=1"
+    },
+    {
+      "title": "히브리서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=1"
+    },
+    {
+      "title": "히브리서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=2"
+    },
+    {
+      "title": "히브리서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=3"
+    },
+    {
+      "title": "히브리서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=4"
+    },
+    {
+      "title": "히브리서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=5"
+    },
+    {
+      "title": "히브리서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=6"
+    },
+    {
+      "title": "히브리서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=7"
+    },
+    {
+      "title": "히브리서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=8"
+    },
+    {
+      "title": "히브리서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=9"
+    },
+    {
+      "title": "히브리서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=10"
+    },
+    {
+      "title": "히브리서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=11"
+    },
+    {
+      "title": "히브리서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=12"
+    },
+    {
+      "title": "히브리서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=13"
+    },
+    {
+      "title": "야고보서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=1"
+    },
+    {
+      "title": "야고보서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=2"
+    },
+    {
+      "title": "야고보서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=3"
+    },
+    {
+      "title": "야고보서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=4"
+    },
+    {
+      "title": "야고보서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=5"
+    },
+    {
+      "title": "베드로전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=1"
+    },
+    {
+      "title": "베드로전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=2"
+    },
+    {
+      "title": "베드로전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=3"
+    },
+    {
+      "title": "베드로전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=4"
+    },
+    {
+      "title": "베드로전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=5"
+    },
+    {
+      "title": "베드로후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2pe&chap=1"
+    },
+    {
+      "title": "베드로후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2pe&chap=2"
+    },
+    {
+      "title": "베드로후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2pe&chap=3"
+    },
+    {
+      "title": "요한일서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=1"
+    },
+    {
+      "title": "요한일서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=2"
+    },
+    {
+      "title": "요한일서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=3"
+    },
+    {
+      "title": "요한일서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=4"
+    },
+    {
+      "title": "요한일서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=5"
+    },
+    {
+      "title": "요한이서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2jn&chap=1"
+    },
+    {
+      "title": "요한삼서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=3jn&chap=1"
+    },
+    {
+      "title": "유다서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jud&chap=1"
+    },
+    {
+      "title": "요한계시록 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=1"
+    },
+    {
+      "title": "요한계시록 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=2"
+    },
+    {
+      "title": "요한계시록 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=3"
+    },
+    {
+      "title": "요한계시록 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=4"
+    },
+    {
+      "title": "요한계시록 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=5"
+    },
+    {
+      "title": "요한계시록 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=6"
+    },
+    {
+      "title": "요한계시록 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=7"
+    },
+    {
+      "title": "요한계시록 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=8"
+    },
+    {
+      "title": "요한계시록 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=9"
+    },
+    {
+      "title": "요한계시록 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=10"
+    },
+    {
+      "title": "요한계시록 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=11"
+    },
+    {
+      "title": "요한계시록 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=12"
+    },
+    {
+      "title": "요한계시록 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=13"
+    },
+    {
+      "title": "요한계시록 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=14"
+    },
+    {
+      "title": "요한계시록 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=15"
+    },
+    {
+      "title": "요한계시록 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=16"
+    },
+    {
+      "title": "요한계시록 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=17"
+    },
+    {
+      "title": "요한계시록 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=18"
+    },
+    {
+      "title": "요한계시록 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=19"
+    },
+    {
+      "title": "요한계시록 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=20"
+    },
+    {
+      "title": "요한계시록 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=21"
+    },
+    {
+      "title": "요한계시록 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=22"
+    },
+    {
+      "title": "Swete 오경 인쇄본",
+      "url": "https://archive.org/details/theoldtestamenti00unknuoft"
+    }
+  ],
+  "nt_chapters": [
+    {
+      "ref": "Colossians 1",
+      "book": "Colossians",
+      "chapter": 1,
+      "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=1",
+      "source_sha256": "dec4b3623f17c979770fc94b3da23915a7d6490e200065371c0e9a028748c03b",
+      "verse_map_note": null,
+      "source_ranges": {},
+      "verses": [
+        {
+          "verse": 1,
+          "ko": "하나님의 뜻으로 말미암아 그리스도 예수의 사도 된 바울과 형제 디모데는",
+          "grc": "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ καὶ Τιμόθεος ὁ ἀδελφὸς",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 2,
+          "ko": "골로새에 있는 성도들 곧 그리스도 안에서 신실한 형제들에게 편지하노니 우리 아버지 하나님으로부터 은혜와 평강이 너희에게 있을찌어다",
+          "grc": "τοῖς ἐν Κολοσσαῖς ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν Χριστῷ· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 3,
+          "ko": "우리가 너희를 위하여 기도할 때마다 하나님 곧 우리 주 예수 그리스도의 아버지께 감사하노라",
+          "grc": "Εὐχαριστοῦμεν τῷ θεῷ πατρὶ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ πάντοτε περὶ ὑμῶν προσευχόμενοι,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 4,
+          "ko": "이는 그리스도 예수 안에 너희의 믿음과 모든 성도에 대한 사랑을 들음이요",
+          "grc": "ἀκούσαντες τὴν πίστιν ὑμῶν ἐν Χριστῷ Ἰησοῦ καὶ τὴν ἀγάπην ἣν ἔχετε εἰς πάντας τοὺς ἁγίους",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 5,
+          "ko": "너희를 위하여 하늘에 쌓아둔 소망을 인함이니 곧 너희가 전에 복음 진리의 말씀을 들은 것이라",
+          "grc": "διὰ τὴν ἐλπίδα τὴν ἀποκειμένην ὑμῖν ἐν τοῖς οὐρανοῖς, ἣν προηκούσατε ἐν τῷ λόγῳ τῆς ἀληθείας τοῦ εὐαγγελίου",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 6,
+          "ko": "이 복음이 이미 너희에게 이르매 너희가 듣고 참으로 하나님의 은혜를 깨달은 날부터 너희 중에서와 같이 또한 온 천하에서도 열매를 맺어 자라는도다",
+          "grc": "τοῦ παρόντος εἰς ὑμᾶς, καθὼς καὶ ἐν παντὶ τῷ κόσμῳ ἐστὶν καρποφορούμενον καὶ αὐξανόμενον καθὼς καὶ ἐν ὑμῖν, ἀφ’ ἧς ἡμέρας ἠκούσατε καὶ ἐπέγνωτε τὴν χάριν τοῦ θεοῦ ἐν ἀληθείᾳ·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 7,
+          "ko": "이와 같이 우리와 함께 종된 사랑하는 에바브라에게 너희가 배웠나니 그는 너희를 위하여 그리스도의 신실한 일군이요",
+          "grc": "καθὼς ἐμάθετε ἀπὸ Ἐπαφρᾶ τοῦ ἀγαπητοῦ συνδούλου ἡμῶν, ὅς ἐστιν πιστὸς ὑπὲρ ἡμῶν διάκονος τοῦ Χριστοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 8,
+          "ko": "성령 안에서 너희 사랑을 우리에게 고한 자니라",
+          "grc": "ὁ καὶ δηλώσας ἡμῖν τὴν ὑμῶν ἀγάπην ἐν πνεύματι.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 9,
+          "ko": "이로써 우리도 듣던 날부터 너희를 위하여 기도하기를 그치지 아니하고 구하노니 너희로 하여금 모든 신령한 지혜와 총명에 하나님의 뜻을 아는 것으로 채우게 하시고",
+          "grc": "Διὰ τοῦτο καὶ ἡμεῖς, ἀφ’ ἧς ἡμέρας ἠκούσαμεν, οὐ παυόμεθα ὑπὲρ ὑμῶν προσευχόμενοι καὶ αἰτούμενοι ἵνα πληρωθῆτε τὴν ἐπίγνωσιν τοῦ θελήματος αὐτοῦ ἐν πάσῃ σοφίᾳ καὶ συνέσει πνευματικῇ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 10,
+          "ko": "주께 합당히 행하여 범사에 기쁘시게 하고 모든 선한 일에 열매를 맺게 하시며 하나님을 아는 것에 자라게 하시고",
+          "grc": "περιπατῆσαι ἀξίως τοῦ κυρίου εἰς πᾶσαν ἀρεσκείαν ἐν παντὶ ἔργῳ ἀγαθῷ καρποφοροῦντες καὶ αὐξανόμενοι τῇ ἐπιγνώσει τοῦ θεοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 11,
+          "ko": "그 영광의 힘을 좇아 모든 능력으로 능하게 하시며 기쁨으로 모든 견딤과 오래 참음에 이르게 하시고",
+          "grc": "ἐν πάσῃ δυνάμει δυναμούμενοι κατὰ τὸ κράτος τῆς δόξης αὐτοῦ εἰς πᾶσαν ὑπομονὴν καὶ μακροθυμίαν μετὰ χαρᾶς,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 12,
+          "ko": "우리로 하여금 빛 가운데서 성도의 기업의 부분을 얻기에 합당하게 하신 아버지께 감사하게 하시기를 원하노라",
+          "grc": "εὐχαριστοῦντες τῷ πατρὶ τῷ ἱκανώσαντι ὑμᾶς εἰς τὴν μερίδα τοῦ κλήρου τῶν ἁγίων ἐν τῷ φωτί,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 13,
+          "ko": "그가 우리를 흑암의 권세에서 건져내사 그의 사랑의 아들의 나라로 옮기셨으니",
+          "grc": "ὃς ἐρρύσατο ἡμᾶς ἐκ τῆς ἐξουσίας τοῦ σκότους καὶ μετέστησεν εἰς τὴν βασιλείαν τοῦ υἱοῦ τῆς ἀγάπης αὐτοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 14,
+          "ko": "그 아들 안에서 우리가 구속 곧 죄 사함을 얻었도다",
+          "grc": "ἐν ᾧ ἔχομεν τὴν ἀπολύτρωσιν, τὴν ἄφεσιν τῶν ἁμαρτιῶν·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 15,
+          "ko": "그는 보이지 아니하시는 하나님의 형상이요 모든 창조물보다 먼저 나신 자니",
+          "grc": "ὅς ἐστιν εἰκὼν τοῦ θεοῦ τοῦ ἀοράτου, πρωτότοκος πάσης κτίσεως,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 16,
+          "ko": "만물이 그에게 창조되되 하늘과 땅에서 보이는 것들과 보이지 않는 것들과 혹은 보좌들이나 주관들이나 정사들이나 권세들이나 만물이 다 그로 말미암고 그를 위하여 창조되었고",
+          "grc": "ὅτι ἐν αὐτῷ ἐκτίσθη τὰ πάντα ἐν τοῖς οὐρανοῖς καὶ ἐπὶ τῆς γῆς, τὰ ὁρατὰ καὶ τὰ ἀόρατα, εἴτε θρόνοι εἴτε κυριότητες εἴτε ἀρχαὶ εἴτε ἐξουσίαι· τὰ πάντα δι’ αὐτοῦ καὶ εἰς αὐτὸν ἔκτισται·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 17,
+          "ko": "또한 그가 만물보다 먼저 계시고 만물이 그 안에 함께 섰느니라",
+          "grc": "καὶ αὐτός ἐστιν πρὸ πάντων καὶ τὰ πάντα ἐν αὐτῷ συνέστηκεν,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 18,
+          "ko": "그는 몸인 교회의 머리라 그가 근본이요 죽은 자들 가운데서 먼저 나신 자니 이는 친히 만물의 으뜸이 되려 하심이요",
+          "grc": "καὶ αὐτός ἐστιν ἡ κεφαλὴ τοῦ σώματος τῆς ἐκκλησίας· ὅς ἐστιν ἀρχή, πρωτότοκος ἐκ τῶν νεκρῶν, ἵνα γένηται ἐν πᾶσιν αὐτὸς πρωτεύων,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 19,
+          "ko": "아버지께서는 모든 충만으로 예수 안에 거하게 하시고",
+          "grc": "ὅτι ἐν αὐτῷ εὐδόκησεν πᾶν τὸ πλήρωμα κατοικῆσαι",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 20,
+          "ko": "그의 십자가의 피로 화평을 이루사 만물 곧 땅에 있는 것들이나 하늘에 있는 것들을 그로 말미암아 자기와 화목케 되기를 기뻐하심이라",
+          "grc": "καὶ δι’ αὐτοῦ ἀποκαταλλάξαι τὰ πάντα εἰς αὐτόν, εἰρηνοποιήσας διὰ τοῦ αἵματος τοῦ σταυροῦ αὐτοῦ, [δι’ αὐτοῦ] εἴτε τὰ ἐπὶ τῆς γῆς εἴτε τὰ ἐν τοῖς οὐρανοῖς·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 21,
+          "ko": "전에 악한 행실로 멀리 떠나 마음으로 원수가 되었던 너희를",
+          "grc": "καὶ ὑμᾶς ποτε ὄντας ἀπηλλοτριωμένους καὶ ἐχθροὺς τῇ διανοίᾳ ἐν τοῖς ἔργοις τοῖς πονηροῖς—",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 22,
+          "ko": "이제는 그의 육체의 죽음으로 말미암아 화목케 하사 너희를 거룩하고 흠 없고 책망할 것이 없는 자로 그 앞에 세우고자 하셨으니",
+          "grc": "νυνὶ δὲ ἀποκατηλλάγητε ἐν τῷ σώματι τῆς σαρκὸς αὐτοῦ διὰ τοῦ θανάτου— παραστῆσαι ὑμᾶς ἁγίους καὶ ἀμώμους καὶ ἀνεγκλήτους κατενώπιον αὐτοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 23,
+          "ko": "만일 너희가 믿음에 거하고 터 위에 굳게 서서 너희 들은바 복음의 소망에서 흔들리지 아니하면 그리하리라 이 복음은 천하 만민에게 전파된 바요 나 바울은 이 복음의 일군이 되었노라",
+          "grc": "εἴ γε ἐπιμένετε τῇ πίστει τεθεμελιωμένοι καὶ ἑδραῖοι καὶ μὴ μετακινούμενοι ἀπὸ τῆς ἐλπίδος τοῦ εὐαγγελίου οὗ ἠκούσατε, τοῦ κηρυχθέντος ἐν πάσῃ κτίσει τῇ ὑπὸ τὸν οὐρανόν, οὗ ἐγενόμην ἐγὼ Παῦλος διάκονος.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 24,
+          "ko": "내가 이제 너희를 위하여 받는 괴로움을 기뻐하고 그리스도의 남은 고난을 그의 몸된 교회를 위하여 내 육체에 채우노라",
+          "grc": "Νῦν χαίρω ἐν τοῖς παθήμασιν ὑπὲρ ὑμῶν, καὶ ἀνταναπληρῶ τὰ ὑστερήματα τῶν θλίψεων τοῦ Χριστοῦ ἐν τῇ σαρκί μου ὑπὲρ τοῦ σώματος αὐτοῦ, ὅ ἐστιν ἡ ἐκκλησία,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 25,
+          "ko": "내가 교회 일군 된 것은 하나님이 너희를 위하여 내게 주신 경륜을 따라 하나님의 말씀을 이루려 함이니라",
+          "grc": "ἧς ἐγενόμην ἐγὼ διάκονος κατὰ τὴν οἰκονομίαν τοῦ θεοῦ τὴν δοθεῖσάν μοι εἰς ὑμᾶς πληρῶσαι τὸν λόγον τοῦ θεοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 26,
+          "ko": "이 비밀은 만세와 만대로부터 옴으로 감취었던 것인데 이제는 그의 성도들에게 나타났고",
+          "grc": "τὸ μυστήριον τὸ ἀποκεκρυμμένον ἀπὸ τῶν αἰώνων καὶ ἀπὸ τῶν γενεῶν,— νῦν δὲ ἐφανερώθη τοῖς ἁγίοις αὐτοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 27,
+          "ko": "하나님이 그들로 하여금 이 비밀의 영광이 이방인 가운데 어떻게 풍성한 것을 알게 하려하심이라 이 비밀은 너희 안에 계신 그리스도시니 곧 영광의 소망이니라",
+          "grc": "οἷς ἠθέλησεν ὁ θεὸς γνωρίσαι τί τὸ πλοῦτος τῆς δόξης τοῦ μυστηρίου τούτου ἐν τοῖς ἔθνεσιν, ὅ ἐστιν Χριστὸς ἐν ὑμῖν, ἡ ἐλπὶς τῆς δόξης·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 28,
+          "ko": "우리가 그를 전파하여 각 사람을 권하고 모든 지혜로 각 사람을 가르침은 각 사람을 그리스도 안에서 완전한 자로 세우려 함이니",
+          "grc": "ὃν ἡμεῖς καταγγέλλομεν νουθετοῦντες πάντα ἄνθρωπον καὶ διδάσκοντες πάντα ἄνθρωπον ἐν πάσῃ σοφίᾳ, ἵνα παραστήσωμεν πάντα ἄνθρωπον τέλειον ἐν Χριστῷ·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 29,
+          "ko": "이를 위하여 나도 내 속에서 능력으로 역사하시는 이의 역사를 따라 힘을 다하여 수고하노라",
+          "grc": "εἰς ὃ καὶ κοπιῶ ἀγωνιζόμενος κατὰ τὴν ἐνέργειαν αὐτοῦ τὴν ἐνεργουμένην ἐν ἐμοὶ ἐν δυνάμει.",
+          "ko_status": "present",
+          "grc_status": "present"
+        }
+      ]
+    },
+    {
+      "ref": "Colossians 2",
+      "book": "Colossians",
+      "chapter": 2,
+      "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=2",
+      "source_sha256": "34151c339521223b0dfcea3f7d18fc9bfdc831cba1a0b3257d1d105e7d03876b",
+      "verse_map_note": null,
+      "source_ranges": {},
+      "verses": [
+        {
+          "verse": 1,
+          "ko": "내가 너희와 라오디게아에 있는 자들과 무릇 내 육신의 얼굴을 보지 못한 자들을 위하여 어떻게 힘쓰는 것을 너희가 알기를 원하노니",
+          "grc": "Θέλω γὰρ ὑμᾶς εἰδέναι ἡλίκον ἀγῶνα ἔχω ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ ὅσοι οὐχ ἑόρακαν τὸ πρόσωπόν μου ἐν σαρκί,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 2,
+          "ko": "이는 저희로 마음에 위안을 받고 사랑 안에서 연합하여 원만한 이해의 모든 부요에 이르러 하나님의 비밀인 그리스도를 깨닫게 하려 함이라",
+          "grc": "ἵνα παρακληθῶσιν αἱ καρδίαι αὐτῶν, συμβιβασθέντες ἐν ἀγάπῃ καὶ εἰς πᾶν πλοῦτος τῆς πληροφορίας τῆς συνέσεως, εἰς ἐπίγνωσιν τοῦ μυστηρίου τοῦ θεοῦ, Χριστοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 3,
+          "ko": "그 안에는 지혜와 지식의 모든 보화가 감취어 있느니라",
+          "grc": "ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας καὶ γνώσεως ἀπόκρυφοι.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 4,
+          "ko": "내가 이것을 말함은 아무도 공교한 말로 너희를 속이지 못하게 하려 함이니",
+          "grc": "τοῦτο λέγω ἵνα μηδεὶς ὑμᾶς παραλογίζηται ἐν πιθανολογίᾳ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 5,
+          "ko": "이는 내가 육신으로는 떠나 있으나 심령으로는 너희와 함께 있어 너희의 규모와 그리스도를 믿는 너희 믿음의 굳은 것을 기쁘게 봄이라",
+          "grc": "εἰ γὰρ καὶ τῇ σαρκὶ ἄπειμι, ἀλλὰ τῷ πνεύματι σὺν ὑμῖν εἰμι, χαίρων καὶ βλέπων ὑμῶν τὴν τάξιν καὶ τὸ στερέωμα τῆς εἰς Χριστὸν πίστεως ὑμῶν.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 6,
+          "ko": "그러므로 너희가 그리스도 예수를 주로 받았으니 그 안에서 행하되",
+          "grc": "Ὡς οὖν παρελάβετε τὸν Χριστὸν Ἰησοῦν τὸν κύριον, ἐν αὐτῷ περιπατεῖτε,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 7,
+          "ko": "그 안에 뿌리를 박으며 세움을 입어 교훈을 받은대로 믿음에 굳게 서서 감사함을 넘치게 하라",
+          "grc": "ἐρριζωμένοι καὶ ἐποικοδομούμενοι ἐν αὐτῷ καὶ βεβαιούμενοι τῇ πίστει καθὼς ἐδιδάχθητε, περισσεύοντες ἐν εὐχαριστίᾳ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 8,
+          "ko": "누가 철학과 헛된 속임수로 너희를 노략할까 주의하라 이것이 사람의 유전과 세상의 초등 학문을 좇음이요 그리스도를 좇음이 아니니라",
+          "grc": "Βλέπετε μή τις ὑμᾶς ἔσται ὁ συλαγωγῶν διὰ τῆς φιλοσοφίας καὶ κενῆς ἀπάτης κατὰ τὴν παράδοσιν τῶν ἀνθρώπων, κατὰ τὰ στοιχεῖα τοῦ κόσμου καὶ οὐ κατὰ Χριστόν·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 9,
+          "ko": "그 안에는 신성의 모든 충만이 육체로 거하시고",
+          "grc": "ὅτι ἐν αὐτῷ κατοικεῖ πᾶν τὸ πλήρωμα τῆς θεότητος σωματικῶς,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 10,
+          "ko": "너희도 그 안에서 충만하여졌으니 그는 모든 정사와 권세의 머리시라",
+          "grc": "καὶ ἐστὲ ἐν αὐτῷ πεπληρωμένοι, ὅς ἐστιν ἡ κεφαλὴ πάσης ἀρχῆς καὶ ἐξουσίας,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 11,
+          "ko": "또 그 안에서 너희가 손으로 하지 아니한 할례를 받았으니 곧 육적 몸을 벗는 것이요 그리스도의 할례니라",
+          "grc": "ἐν ᾧ καὶ περιετμήθητε περιτομῇ ἀχειροποιήτῳ ἐν τῇ ἀπεκδύσει τοῦ σώματος τῆς σαρκός, ἐν τῇ περιτομῇ τοῦ Χριστοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 12,
+          "ko": "너희가 세례로 그리스도와 함께 장사한바 되고 또 죽은 자들 가운데서 그를 일으키신 하나님의 역사를 믿음으로 말미암아 그 안에서 함께 일으키심을 받았느니라",
+          "grc": "συνταφέντες αὐτῷ ἐν τῷ βαπτισμῷ, ἐν ᾧ καὶ συνηγέρθητε διὰ τῆς πίστεως τῆς ἐνεργείας τοῦ θεοῦ τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 13,
+          "ko": "또 너희의 범죄와 육체의 무할례로 죽었던 너희를 하나님이 그와 함께 살리시고 우리에게 모든 죄를 사하시고",
+          "grc": "καὶ ὑμᾶς νεκροὺς ὄντας ἐν τοῖς παραπτώμασιν καὶ τῇ ἀκροβυστίᾳ τῆς σαρκὸς ὑμῶν, συνεζωοποίησεν ὑμᾶς σὺν αὐτῷ· χαρισάμενος ἡμῖν πάντα τὰ παραπτώματα,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 14,
+          "ko": "우리를 거스리고 우리를 대적하는 의문에 쓴 증서를 도말하시고 제하여 버리사 십자가에 못 박으시고",
+          "grc": "ἐξαλείψας τὸ καθ’ ἡμῶν χειρόγραφον τοῖς δόγμασιν ὃ ἦν ὑπεναντίον ἡμῖν, καὶ αὐτὸ ἦρκεν ἐκ τοῦ μέσου προσηλώσας αὐτὸ τῷ σταυρῷ·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 15,
+          "ko": "정사와 권세를 벗어버려 밝히 드러내시고 십자가로 승리하셨느니라",
+          "grc": "ἀπεκδυσάμενος τὰς ἀρχὰς καὶ τὰς ἐξουσίας ἐδειγμάτισεν ἐν παρρησίᾳ, θριαμβεύσας αὐτοὺς ἐν αὐτῷ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 16,
+          "ko": "그러므로 먹고 마시는 것과 절기나 월삭이나 안식일을 인하여 누구든지 너희를 폄론하지 못하게 하라",
+          "grc": "Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει ἢ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νουμηνίας ἢ σαββάτων,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 17,
+          "ko": "이것들은 장래 일의 그림자이나 몸은 그리스도의 것이니라",
+          "grc": "ἅ ἐστιν σκιὰ τῶν μελλόντων, τὸ δὲ σῶμα τοῦ Χριστοῦ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 18,
+          "ko": "누구든지 일부러 겸손함과 천사 숭배함을 인하여 너희 상을 빼앗지 못하게 하라 저가 그 본 것을 의지하여 그 육체의 마음을 좇아 헛되이 과장하고",
+          "grc": "μηδεὶς ὑμᾶς καταβραβευέτω θέλων ἐν ταπεινοφροσύνῃ καὶ θρησκείᾳ τῶν ἀγγέλων, ἃ ἑόρακεν ἐμβατεύων, εἰκῇ φυσιούμενος ὑπὸ τοῦ νοὸς τῆς σαρκὸς αὐτοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 19,
+          "ko": "머리를 붙들지 아니하는지라 온 몸이 머리로 말미암아 마디와 힘줄로 공급함을 얻고 연합하여 하나님이 자라게 하심으로 자라느니라",
+          "grc": "καὶ οὐ κρατῶν τὴν κεφαλήν, ἐξ οὗ πᾶν τὸ σῶμα διὰ τῶν ἁφῶν καὶ συνδέσμων ἐπιχορηγούμενον καὶ συμβιβαζόμενον αὔξει τὴν αὔξησιν τοῦ θεοῦ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 20,
+          "ko": "너희가 세상의 초등 학문에서 그리스도와 함께 죽었거든 어찌하여 세상에 사는 것과 같이 의문에 순종하느냐",
+          "grc": "Εἰ ἀπεθάνετε σὺν Χριστῷ ἀπὸ τῶν στοιχείων τοῦ κόσμου, τί ὡς ζῶντες ἐν κόσμῳ δογματίζεσθε·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 21,
+          "ko": "곧 붙잡지도 말고 맛보지도 말고 만지지도 말라 하는 것이니",
+          "grc": "Μὴ ἅψῃ μηδὲ γεύσῃ μηδὲ θίγῃς,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 22,
+          "ko": "(이 모든 것은 쓰는대로 부패에 돌아 가리라) 사람의 명과 가르침을 좇느냐",
+          "grc": "ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων;",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 23,
+          "ko": "이런 것들은 자의적 숭배와 겸손과 몸을 괴롭게 하는데 지혜 있는 모양이나 오직 육체 좇는 것을 금하는데는 유익이 조금도 없느니라",
+          "grc": "ἅτινά ἐστιν λόγον μὲν ἔχοντα σοφίας ἐν ἐθελοθρησκίᾳ καὶ ταπεινοφροσύνῃ καὶ ἀφειδίᾳ σώματος, οὐκ ἐν τιμῇ τινι πρὸς πλησμονὴν τῆς σαρκός.",
+          "ko_status": "present",
+          "grc_status": "present"
+        }
+      ]
+    },
+    {
+      "ref": "Colossians 3",
+      "book": "Colossians",
+      "chapter": 3,
+      "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=3",
+      "source_sha256": "13f5c56d040c69bc3461d20d2ef4e66d251cba4a0a0de126b4ace93579a5a050",
+      "verse_map_note": null,
+      "source_ranges": {},
+      "verses": [
+        {
+          "verse": 1,
+          "ko": "그러므로 너희가 그리스도와 함께 다시 살리심을 받았으면 위엣 것을 찾으라 거기는 그리스도께서 하나님 우편에 앉아 계시느니라",
+          "grc": "Εἰ οὖν συνηγέρθητε τῷ Χριστῷ, τὰ ἄνω ζητεῖτε, οὗ ὁ Χριστός ἐστιν ἐν δεξιᾷ τοῦ θεοῦ καθήμενος·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 2,
+          "ko": "위엣 것을 생각하고 땅엣 것을 생각지 말라",
+          "grc": "τὰ ἄνω φρονεῖτε, μὴ τὰ ἐπὶ τῆς γῆς,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 3,
+          "ko": "이는 너희가 죽었고 너희 생명이 그리스도와 함께 하나님 안에 감취었음이니라",
+          "grc": "ἀπεθάνετε γάρ, καὶ ἡ ζωὴ ὑμῶν κέκρυπται σὺν τῷ Χριστῷ ἐν τῷ θεῷ·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 4,
+          "ko": "우리 생명이신 그리스도께서 나타나실 그 때에 너희도 그와 함께 영광 중에 나타나리라",
+          "grc": "ὅταν ὁ Χριστὸς φανερωθῇ, ἡ ζωὴ ὑμῶν, τότε καὶ ὑμεῖς σὺν αὐτῷ φανερωθήσεσθε ἐν δόξῃ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 5,
+          "ko": "그러므로 땅에 있는 지체를 죽이라 곧 음란과 부정과 사욕과 악한 정욕과 탐심이니 탐심은 우상 숭배니라",
+          "grc": "Νεκρώσατε οὖν τὰ μέλη τὰ ἐπὶ τῆς γῆς, πορνείαν, ἀκαθαρσίαν, πάθος, ἐπιθυμίαν κακήν, καὶ τὴν πλεονεξίαν ἥτις ἐστὶν εἰδωλολατρία,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 6,
+          "ko": "이것들을 인하여 하나님의 진노가 임하느니라",
+          "grc": "δι’ ἃ ἔρχεται ἡ ὀργὴ τοῦ θεοῦ ἐπὶ τοὺς υἱοὺς τῆς ἀπειθείας·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 7,
+          "ko": "너희도 전에 그 가운데 살 때에는 그 가운데서 행하였으나",
+          "grc": "ἐν οἷς καὶ ὑμεῖς περιεπατήσατέ ποτε ὅτε ἐζῆτε ἐν τούτοις·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 8,
+          "ko": "이제는 너희가 이 모든 것을 벗어버리라 곧 분과 악의와 훼방과 너희 입의 부끄러운 말이라",
+          "grc": "νυνὶ δὲ ἀπόθεσθε καὶ ὑμεῖς τὰ πάντα, ὀργήν, θυμόν, κακίαν, βλασφημίαν, αἰσχρολογίαν ἐκ τοῦ στόματος ὑμῶν·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 9,
+          "ko": "너희가 서로 거짓말을 말라 옛 사람과 그 행위를 벗어버리고",
+          "grc": "μὴ ψεύδεσθε εἰς ἀλλήλους· ἀπεκδυσάμενοι τὸν παλαιὸν ἄνθρωπον σὺν ταῖς πράξεσιν αὐτοῦ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 10,
+          "ko": "새 사람을 입었으니 이는 자기를 창조하신 자의 형상을 좇아 지식에까지 새롭게 하심을 받는 자니라",
+          "grc": "καὶ ἐνδυσάμενοι τὸν νέον τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ’ εἰκόνα τοῦ κτίσαντος αὐτόν,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 11,
+          "ko": "거기는 헬라인과 유대인이나 할례당과 무할례당이나 야인이나 스구디아인이나 종이나 자유인이 분별이 있을 수 없나니 오직 그리스도는 만유시요 만유 안에 계시니라",
+          "grc": "ὅπου οὐκ ἔνι Ἕλλην καὶ Ἰουδαῖος, περιτομὴ καὶ ἀκροβυστία, βάρβαρος, Σκύθης, δοῦλος, ἐλεύθερος, ἀλλὰ τὰ πάντα καὶ ἐν πᾶσιν Χριστός.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 12,
+          "ko": "그러므로 너희는 하나님의 택하신 거룩하고 사랑하신 자처럼 긍휼과 자비와 겸손과 온유와 오래 참음을 옷입고",
+          "grc": "Ἐνδύσασθε οὖν ὡς ἐκλεκτοὶ τοῦ θεοῦ, ἅγιοι καὶ ἠγαπημένοι, σπλάγχνα οἰκτιρμοῦ, χρηστότητα, ταπεινοφροσύνην, πραΰτητα, μακροθυμίαν,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 13,
+          "ko": "누가 뉘게 혐의가 있거든 서로 용납하여 피차 용서하되 주께서 너희를 용서하신 것과 같이 너희도 그리하고",
+          "grc": "ἀνεχόμενοι ἀλλήλων καὶ χαριζόμενοι ἑαυτοῖς ἐάν τις πρός τινα ἔχῃ μομφήν· καθὼς καὶ ὁ κύριος ἐχαρίσατο ὑμῖν οὕτως καὶ ὑμεῖς·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 14,
+          "ko": "이 모든 것 위에 사랑을 더하라 이는 온전하게 매는 띠니라",
+          "grc": "ἐπὶ πᾶσιν δὲ τούτοις τὴν ἀγάπην, ὅ ἐστιν σύνδεσμος τῆς τελειότητος.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 15,
+          "ko": "그리스도의 평강이 너희 마음을 주장하게 하라 평강을 위하여 너희가 한 몸으로 부르심을 받았나니 또한 너희는 감사하는 자가 되라",
+          "grc": "καὶ ἡ εἰρήνη τοῦ Χριστοῦ βραβευέτω ἐν ταῖς καρδίαις ὑμῶν, εἰς ἣν καὶ ἐκλήθητε ἐν ἑνὶ σώματι· καὶ εὐχάριστοι γίνεσθε.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 16,
+          "ko": "그리스도의 말씀이 너희 속에 풍성히 거하여 모든 지혜로 피차 가르치며 권면하고 시와 찬미와 신령한 노래를 부르며 마음에 감사함으로 하나님을 찬양하고",
+          "grc": "ὁ λόγος τοῦ Χριστοῦ ἐνοικείτω ἐν ὑμῖν πλουσίως ἐν πάσῃ σοφίᾳ· διδάσκοντες καὶ νουθετοῦντες ἑαυτοὺς ψαλμοῖς, ὕμνοις, ᾠδαῖς πνευματικαῖς ἐν χάριτι, ᾄδοντες ἐν ταῖς καρδίαις ὑμῶν τῷ θεῷ·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 17,
+          "ko": "또 무엇을 하든지 말에나 일에나 다 주 예수의 이름으로 하고 그를 힘입어 하나님 아버지께 감사하라",
+          "grc": "καὶ πᾶν ὅ τι ἐὰν ποιῆτε ἐν λόγῳ ἢ ἐν ἔργῳ, πάντα ἐν ὀνόματι κυρίου Ἰησοῦ, εὐχαριστοῦντες τῷ θεῷ πατρὶ δι’ αὐτοῦ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 18,
+          "ko": "아내들아 남편에게 복종하라 이는 주 안에서 마땅하니라",
+          "grc": "Αἱ γυναῖκες, ὑποτάσσεσθε τοῖς ἀνδράσιν, ὡς ἀνῆκεν ἐν κυρίῳ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 19,
+          "ko": "남편들아 아내를 사랑하며 괴롭게 하지 말라",
+          "grc": "οἱ ἄνδρες, ἀγαπᾶτε τὰς γυναῖκας καὶ μὴ πικραίνεσθε πρὸς αὐτάς.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 20,
+          "ko": "자녀들아 모든 일에 부모에게 순종하라 이는 주 안에서 기쁘게 하는 것이니라",
+          "grc": "Τὰ τέκνα, ὑπακούετε τοῖς γονεῦσιν κατὰ πάντα, τοῦτο γὰρ εὐάρεστόν ἐστιν ἐν κυρίῳ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 21,
+          "ko": "아비들아 너희 자녀를 격노케 말찌니 낙심할까 함이라",
+          "grc": "οἱ πατέρες, μὴ ἐρεθίζετε τὰ τέκνα ὑμῶν, ἵνα μὴ ἀθυμῶσιν.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 22,
+          "ko": "종들아 모든 일에 육신의 상전들에게 순종하되 사람을 기쁘게 하는 자와 같이 눈가림만 하지 말고 오직 주를 두려워하여 성실한 마음으로 하라",
+          "grc": "οἱ δοῦλοι, ὑπακούετε κατὰ πάντα τοῖς κατὰ σάρκα κυρίοις, μὴ ἐν ὀφθαλμοδουλίαις, ὡς ἀνθρωπάρεσκοι, ἀλλ’ ἐν ἁπλότητι καρδίας, φοβούμενοι τὸν κύριον.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 23,
+          "ko": "무슨 일을 하든지 마음을 다하여 주께 하듯하고 사람에게 하듯하지 말라",
+          "grc": "ὃ ἐὰν ποιῆτε, ἐκ ψυχῆς ἐργάζεσθε, ὡς τῷ κυρίῳ καὶ οὐκ ἀνθρώποις,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 24,
+          "ko": "이는 유업의 상을 주께 받을줄 앎이니 너희는 주 그리스도를 섬기느니라",
+          "grc": "εἰδότες ὅτι ἀπὸ κυρίου ἀπολήμψεσθε τὴν ἀνταπόδοσιν τῆς κληρονομίας· τῷ κυρίῳ Χριστῷ δουλεύετε·",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 25,
+          "ko": "불의를 행하는 자는 불의의 보응을 받으리니 주는 외모로 사람을 취하심이 없느니라",
+          "grc": "ὁ γὰρ ἀδικῶν κομίσεται ὃ ἠδίκησεν, καὶ οὐκ ἔστιν προσωπολημψία.",
+          "ko_status": "present",
+          "grc_status": "present"
+        }
+      ]
+    },
+    {
+      "ref": "Colossians 4",
+      "book": "Colossians",
+      "chapter": 4,
+      "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=4",
+      "source_sha256": "c355b8ac764648ec2465c67ee5f82bb7565616c6b150a171adf634d6cb641528",
+      "verse_map_note": null,
+      "source_ranges": {},
+      "verses": [
+        {
+          "verse": 1,
+          "ko": "상전들아 의와 공평을 종들에게 베풀찌니 너희에게도 하늘에 상전이 계심을 알찌어다",
+          "grc": "οἱ κύριοι, τὸ δίκαιον καὶ τὴν ἰσότητα τοῖς δούλοις παρέχεσθε, εἰδότες ὅτι καὶ ὑμεῖς ἔχετε κύριον ἐν οὐρανῷ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 2,
+          "ko": "기도를 항상 힘쓰고 기도에 감사함으로 깨어 있으라",
+          "grc": "Τῇ προσευχῇ προσκαρτερεῖτε, γρηγοροῦντες ἐν αὐτῇ ἐν εὐχαριστίᾳ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 3,
+          "ko": "또한 우리를 위하여 기도하되 하나님이 전도할 문을 우리에게 열어 주사 그리스도의 비밀을 말하게 하시기를 구하라 내가 이것을 인하여 매임을 당하였노라",
+          "grc": "προσευχόμενοι ἅμα καὶ περὶ ἡμῶν, ἵνα ὁ θεὸς ἀνοίξῃ ἡμῖν θύραν τοῦ λόγου, λαλῆσαι τὸ μυστήριον τοῦ Χριστοῦ, δι’ ὃ καὶ δέδεμαι,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 4,
+          "ko": "그리하면 내가 마땅히 할 말로써 이 비밀을 나타내리라",
+          "grc": "ἵνα φανερώσω αὐτὸ ὡς δεῖ με λαλῆσαι.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 5,
+          "ko": "외인을 향하여서는 지혜로 행하여 세월을 아끼라",
+          "grc": "Ἐν σοφίᾳ περιπατεῖτε πρὸς τοὺς ἔξω, τὸν καιρὸν ἐξαγοραζόμενοι.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 6,
+          "ko": "너희 말을 항상 은혜 가운데서 소금으로 고루게 함같이 하라 그리하면 각 사람에게 마땅히 대답할 것을 알리라",
+          "grc": "ὁ λόγος ὑμῶν πάντοτε ἐν χάριτι, ἅλατι ἠρτυμένος, εἰδέναι πῶς δεῖ ὑμᾶς ἑνὶ ἑκάστῳ ἀποκρίνεσθαι.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 7,
+          "ko": "두기고가 내 사정을 다 너희에게 알게 하리니 그는 사랑을 받는 형제요 신실한 일군이요 주 안에서 함께 된 종이라",
+          "grc": "Τὰ κατ’ ἐμὲ πάντα γνωρίσει ὑμῖν Τυχικὸς ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος καὶ σύνδουλος ἐν κυρίῳ,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 8,
+          "ko": "내가 저를 특별히 너희에게 보낸 것은 너희로 우리 사정을 알게 하고 너희 마음을 위로하게 하려 함이라",
+          "grc": "ὃν ἔπεμψα πρὸς ὑμᾶς εἰς αὐτὸ τοῦτο ἵνα γνῶτε τὰ περὶ ἡμῶν καὶ παρακαλέσῃ τὰς καρδίας ὑμῶν,",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 9,
+          "ko": "신실하고 사랑을 받는 형제 오네시모를 함께 보내노니 그는 너희에게서 온 사람이라 저희가 여기 일을 다 너희에게 알게 하리라",
+          "grc": "σὺν Ὀνησίμῳ τῷ πιστῷ καὶ ἀγαπητῷ ἀδελφῷ, ὅς ἐστιν ἐξ ὑμῶν· πάντα ὑμῖν γνωρίσουσιν τὰ ὧδε.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 10,
+          "ko": "나와 함께 갇힌 아리스다고와 바나바의 생질 마가와 (이 마가에 대하여 너희가 명을 받았으매 그가 이르거든 영접하라)",
+          "grc": "Ἀσπάζεται ὑμᾶς Ἀρίσταρχος ὁ συναιχμάλωτός μου, καὶ Μᾶρκος ὁ ἀνεψιὸς Βαρναβᾶ (περὶ οὗ ἐλάβετε ἐντολάς, ἐὰν ἔλθῃ πρὸς ὑμᾶς δέξασθε αὐτόν),",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 11,
+          "ko": "유스도라 하는 예수도 너희에게 문안하니 저희는 할례당이라 이들만 하나님 나라를 위하여 함께 역사하는 자들이니 이런 사람들이 나의 위로가 되었느니라",
+          "grc": "καὶ Ἰησοῦς ὁ λεγόμενος Ἰοῦστος, οἱ ὄντες ἐκ περιτομῆς, οὗτοι μόνοι συνεργοὶ εἰς τὴν βασιλείαν τοῦ θεοῦ, οἵτινες ἐγενήθησάν μοι παρηγορία.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 12,
+          "ko": "그리스도 예수의 종인 너희에게서 온 에바브라가 너희에게 문안하니 저가 항상 너희를 위하여 애써 기도하여 너희로 하나님의 모든 뜻 가운데서 완전하고 확신있게 서기를 구하나니",
+          "grc": "ἀσπάζεται ὑμᾶς Ἐπαφρᾶς ὁ ἐξ ὑμῶν, δοῦλος Χριστοῦ, πάντοτε ἀγωνιζόμενος ὑπὲρ ὑμῶν ἐν ταῖς προσευχαῖς, ἵνα σταθῆτε τέλειοι καὶ πεπληροφορημένοι ἐν παντὶ θελήματι τοῦ θεοῦ.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 13,
+          "ko": "그가 너희와 라오디게아에 있는 자들과 히에라볼리에 있는 자들을 위하여 많이 수고하는 것을 내가 증거하노라",
+          "grc": "μαρτυρῶ γὰρ αὐτῷ ὅτι ἔχει πολὺν πόνον ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ τῶν ἐν Ἱεραπόλει.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 14,
+          "ko": "사랑을 받는 의원 누가와 또 데마가 너희에게 문안하느니라",
+          "grc": "ἀσπάζεται ὑμᾶς Λουκᾶς ὁ ἰατρὸς ὁ ἀγαπητὸς καὶ Δημᾶς.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 15,
+          "ko": "라오디게아에 있는 형제들과 눔바와 그 여자의 집에 있는 교회에 문안하고",
+          "grc": "ἀσπάσασθε τοὺς ἐν Λαοδικείᾳ ἀδελφοὺς καὶ Νύμφαν καὶ τὴν κατ’ οἶκον αὐτῆς ἐκκλησίαν.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 16,
+          "ko": "이 편지를 너희에게서 읽은 후에 라오디게아인의 교회에서도 읽게 하고 또 라오디게아로서 오는 편지를 너희도 읽으라",
+          "grc": "καὶ ὅταν ἀναγνωσθῇ παρ’ ὑμῖν ἡ ἐπιστολή, ποιήσατε ἵνα καὶ ἐν τῇ Λαοδικέων ἐκκλησίᾳ ἀναγνωσθῇ, καὶ τὴν ἐκ Λαοδικείας ἵνα καὶ ὑμεῖς ἀναγνῶτε.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 17,
+          "ko": "아킵보에게 이르기를 주 안에서 받은 직분을 삼가 이루라고 하라",
+          "grc": "καὶ εἴπατε Ἀρχίππῳ· Βλέπε τὴν διακονίαν ἣν παρέλαβες ἐν κυρίῳ, ἵνα αὐτὴν πληροῖς.",
+          "ko_status": "present",
+          "grc_status": "present"
+        },
+        {
+          "verse": 18,
+          "ko": "나 바울은 친필로 문안하노니 나의 매인 것을 생각하라 은혜가 너희에게 있을찌어다",
+          "grc": "Ὁ ἀσπασμὸς τῇ ἐμῇ χειρὶ Παύλου. μνημονεύετέ μου τῶν δεσμῶν. ἡ χάρις μεθ’ ὑμῶν.",
+          "ko_status": "present",
+          "grc_status": "present"
+        }
+      ]
+    }
+  ],
+  "comparisons": [
+    {
+      "id": "col1-peace",
+      "lxx_chapter_id": "isaiah-53",
+      "ot_chapter_id": "isaiah-53",
+      "url": "/colossians-1/col1-peace/",
+      "kind": "암시",
+      "nt_book": "Colossians",
+      "nt_chapter": 1,
+      "nt_ref": "골로새서 1:20",
+      "nt_selected_verses": [
+        20
+      ],
+      "lxx_ref": "이사야 53:5",
+      "lxx_title": "이사야 53장",
+      "lxx_selected_verses": [
+        5
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "source_ref": "Isa.53:1",
+          "ko": "주여, 우리가 전해 들은 것을 누가 믿었습니까? 주의 팔이 누구에게 드러났습니까?",
+          "grc": "Κύριε, τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν; καὶ ὁ βραχίων Κυρίου τίνι ἀπεκαλύφθη;",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 2,
+          "source_ref": "Isa.53:2",
+          "ko": "우리는 그 앞에서 어린아이처럼, 목마른 땅의 뿌리처럼 선포했습니다. 그에게는 볼 만한 모습도 영광도 없습니다. 우리가 그를 보았으나, 그에게는 볼 만한 모습도 아름다움도 없었습니다.",
+          "grc": "ἀνηγγείλαμεν ὡς παιδίον ἐναντίον αὐτοῦ, ὡς ῥίζα ἐν γῇ διψώσῃ· οὐκ ἔστιν εἶδος αὐτῷ οὐδὲ δόξα. καὶ εἴδομεν αὐτόν, καὶ οὐκ εἶχεν εἶδος οὐδὲ κάλλος,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 3,
+          "source_ref": "Isa.53:3",
+          "ko": "그의 모습은 존귀하지 못하고 사람들의 아들들보다 뒤떨어졌습니다. 그는 상처 속에 있는 사람이며 연약함을 견딜 줄 아는 이였습니다. 그의 얼굴은 외면당했고, 그는 멸시받고 아무것도 아닌 이로 여겨졌습니다.",
+          "grc": "ἀλλὰ τὸ εἶδος αὐτοῦ ἄτιμον καὶ ἐκλιπὸν παρὰ τοὺς υἱοὺς τῶν ἀνθρώπων· ἄνθρωπος ἐν πληγῇ ὢν καὶ εἰδὼς φέρειν μαλακίαν, ὅτι ἀπέστραπται τὸ πρόσωπον αὐτοῦ, ἠτιμάσθη καὶ οὐκ ἐλογίσθη.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 4,
+          "source_ref": "Isa.53:4",
+          "ko": "그는 우리의 죄를 짊어지고 우리를 위해 고통받습니다. 그러나 우리는 그가 고통과 상처와 학대 가운데 있는 사람이라고 여겼습니다.",
+          "grc": "οὗτος τὰς ἁμαρτίας ἡμῶν φέρει καὶ περὶ ἡμῶν ὀδυνᾶται, καὶ ἡμεῖς ἐλογισάμεθα αὐτὸν εἶναι ἐν πόνῳ καὶ ἐν πληγῇ καὶ ἐν κακώσει.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 5,
+          "source_ref": "Isa.53:5",
+          "ko": "그는 우리의 죄 때문에 상처 입었고 우리의 불법 때문에 쇠약해졌습니다. 우리의 평화를 위한 징계가 그 위에 있었고, 그의 멍든 상처로 우리가 나음을 입었습니다.",
+          "grc": "αὐτὸς δὲ ἐτραυματίσθη διὰ τὰς ἁμαρτίας ἡμῶν, καὶ μεμαλάκισται διὰ τὰς ἀνομίας ἡμῶν· παιδία εἰρήνης ἡμῶν ἐπ᾽ αὐτόν, τῷ μώλωπι αὐτοῦ ἡμεῖς ἰάθημεν.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 6,
+          "source_ref": "Isa.53:6",
+          "ko": "우리는 모두 양처럼 길을 잃었고, 각자 자기 길에서 헤맸습니다. 주께서 그를 우리의 죄에 넘겨주셨습니다.",
+          "grc": "πάντες ὡς πρόβατα ἐπλανήθημεν, ἄνθρωπος τῇ ὁδῷ αὐτοῦ ἐπλανήθη· καὶ Κύριος παρέδωκεν αὐτὸν ταῖς ἁμαρτίαις ἡμῶν.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 7,
+          "source_ref": "Isa.53:7",
+          "ko": "그는 학대받았기에 입을 열지 않습니다. 도살장으로 끌려간 양처럼, 털 깎는 이 앞에서 말 없는 어린양처럼, 그는 자기 입을 열지 않습니다.",
+          "grc": "καὶ αὐτὸς διὰ τὸ κεκακῶσθαι οὐκ ἀνοίγει τὸ στόμα· ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη, καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείροντος ἄφωνος, οὕτως οὐκ ἀνοίγει τὸ στόμα αὐτοῦ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 8,
+          "source_ref": "Isa.53:8",
+          "ko": "그의 낮아짐 속에서 그의 재판이 거두어졌습니다. 누가 그의 세대를 이야기하겠습니까? 그의 생명이 땅에서 거두어지기 때문입니다. 내 백성의 불법 때문에 그는 죽음으로 끌려갔습니다.",
+          "grc": "ἐν τῇ ταπεινώσει ἡ κρίσις αὐτοῦ ἤρθη· τὴν γενεὰν αὐτοῦ τίς διηγήσεται; ὅτι αἴρεται ἀπὸ τῆς γῆς ἡ ζωὴ αὐτοῦ, ἀπὸ τῶν ἀνομιῶν τοῦ λαοῦ μου ἤχθη εἰς θάνατον.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 9,
+          "source_ref": "Isa.53:9",
+          "ko": "나는 그의 매장 대신 악한 이들을, 죽음 대신 부유한 이들을 내주겠습니다. 그가 불법을 행하지 않았고, 그의 입에 속임수가 없었기 때문입니다.",
+          "grc": "καὶ δώσω τοὺς πονηροὺς ἀντὶ τῆς ταφῆς αὐτοῦ, καὶ τοὺς πλουσίους ἀντὶ τοῦ θανάτου· ὅτι ἀνομίαν οὐκ ἐποίησεν, οὐδὲ δόλον ἐν τῷ στόματι αὐτοῦ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 10,
+          "source_ref": "Isa.53:10",
+          "ko": "주께서는 그를 상처에서 깨끗하게 하기를 원하십니다. 너희가 죄를 위한 제물을 드리면 우리의 영혼이 오래 사는 후손을 볼 것입니다. 주께서는 그의 영혼의 고통을 없애고,",
+          "grc": "καὶ Κύριος βούλεται καθαρίσαι αὐτὸν τῆς πληγῆς· ἐὰν δῶτε περὶ ἁμαρτίας, ἡ ψυχὴ ἡμῶν ὄψεται σπέρμα μακρόβιον· καὶ βούλεται Κύριος ἀφελεῖν ἀπὸ τοῦ πόνου τῆς ψυχῆς αὐτοῦ,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 11,
+          "source_ref": "Isa.53:11",
+          "ko": "그에게 빛을 보여 주며 깨달음으로 빚기를 원하십니다. 많은 사람을 잘 섬기는 의인을 의롭다고 인정하기를 원하십니다. 그는 그들의 죄를 짊어질 것입니다.",
+          "grc": "δεῖξαι αὐτῷ φῶς καὶ πλάσαι τῇ συνέσει, δικαιῶσαι δίκαιον εὖ δουλεύοντα πολλοῖς, καὶ τὰς ἁμαρτίας αὐτῶν αὐτὸς ἀνοίσει.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 12,
+          "source_ref": "Isa.53:12",
+          "ko": "그러므로 그는 많은 사람을 유산으로 받고 강한 이들의 노획물을 나눌 것입니다. 그의 목숨이 죽음에 넘겨졌고, 그가 불법을 행하는 이들 가운데 하나로 여겨졌기 때문입니다. 그는 많은 이의 죄를 짊어졌고, 그들의 불법 때문에 넘겨졌습니다.",
+          "grc": "διὰ τοῦτο αὐτὸς κληρονομήσει πολλούς, καὶ τῶν ἰσχυρῶν μεριεῖ σκῦλα· ἀνθ᾽ ὧν παρεδόθη εἰς θάνατον ἡ ψυχὴ αὐτοῦ, καὶ ἐν τοῖς ἀνόμοις ἐλογίσθη, καὶ αὐτὸς ἁμαρτίας πολλῶν ἀνήνεγκεν, καὶ διὰ τὰς ἀνομίας αὐτῶν παρεδόθη.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        }
+      ],
+      "pairs": [],
+      "notes": [
+        {
+          "title": "대조의 성격",
+          "text": "종의 징계가 우리의 평화가 된다는 구절을 십자가의 피로 화평을 이루신 그리스도와 비교합니다."
+        }
+      ],
+      "related_comparisons": [],
+      "related_references": [],
+      "boundary_notes": [],
+      "lxx_text_form": "Swete selected text",
+      "index_verification": {
+        "na28": "reference_verified_from_scan_ocr",
+        "ubs6": "pending",
+        "verified_source": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research/page/n973/mode/1up",
+        "verified_source_edition": "NA28",
+        "source_entry": {
+          "ot": "Is 53:5",
+          "nt": "Col 1:20"
+        },
+        "classification": "editorial; source row marks may cover multiple NT references",
+        "reviewed_on": "2026-09-22",
+        "verification_method": "reference_pairs_checked_in_OCR_of_primary_scan",
+        "page": 860,
+        "source_typography": "not_transcribed"
+      },
+      "verse_comparisons": [],
+      "ot_chapter": {
+        "title": "이사야 53장",
+        "book": "isa",
+        "chapter": 53,
+        "edition": "개역한글",
+        "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=53",
+        "source_sha256": "c5590b1bf09a42b1934a89f967ddc027f7d5019c98b72b2aaeda393741bab474",
+        "source_chapters": [],
+        "verse_refs": {},
+        "verses": [
+          {
+            "verse": 1,
+            "ko": "우리의 전한 것을 누가 믿었느뇨 여호와의 팔이 뉘게 나타났느뇨"
+          },
+          {
+            "verse": 2,
+            "ko": "그는 주 앞에서 자라나기를 연한 순 같고 마른 땅에서 나온 줄기 같아서 고운 모양도 없고 풍채도 없은즉 우리의 보기에 흠모할만한 아름다운 것이 없도다"
+          },
+          {
+            "verse": 3,
+            "ko": "그는 멸시를 받아서 사람에게 싫어 버린바 되었으며 간고를 많이 겪었으며 질고를 아는 자라 마치 사람들에게 얼굴을 가리우고 보지 않음을 받는 자 같아서 멸시를 당하였고 우리도 그를 귀히 여기지 아니하였도다"
+          },
+          {
+            "verse": 4,
+            "ko": "그는 실로 우리의 질고를 지고 우리의 슬픔을 당하였거늘 우리는 생각하기를 그는 징벌을 받아서 하나님에게 맞으며 고난을 당한다 하였노라"
+          },
+          {
+            "verse": 5,
+            "ko": "그가 찔림은 우리의 허물을 인함이요 그가 상함은 우리의 죄악을 인함이라 그가 징계를 받음으로 우리가 평화를 누리고 그가 채찍에 맞음으로 우리가 나음을 입었도다"
+          },
+          {
+            "verse": 6,
+            "ko": "우리는 다 양 같아서 그릇 행하여 각기 제 길로 갔거늘 여호와께서는 우리 무리의 죄악을 그에게 담당시키셨도다"
+          },
+          {
+            "verse": 7,
+            "ko": "그가 곤욕을 당하여 괴로울 때에도 그 입을 열지 아니하였음이여 마치 도수장으로 끌려가는 어린 양과 털 깎는 자 앞에 잠잠한 양 같이 그 입을 열지 아니하였도다"
+          },
+          {
+            "verse": 8,
+            "ko": "그가 곤욕과 심문을 당하고 끌려 갔으니 그 세대 중에 누가 생각하기를 그가 산 자의 땅에서 끊어짐은 마땅히 형벌 받을 내 백성의 허물을 인함이라 하였으리요"
+          },
+          {
+            "verse": 9,
+            "ko": "그는 강포를 행치 아니하였고 그 입에 궤사가 없었으나 그 무덤이 악인과 함께 되었으며 그 묘실이 부자와 함께 되었도다"
+          },
+          {
+            "verse": 10,
+            "ko": "여호와께서 그로 상함을 받게 하시기를 원하사 질고를 당케 하셨은즉 그 영혼을 속건제물로 드리기에 이르면 그가 그 씨를 보게 되며 그 날은 길 것이요 또 그의 손으로 여호와의 뜻을 성취하리로다"
+          },
+          {
+            "verse": 11,
+            "ko": "가라사대 그가 자기 영혼의 수고한 것을 보고 만족히 여길 것이라 나의 의로운 종이 자기 지식으로 많은 사람을 의롭게 하며 또 그들의 죄악을 친히 담당하리라"
+          },
+          {
+            "verse": 12,
+            "ko": "이러므로 내가 그로 존귀한 자와 함께 분깃을 얻게 하며 강한 자와 함께 탈취한 것을 나누게 하리니 이는 그가 자기 영혼을 버려 사망에 이르게 하며 범죄자 중 하나로 헤아림을 입었음이라 그러나 실상은 그가 많은 사람의 죄를 지며 범죄자를 위하여 기도하였느니라 하시니라"
+          }
+        ]
+      },
+      "lxx_ot_verse_map": [
+        {
+          "lxx_verse": 1,
+          "ot_verse": 1
+        },
+        {
+          "lxx_verse": 2,
+          "ot_verse": 2
+        },
+        {
+          "lxx_verse": 3,
+          "ot_verse": 3
+        },
+        {
+          "lxx_verse": 4,
+          "ot_verse": 4
+        },
+        {
+          "lxx_verse": 5,
+          "ot_verse": 5
+        },
+        {
+          "lxx_verse": 6,
+          "ot_verse": 6
+        },
+        {
+          "lxx_verse": 7,
+          "ot_verse": 7
+        },
+        {
+          "lxx_verse": 8,
+          "ot_verse": 8
+        },
+        {
+          "lxx_verse": 9,
+          "ot_verse": 9
+        },
+        {
+          "lxx_verse": 10,
+          "ot_verse": 10
+        },
+        {
+          "lxx_verse": 11,
+          "ot_verse": 11
+        },
+        {
+          "lxx_verse": 12,
+          "ot_verse": 12
+        }
+      ]
+    },
+    {
+      "id": "col2-treasures",
+      "lxx_chapter_id": "isaiah-45",
+      "ot_chapter_id": "isaiah-45",
+      "url": "/colossians-2/col2-treasures/",
+      "kind": "어휘적 암시",
+      "nt_book": "Colossians",
+      "nt_chapter": 2,
+      "nt_ref": "골로새서 2:3",
+      "nt_selected_verses": [
+        3
+      ],
+      "lxx_ref": "이사야 45:3",
+      "lxx_title": "이사야 45장",
+      "lxx_selected_verses": [
+        3
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "source_ref": "Isa.45:1",
+          "ko": "주 하나님께서 나의 기름부음 받은 이 키루스에게 이렇게 말씀하신다. “내가 그의 오른손을 붙들어 민족들이 그 앞에서 복종하게 하였다. 왕들의 힘을 꺾고 그의 앞에서 문들을 열겠다. 성읍들이 닫히지 않을 것이다.",
+          "grc": "Οὕτως λέγει Κύριος ὁ θεὸς τῷ χριστῷ μου Κύρῳ, οὗ ἐκράτησα τῆς δεξιᾶς ἐπακοῦσαι ἔμπροσθεν αὐτοῦ ἔθνη, καὶ ἰσχὺν βασιλέων διαρρήξω, ἀνοίξω ἔμπροσθεν αὐτοῦ θύρας, καὶ πόλεις οὐ συνκλεισθήσονται",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 2,
+          "source_ref": "Isa.45:2",
+          "ko": "내가 네 앞에서 가며 산들을 평평하게 하겠다. 청동 문들을 부수고 쇠 빗장들을 꺾겠다.",
+          "grc": "Ἐγὼ ἔμπροσθέν σου πορεύσομαι καὶ ὄρη ὁμαλιῶ, θύρας χαλκᾶς συντρίψω καὶ μοχλοὺς σιδηροῦς συνκλάσω,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 3,
+          "source_ref": "Isa.45:3",
+          "ko": "어둠 속의 숨겨진 보물들을 네게 주고 보이지 않던 것들을 열어 보이겠다. 네 이름을 부르는 내가 주 하나님, 이스라엘의 하나님인 줄 네가 알게 하려는 것이다.",
+          "grc": "καὶ δώσω σοι θησαυροὺς σκοτινοὺς ἀποκρύφους, ἀοράτους ἀνοίξω σοι, ἵνα γνῷς ὅτι ἐγὼ Κύριος ὁ θεὸς ὁ καλῶν τὸ ὄνομά σου, θεὸς Ἰσραήλ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 4,
+          "source_ref": "Isa.45:4",
+          "ko": "내 종 야곱과 내가 택한 이스라엘 때문에 내가 너를 내 이름으로 부르고 받아들이겠다. 그러나 너는 나를 알지 못했다.",
+          "grc": "ἕνεκεν τοῦ παιδός μου Ἰακὼβ καὶ Ἰσραὴλ τοῦ ἐκλεκτοῦ μου ἐγὼ καλέσω σε τῷ ὀνόματί μου καὶ προσδέξομαί σε· σὺ δὲ οὐκ ἔγνως με.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 5,
+          "source_ref": "Isa.45:5",
+          "ko": "나는 주 하나님이며, 나 외에는 다른 이가 없다. 네가 나를 알지 못했어도 내가 너를 강하게 하였다.",
+          "grc": "ὅτι ἐγὼ Κύριος ὁ θεός, καὶ οὐκ ἔστιν ἔτι πλὴν ἐμοῦ· ἐνίσχυσά σε, καὶ οὐκ ᾔδεις με,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 6,
+          "source_ref": "Isa.45:6",
+          "ko": "해 뜨는 곳과 해 지는 곳의 사람들이 나 외에는 다른 이가 없음을 알게 하려는 것이다. 나는 주 하나님이며, 다른 이가 없다.",
+          "grc": "ἵνα γνῶσιν οἱ ἀπ᾽ ἀνατολῶν ἡλίου καὶ οἱ ἀπὸ δυσμῶν ὅτι οὐκ ἔστιν πλὴν ἐμοῦ. ἐγὼ Κύριος ὁ θεός, καὶ οὐκ ἔστιν ἔτι,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 7,
+          "source_ref": "Isa.45:7",
+          "ko": "나는 빛을 마련하고 어둠을 만들며, 평화를 이루고 재앙들을 창조하는 이다. 나 주 하나님이 이 모든 것을 행한다.",
+          "grc": "ἐγὼ ὁ κατασκευάσας φῶς καὶ ποιήσας σκότος, ὁ ποιῶν εἰρήνην καὶ κτίζων κακά· ἐγὼ Κύριος ὁ θεὸς ὁ ποιῶν πάντα ταῦτα.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 8,
+          "source_ref": "Isa.45:8",
+          "ko": "위의 하늘아, 기뻐하여라. 구름들은 의를 뿌려라. 땅은 싹을 내고 긍휼을 돋게 하며 의도 함께 알려라. 나는 너를 창조한 주다.",
+          "grc": "εὐφρανθήτω ὁ οὐρανὸς ἄνωθεν, καὶ αἱ νεφέλαι ῥανάτωσαν δικαιοσύνην· ἀνατειλάτω ἡ γῆ καὶ βλαστησάτω ἔλεος, καὶ δικαιοσύνην ἀναγγειλάτω ἅμα· ἐγώ εἰμι Κύριος ὁ κτίσας σε.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 9,
+          "source_ref": "Isa.45:9",
+          "ko": "내가 토기장이의 진흙처럼 무엇을 더 좋게 만들었느냐? 쟁기질하는 이가 온종일 땅을 갈겠느냐? 진흙이 토기장이에게 ‘무엇을 하느냐? 너는 일하지도 않고 손도 없구나’라고 말하겠느냐?",
+          "grc": "Ποῖον βέλτιον κατεσκεύασα ὡς πηλὸν κεραμέως; μὴ ὁ ἀροτριῶν ἀροτριάσει τὴν γῆν ὅλην τὴν ἡμέραν; μὴ ἐρεῖ ὁ πηλὸς τῷ κεραμεῖ Τί ποιεῖς, ὅτι οὐκ ἐργάζῃ οὐδὲ ἔχεις χεῖρας;",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 10,
+          "source_ref": "Isa.45:10",
+          "ko": "빚어진 것이 자기를 빚은 이에게 대꾸하겠느냐? 아버지에게 ‘무엇을 낳겠느냐’ 하고, 어머니에게 ‘무엇을 해산하느냐’ 하고 말하는 자여.”",
+          "grc": "μὴ ἀποκριθήσεται τὸ πλάσμα πρὸς τὸν πλάσαντα αὐτό; ὁ λέγων τῷ πατρί Τί γεννήσεις; καὶ τῇ μητρί Τί ὠδίνεις;",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 11,
+          "source_ref": "Isa.45:11",
+          "ko": "다가올 일들을 이루신 주 하나님, 이스라엘의 거룩한 이가 이렇게 말씀하신다. “내 아들들에 관해 내게 묻고, 내 손으로 한 일들에 관해 내게 명령하여라.",
+          "grc": "ὅτι οὕτως λέγει Κύριος ὁ θεὸς ὁ ἅγιος Ἰσραὴλ ὁ ποιήσας τὰ ἐπερχόμενα Ἐρωτήσατέ με περὶ τῶν υἱῶν μου, καὶ περὶ τῶν ἔργων τῶν χειρῶν μου ἐντείλασθέ μοι.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 12,
+          "source_ref": "Isa.45:12",
+          "ko": "내가 땅과 그 위의 사람을 만들었다. 내 손으로 하늘을 굳게 세웠고 모든 별들에게 명령했다.",
+          "grc": "ἐγὼ ἐποίησα γῆν καὶ ἄνθρωπον ἐπ᾽ αὐτῆς, ἐγὼ τῇ χειρί μου ἐστερέωσα τὸν οὐρανόν, ἐγὼ πᾶσι τοῖς ἄστροις ἐνετειλάμην.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 13,
+          "source_ref": "Isa.45:13",
+          "ko": "내가 그를 의롭게 왕으로 일으켰다. 그의 모든 길은 곧다. 그가 내 성읍을 세우고, 몸값이나 선물 없이 내 백성의 포로들을 돌아오게 할 것이다.” 주 사바오트께서 말씀하셨다.",
+          "grc": "ἐγὼ ἤγειρα αὐτὸν μετὰ δικαιοσύνης βασιλέα, καὶ πᾶσαι αἱ ὁδοὶ αὐτοῦ εὐθεῖαι· οὗτος οἰκοδομήσει τὴν πόλιν μου, καὶ τὴν αἰχμαλωσίαν τοῦ λαοῦ μου ἐπιστρέψει, οὐ μετὰ λύτρων οὐδὲ μετὰ δώρων, εἶπεν Κύριος σαβαώθ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 14,
+          "source_ref": "Isa.45:14",
+          "ko": "주 사바오트께서 이렇게 말씀하신다. “이집트의 수고와 에티오피아의 무역, 키 큰 스바 사람들이 네게로 넘어올 것이다. 그들은 네 종이 되어 수갑에 묶인 채 네 뒤를 따를 것이다. 네게 와서 절하고 네 앞에서 기도할 것이다. ‘하나님께서 당신 안에 계시며 당신 외에는 하나님이 없습니다.",
+          "grc": "Οὕτως λέγει Κύριος σαβαώθ Ἐκοπίασεν Αἴγυπτος, καὶ ἐμπορία Αἰθιόπων, καὶ οἱ Σαβαεὶμ ἄνδρες ὑψηλοὶ ἐπὶ σὲ διαβήσονται, καὶ σοὶ ἔσονται δοῦλοι καὶ ὀπίσω σου ἀκολουθήσουσιν δεδεμένοι χειροπέδαις, καὶ διαβήσονται πρὸς σὲ καὶ προσκυνήσουσίν σοι, καὶ ἐν σοὶ προσεύξονται· ὅτι ἐν σοὶ ὁ θεός ἐστιν καὶ οὐκ ἔστιν θεὸς πλὴν σοῦ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 15,
+          "source_ref": "Isa.45:15",
+          "ko": "당신은 하나님, 이스라엘의 하나님이신데 우리는 알지 못했습니다.’”",
+          "grc": "σὺ γὰρ εἶ θεός, καὶ οὐκ ᾔδειμεν, ὁ θεὸς τοῦ Ἰσραήλ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 16,
+          "source_ref": "Isa.45:16",
+          "ko": "그를 대적하는 모든 이는 부끄러움과 수치를 당하며 수치 속에 갈 것이다. “섬들아, 내게로 새로워져라.”",
+          "grc": "αἰσχυνθήσονται καὶ ἐντραπήσονται πάντες οἱ ἀντικείμενοι αὐτῷ, καὶ πορεύσονται ἐν αἰσχύνῃ. ἐγκαινίζεσθε πρὸς μέ, νῆσοι.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 17,
+          "source_ref": "Isa.45:17",
+          "ko": "이스라엘은 주께 영원한 구원으로 구원받는다. 그들은 영원히 부끄러움이나 수치를 당하지 않을 것이다.",
+          "grc": "Ἰσραὴλ σώζεται ὑπὸ Κυρίου σωτηρίαν αἰώνιον· οὐκ αἰσχυνθήσονται οὐδὲ μὴ ἐντραπῶσιν ἕως τοῦ αἰῶνος.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 18,
+          "source_ref": "Isa.45:18",
+          "ko": "하늘을 만드신 주께서 이렇게 말씀하신다. 그는 땅을 드러내고 만드신 하나님이다. 친히 땅을 구분하셨고, 헛되도록 만들지 않고 사람이 살도록 빚으셨다. “내가 있으며, 다른 이가 없다.",
+          "grc": "Οὕτως λέγει Κύριος ὁ ποιήσας τὸν οὐρανόν, οὗτος ὁ θεὸς ὁ καταδείξας τὴν γῆν καὶ ποιήσας αὐτήν, αὐτὸς διώρισεν αὐτήν, οὐκ εἰς κενὸν ἐποίησεν, ἀλλὰ κατοικεῖσθαι ἔπλασεν αὐτήν, Ἐγώ εἰμι, καὶ οὐκ ἔστιν ἔτι.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 19,
+          "source_ref": "Isa.45:19",
+          "ko": "나는 은밀히 말하지 않았고, 땅의 어두운 곳에서 말하지도 않았다. 야곱의 후손에게 ‘헛된 것을 찾아라’라고 하지 않았다. 내가, 내가 바로 의를 말하고 진리를 알리는 주다.",
+          "grc": "οὐκ ἐν κρυφῇ λελάληκα οὐδὲ ἐν τόπῳ γῆς σκοτεινῷ· οὐκ εἶπα τῷ σπέρματι Ἰακώβ Μάταιον ζητήσατε· ἐγώ εἰμι ἐγώ εἰμι Κύριος ὁ λαλῶν δικαιοσύνην καὶ ἀναγγέλλων ἀλήθειαν.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 20,
+          "source_ref": "Isa.45:20",
+          "ko": "민족들 가운데서 구원받는 이들아, 모여 오너라. 함께 의논하여라. 자기의 새긴 나무 우상을 들고 구원하지 못하는 신들에게 기도하는 이들은 알지 못했다.",
+          "grc": "συνάχθητε καὶ ἥκετε, βουλεύσασθε ἅμα, οἱ σωζόμενοι ἀπὸ τῶν ἐθνῶν. οὐκ ἔγνωσαν οἱ αἴροντες τὸ ξύλον γλύμμα αὐτῶν, καὶ προσευχόμενοι πρὸς θεοὺς οἳ οὐ σώζουσιν.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 21,
+          "source_ref": "Isa.45:21",
+          "ko": "그들이 알려 주려거든 가까이 오게 하여라. 누가 처음부터 이 일들을 듣게 하였는지 함께 알게 하려는 것이다. 그때 너희에게 알려졌다. 나는 하나님이다. 나 외에 다른 이가 없고, 의로우며 구원하는 이는 나밖에 없다.",
+          "grc": "εἰ ἀναγγελοῦσιν, ἐγγισάτωσαν, ἵνα γνῶσιν ἅμα τίς ἀκουστὰ ἐποίησεν ταῦτα ἀπ᾽ ἀρχῆς· τότε ἀνηγγέλη ὑμῖν Ἐγὼ ὁ θεός, καὶ οὐκ ἔστιν ἄλλος πλὴν ἐμοῦ, δίκαιος καὶ σωτήρ, οὐκ ἔστιν παρὲξ ἐμοῦ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 22,
+          "source_ref": "Isa.45:22",
+          "ko": "땅끝에 있는 이들아, 내게 돌아와 구원받아라. 나는 하나님이며 다른 이가 없다.",
+          "grc": "ἐπιστράφητε ἐπ᾽ ἐμὲ καὶ σωθήσεσθε, οἱ ἀπ᾽ ἐσχάτου τῆς γῆς· ἐγώ εἰμι ὁ θεός, καὶ οὐκ ἔστιν ἄλλος.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 23,
+          "source_ref": "Isa.45:23",
+          "ko": "내가 나 자신을 두고 맹세한다. 참으로 내 입에서 의가 나갈 것이며 내 말들은 돌아오지 않을 것이다. 모든 무릎이 내게 꿇고 모든 혀가 하나님을 두고 맹세할 것이다.",
+          "grc": "κατ᾽ ἐμαυτοῦ ὀμνύω, εἰ μὴ ἐξελεύσεται ἐκ τοῦ στόματός μου δικαιοσύνη, οἱ λόγοι μου οὐκ ἀποστραφήσονται, ὅτι ἐμοὶ κάμψει πᾶν γόνυ, καὶ ὀμεῖται πᾶσα γλῶσσα τὸν θεόν,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 24,
+          "source_ref": "Isa.45:24",
+          "ko": "그들은 말할 것이다. ‘의와 영광이 그에게 올 것이다.’ 스스로를 구별해 세우는 모든 이는 부끄러움을 당할 것이다.",
+          "grc": "λέγων Δικαιοσύνη καὶ δόξα πρὸς αὐτὸν ἥξει, καὶ αἰσχυνθήσονται πάντες οἱ διορίζοντες αὐτούς·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 25,
+          "source_ref": "Isa.45:25",
+          "ko": "이스라엘 자손의 모든 후손은 주로 말미암아 의롭다 함을 받고 하나님 안에서 영광을 얻을 것이다.”",
+          "grc": "ἀπὸ Κυρίου δικαιωθήσονται, καὶ ἐν τῷ θεῷ ἐνδοξασθήσεται πᾶν τὸ σπέρμα τῶν υἱῶν Ἰσραήλ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        }
+      ],
+      "pairs": [
+        {
+          "id": "col2-treasures-p1",
+          "nt": {
+            "ko_verse": 3,
+            "ko_phrase": "지혜와 지식의 모든 보화가 감취어 있느니라",
+            "grc_verse": 3,
+            "grc_phrase": "πάντες οἱ θησαυροὶ τῆς σοφίας καὶ γνώσεως ἀπόκρυφοι"
+          },
+          "lxx": {
+            "ko_verse": 3,
+            "ko_phrase": "어둠 속의 숨겨진 보물들을",
+            "grc_verse": 3,
+            "grc_phrase": "θησαυροὺς σκοτινοὺς ἀποκρύφους"
+          },
+          "relation": "숨겨진 보물의 비유"
+        }
+      ],
+      "notes": [
+        {
+          "title": "대조의 성격",
+          "text": "숨겨진 보화를 주시는 하나님의 약속을 그리스도 안에 감추어진 지혜와 지식의 보화와 비교합니다."
+        }
+      ],
+      "related_comparisons": [],
+      "related_references": [],
+      "boundary_notes": [],
+      "lxx_text_form": "Swete selected text",
+      "index_verification": {
+        "na28": "reference_verified_from_scan_ocr",
+        "ubs6": "pending",
+        "verified_source": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research/page/n972/mode/1up",
+        "verified_source_edition": "NA28",
+        "source_entry": {
+          "ot": "Is 45:3",
+          "nt": "Col 2:3"
+        },
+        "classification": "editorial; source row marks may cover multiple NT references",
+        "reviewed_on": "2026-09-22",
+        "verification_method": "reference_pairs_checked_in_OCR_of_primary_scan",
+        "page": 859,
+        "source_typography": "not_transcribed"
+      },
+      "verse_comparisons": [
+        {
+          "id": "col2-treasures-verse-1",
+          "pair_ids": [
+            "col2-treasures-p1"
+          ],
+          "nt": [
+            {
+              "verse": 3,
+              "ko": "그 안에는 지혜와 지식의 모든 보화가 감취어 있느니라",
+              "grc": "ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας καὶ γνώσεως ἀπόκρυφοι.",
+              "grc_html": "<span class=\"grc-changed\">ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας</span> <span class=\"grc-shared\">καὶ</span> <span class=\"grc-changed\">γνώσεως ἀπόκρυφοι</span>."
+            }
+          ],
+          "lxx": [
+            {
+              "verse": 3,
+              "ko": "어둠 속의 숨겨진 보물들을 네게 주고 보이지 않던 것들을 열어 보이겠다. 네 이름을 부르는 내가 주 하나님, 이스라엘의 하나님인 줄 네가 알게 하려는 것이다.",
+              "grc": "καὶ δώσω σοι θησαυροὺς σκοτινοὺς ἀποκρύφους, ἀοράτους ἀνοίξω σοι, ἵνα γνῷς ὅτι ἐγὼ Κύριος ὁ θεὸς ὁ καλῶν τὸ ὄνομά σου, θεὸς Ἰσραήλ.",
+              "grc_html": "<span class=\"grc-shared\">καὶ</span> <span class=\"grc-changed\">δώσω σοι θησαυροὺς σκοτινοὺς ἀποκρύφους, ἀοράτους ἀνοίξω σοι, ἵνα γνῷς ὅτι ἐγὼ Κύριος ὁ θεὸς ὁ καλῶν τὸ ὄνομά σου, θεὸς Ἰσραήλ</span>."
+            }
+          ],
+          "differences": [
+            {
+              "nt": "ἐν ᾧ εἰσιν πάντες οἱ θησαυροὶ τῆς σοφίας",
+              "lxx": "",
+              "relation": "신약 쪽 어구"
+            },
+            {
+              "nt": "γνώσεως ἀπόκρυφοι",
+              "lxx": "δώσω σοι θησαυροὺς σκοτινοὺς ἀποκρύφους ἀοράτους ἀνοίξω σοι ἵνα γνῷς ὅτι ἐγὼ Κύριος ὁ θεὸς ὁ καλῶν τὸ ὄνομά σου θεὸς Ἰσραήλ",
+              "relation": "표현 차이"
+            }
+          ],
+          "notes": [
+            {
+              "title": "구약과 신약의 문맥",
+              "text": "숨겨진 보화를 주시는 하나님의 약속을 그리스도 안에 감추어진 지혜와 지식의 보화와 비교합니다.",
+              "pair_id": null
+            }
+          ],
+          "summary": "",
+          "focus_rows": [
+            {
+              "label": "숨겨진 보물의 비유",
+              "pair_id": "col2-treasures-p1",
+              "nt": {
+                "ko": "지혜와 지식의 모든 보화가 감취어 있느니라",
+                "grc": "πάντες οἱ θησαυροὶ τῆς σοφίας καὶ γνώσεως ἀπόκρυφοι",
+                "grc_html": "<span class=\"grc-changed\">πάντες οἱ θησαυροὶ τῆς σοφίας καὶ γνώσεως ἀπόκρυφοι</span>"
+              },
+              "lxx": {
+                "ko": "어둠 속의 숨겨진 보물들을",
+                "grc": "θησαυροὺς σκοτινοὺς ἀποκρύφους",
+                "grc_html": "<span class=\"grc-changed\">θησαυροὺς σκοτινοὺς ἀποκρύφους</span>"
+              }
+            }
+          ],
+          "focus_text_kind": "quotation",
+          "sources": []
+        }
+      ],
+      "ot_chapter": {
+        "title": "이사야 45장",
+        "book": "isa",
+        "chapter": 45,
+        "edition": "개역한글",
+        "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=45",
+        "source_sha256": "5e0a0bb6886960dc557e0df6fbca4e44fe3c1fe91f3a91428d09d401fbf593c0",
+        "source_chapters": [],
+        "verse_refs": {},
+        "verses": [
+          {
+            "verse": 1,
+            "ko": "나 여호와는 나의 기름 받은 고레스의 오른손을 잡고 열국으로 그 앞에 항복하게 하며 열왕의 허리를 풀며 성 문을 그 앞에 열어서 닫지 못하게 하리라 내가 고레스에게 이르기를"
+          },
+          {
+            "verse": 2,
+            "ko": "내가 네 앞서 가서 험한 곳을 평탄케 하며 놋문을 쳐서 부수며 쇠빗장을 꺾고"
+          },
+          {
+            "verse": 3,
+            "ko": "네게 흑암 중의 보화와 은밀한 곳에 숨은 재물을 주어서 너로 너를 지명하여 부른 자가 나 여호와 이스라엘의 하나님인줄 알게 하리라"
+          },
+          {
+            "verse": 4,
+            "ko": "내가 나의 종 야곱, 나의 택한 이스라엘을 위하여 너를 지명하여 불렀나니 너는 나를 알지 못하였을찌라도 나는 네게 칭호를 주었노라"
+          },
+          {
+            "verse": 5,
+            "ko": "나는 여호와라 나 외에 다른이가 없나니 나 밖에 신이 없느니라 너는 나를 알지 못하였을찌라도 나는 네 띠를 동일 것이요"
+          },
+          {
+            "verse": 6,
+            "ko": "해 뜨는 곳에서든지 지는 곳에서든지 나 밖에 다른이가 없는줄을 무리로 알게 하리라 나는 여호와라 다른이가 없느니라"
+          },
+          {
+            "verse": 7,
+            "ko": "나는 빛도 짓고 어두움도 창조하며 나는 평안도 짓고 환난도 창조하나니 나는 여호와라 이 모든 일을 행하는 자니라 하였노라"
+          },
+          {
+            "verse": 8,
+            "ko": "너 하늘이여 위에서부터 의로움을 비 같이 듣게 할찌어다 궁창이여 의를 부어 내릴찌어다 땅이여 열려서 구원을 내고 의도 함께 움돋게 할찌어다 나 여호와가 이 일을 창조하였느니라"
+          },
+          {
+            "verse": 9,
+            "ko": "질그릇 조각 중 한 조각 같은 자가 자기를 지으신 자로 더불어 다툴찐대 화 있을찐저 진흙이 토기장이를 대하여 너는 무엇을 만드느뇨 할 수 있겠으며 너의 만든 것이 너를 가리켜 그는 손이 없다 할 수 있겠느뇨"
+          },
+          {
+            "verse": 10,
+            "ko": "아비에게 묻기를 네가 무엇을 났느냐 어미에게 묻기를 네가 무엇을 낳으려고 구로하느냐 하는 자에게 화 있을찐저"
+          },
+          {
+            "verse": 11,
+            "ko": "이스라엘의 거룩하신 자 곧 이스라엘을 지으신 여호와께서 가라사대 장래 일을 내게 물으라 또 내 아들들의 일과 내 손으로 한 일에 대하여 내게 부탁하라"
+          },
+          {
+            "verse": 12,
+            "ko": "내가 땅을 만들고 그 위에 사람을 창조하였으며 내가 친수로 하늘을 펴고 그 만상을 명하였노라"
+          },
+          {
+            "verse": 13,
+            "ko": "내가 의로 그를 일으킨지라 그의 모든 길을 곧게 하리니 그가 나의 성읍을 건축할 것이며 나의 사로잡힌 자들을 값이나 갚음 없이 놓으리라 만군의 여호와의 말이니라 하셨느니라"
+          },
+          {
+            "verse": 14,
+            "ko": "여호와께서 말씀하시되 애굽의 수고한 것과 구스의 무역한 것과 스바의 장대한 족속들이 다 네게로 돌아와서 네게 속할 것이요 그들이 너를 따를 것이라 사슬에 매여 건너와서 네게 굴복하고 간구하기를 하나님이 과연 네게 계시고 그 외에는 다른 하나님이 없다 하리라 하시니라"
+          },
+          {
+            "verse": 15,
+            "ko": "구원자 이스라엘의 하나님이여 진실로 주는 스스로 숨어 계시는 하나님이시니이다"
+          },
+          {
+            "verse": 16,
+            "ko": "우상을 만드는 자는 부끄러움을 당하며 욕을 받아 다 함께 수욕 중에 들어갈 것이로되"
+          },
+          {
+            "verse": 17,
+            "ko": "이스라엘은 여호와께 구원을 입어 영원한 구원을 얻으리니 영세에 부끄러움을 당하거나 욕을 받지 아니하리로다"
+          },
+          {
+            "verse": 18,
+            "ko": "여호와는 하늘을 창조하신 하나님이시며 땅도 조성하시고 견고케 하시되 헛되이 창조치 아니하시고 사람으로 거하게 지으신 자시니라 그 말씀에 나는 여호와라 나 외에 다른이가 없느니라"
+          },
+          {
+            "verse": 19,
+            "ko": "나는 흑암한 곳에서 은밀히 말하지 아니하였으며 야곱 자손에게 너희가 나를 헛되이 찾으라 이르지 아니하였노라 나 여호와는 의를 말하고 정직을 고하느니라"
+          },
+          {
+            "verse": 20,
+            "ko": "열방 중에서 피난한 자들아 너희는 모여 오라 한가지로 가까이 나아 오라 나무 우상을 가지고 다니며 능히 구원치 못하는 신에게 기도하는 자들은 무지한 자니라"
+          },
+          {
+            "verse": 21,
+            "ko": "너희는 고하며 진술하고 또 피차 상의하여 보라 이 일을 이전부터 보인 자가 누구냐 예로부터 고한 자가 누구냐 나 여호와가 아니냐 나 외에 다른 신이 없나니 나는 공의를 행하며 구원을 베푸는 하나님이라 나 외에 다른이가 없느니라"
+          },
+          {
+            "verse": 22,
+            "ko": "땅 끝의 모든 백성아 나를 앙망하라 그리하면 구원을 얻으리라 나는 하나님이라 다른 이가 없음이니라"
+          },
+          {
+            "verse": 23,
+            "ko": "내가 나를 두고 맹세하기를 나의 입에서 의로운 말이 나갔은즉 돌아오지 아니 하나니 내게 모든 무릎이 꿇겠고 모든 혀가 맹약하리라 하였노라"
+          },
+          {
+            "verse": 24,
+            "ko": "어떤 자의 내게 대한 말에 의와 힘은 여호와께만 있나니 사람들은 그에게로 나아갈 것이라 무릇 그를 노하는 자는 부끄러움을 당하리라마는"
+          },
+          {
+            "verse": 25,
+            "ko": "이스라엘 자손은 다 여호와로 의롭다 함을 얻고 자랑하리라 하느니라 하셨느니라"
+          }
+        ]
+      },
+      "lxx_ot_verse_map": [
+        {
+          "lxx_verse": 1,
+          "ot_verse": 1
+        },
+        {
+          "lxx_verse": 2,
+          "ot_verse": 2
+        },
+        {
+          "lxx_verse": 3,
+          "ot_verse": 3
+        },
+        {
+          "lxx_verse": 4,
+          "ot_verse": 4
+        },
+        {
+          "lxx_verse": 5,
+          "ot_verse": 5
+        },
+        {
+          "lxx_verse": 6,
+          "ot_verse": 6
+        },
+        {
+          "lxx_verse": 7,
+          "ot_verse": 7
+        },
+        {
+          "lxx_verse": 8,
+          "ot_verse": 8
+        },
+        {
+          "lxx_verse": 9,
+          "ot_verse": 9
+        },
+        {
+          "lxx_verse": 10,
+          "ot_verse": 10
+        },
+        {
+          "lxx_verse": 11,
+          "ot_verse": 11
+        },
+        {
+          "lxx_verse": 12,
+          "ot_verse": 12
+        },
+        {
+          "lxx_verse": 13,
+          "ot_verse": 13
+        },
+        {
+          "lxx_verse": 14,
+          "ot_verse": 14
+        },
+        {
+          "lxx_verse": 15,
+          "ot_verse": 15
+        },
+        {
+          "lxx_verse": 16,
+          "ot_verse": 16
+        },
+        {
+          "lxx_verse": 17,
+          "ot_verse": 17
+        },
+        {
+          "lxx_verse": 18,
+          "ot_verse": 18
+        },
+        {
+          "lxx_verse": 19,
+          "ot_verse": 19
+        },
+        {
+          "lxx_verse": 20,
+          "ot_verse": 20
+        },
+        {
+          "lxx_verse": 21,
+          "ot_verse": 21
+        },
+        {
+          "lxx_verse": 22,
+          "ot_verse": 22
+        },
+        {
+          "lxx_verse": 23,
+          "ot_verse": 23
+        },
+        {
+          "lxx_verse": 24,
+          "ot_verse": 24
+        },
+        {
+          "lxx_verse": 25,
+          "ot_verse": 25
+        }
+      ]
+    },
+    {
+      "id": "col2-wisdom",
+      "lxx_chapter_id": "proverbs-2",
+      "ot_chapter_id": "proverbs-2",
+      "url": "/colossians-2/col2-wisdom/",
+      "kind": "암시",
+      "nt_book": "Colossians",
+      "nt_chapter": 2,
+      "nt_ref": "골로새서 2:3",
+      "nt_selected_verses": [
+        3
+      ],
+      "lxx_ref": "잠언 2:3-4",
+      "lxx_title": "잠언 2장",
+      "lxx_selected_verses": [
+        3,
+        4
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "source_ref": "Pro.2:1",
+          "ko": "아들아, 네가 내 명령의 말씀을 받아 네 안에 간직하면,",
+          "grc": "Υἱέ, ἐὰν δεξάμενος ῥῆσιν ἐμῆς ἐντολῆς κρύψῃς παρὰ σεαυτῷ,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 2,
+          "source_ref": "Pro.2:2",
+          "ko": "네 귀가 지혜에 귀를 기울이고 네 마음을 깨달음에 둘 것이다. 또 그것을 네 아들을 훈계하는 데 쓸 것이다.",
+          "grc": "ὑπακούσεται σοφίας τὸ οὖς σου, καὶ παραβαλεῖς καρδίαν σου εἰς σύνεσιν, παραβαλεῖς δὲ αὐτὴν ἐπὶ νουθέτησιν τῷ υἱῷ σου.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 3,
+          "source_ref": "Pro.2:3",
+          "ko": "네가 지혜를 부르고 깨달음을 향해 목소리를 높이며,",
+          "grc": "ἐὰν γὰρ τὴν σοφίαν ἐπικαλέσῃ καὶ τῇ συνέσει δῷς φωνήν σου,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 4,
+          "source_ref": "Pro.2:4",
+          "ko": "은을 찾듯 그것을 찾고 보물을 찾듯 그것을 샅샅이 구하면,",
+          "grc": "καὶ ἐὰν ζητήσῃς αὐτὴν ὡς ἀργύριον καὶ ὡς θησαυροὺς ἐξεραυνήσῃς αὐτήν·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 5,
+          "source_ref": "Pro.2:5",
+          "ko": "그때 주를 경외함을 깨닫고 하나님을 아는 지식을 찾을 것이다.",
+          "grc": "τότε συνήσεις φόβον Κυρίου, καὶ ἐπίγνωσιν θεοῦ εὑρήσεις.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 6,
+          "source_ref": "Pro.2:6",
+          "ko": "주께서 지혜를 주시며 그분 앞에서 지식과 깨달음이 나오기 때문이다.",
+          "grc": "ὅτι Κύριος δίδωσιν σοφίαν, καὶ ἀπὸ προσώπου αὐτοῦ γνῶσις καὶ σύνεσις·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 7,
+          "source_ref": "Pro.2:7",
+          "ko": "그분은 바르게 행하는 이들을 위해 구원을 쌓아 두시고 그들의 행로를 방패처럼 지키실 것이다.",
+          "grc": "καὶ θησαυρίζει τοῖς κατορθοῦσι σωτηρίαν, ὑπερασπιεῖ τὴν πορείαν αὐτῶν",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 8,
+          "source_ref": "Pro.2:8",
+          "ko": "그들이 의로운 규례의 길들을 지키도록 하시며, 자신을 경외하는 이들의 길을 지키실 것이다.",
+          "grc": "τοῦ φυλάξαι ὁδοὺς δικαιωμάτων, καὶ ὁδὸν εὐλαβουμένων αὐτὸν διαφυλάξει.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 9,
+          "source_ref": "Pro.2:9",
+          "ko": "그때 네가 의와 판결을 깨닫고 모든 좋은 길을 바르게 세울 것이다.",
+          "grc": "τότε συνήσεις δικαιοσύνην καὶ κρίμα, καὶ κατορθώσεις πάντας ἄξονας ἀγαθούς.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 10,
+          "source_ref": "Pro.2:10",
+          "ko": "지혜가 네 생각에 들어오고 분별이 네 영혼에 좋게 보이면,",
+          "grc": "ἐὰν γὰρ ἔλθῃ ἡ σοφία εἰς σὴν διάνοιαν, ἡ δὲ αἴσθησις τῇ σῇ ψυχῇ καλὴ εἶναι δόξῃ,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 11,
+          "source_ref": "Pro.2:11",
+          "ko": "좋은 판단이 너를 지키고 거룩한 생각이 너를 보호할 것이다.",
+          "grc": "βουλὴ καλὴ φυλάξει σε, ἔννοια δὲ ὁσία τηρήσει σε·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 12,
+          "source_ref": "Pro.2:12",
+          "ko": "그것이 악한 길과, 믿을 만한 것을 하나도 말하지 않는 사람에게서 너를 건져 줄 것이다.",
+          "grc": "ἵνα ῥύσηταί σε ἀπὸ ὁδοῦ κακῆς καὶ ἀπὸ ἀνδρὸς λαλοῦντος μηδὲν πιστόν.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 13,
+          "source_ref": "Pro.2:13",
+          "ko": "곧 어두운 길로 가려고 곧은 길을 버리는 자들,",
+          "grc": "ὦ οἱ ἐγκαταλείποντες ὁδοὺς εὐθείας τοῦ πορεύεσθαι ἐν ὁδοῖς σκότους,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 14,
+          "source_ref": "Pro.2:14",
+          "ko": "악한 일을 기뻐하고 악한 비뚤어짐을 즐기는 자들,",
+          "grc": "οἱ εὐφραινόμενοι ἐπὶ κακοῖς καὶ χαίροντες ἐπὶ διαστροφῇ κακῇ,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 15,
+          "source_ref": "Pro.2:15",
+          "ko": "그 오솔길이 굽고 바퀴 자국이 휘어진 자들에게서 건져 줄 것이다.",
+          "grc": "ὧν αἱ τρίβοι σκολιαὶ καὶ καμπύλαι αἱ τροχιαὶ αὐτῶν,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 16,
+          "source_ref": "Pro.2:16",
+          "ko": "그들은 너를 곧은 길에서 멀어지게 하고 의로운 판단에서 벗어나게 한다. 아들아, 악한 꾀가 너를 붙잡지 못하게 하여라.",
+          "grc": "τοῦ μακράν σε ποιῆσαι ἀπὸ ὁδοῦ εὐθείας καὶ ἀλλότριον τῆς δικαίας γνώμης. υἱέ, μή σε καταλάβῃ κακὴ βουλή,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 17,
+          "source_ref": "Pro.2:17",
+          "ko": "그 꾀는 젊은 날의 가르침을 버리고 하나님의 언약을 잊었다.",
+          "grc": "ἡ ἀπολείπουσα διδασκαλίαν νεότητος, καὶ διαθήκην θείαν ἐπιλελησμένη.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 18,
+          "source_ref": "Pro.2:18",
+          "ko": "그 꾀는 자기 집을 죽음 곁에 두고 자기 길을 음부 곁, 땅에서 난 자들 가운데 두었다.",
+          "grc": "ἔθετο γὰρ παρὰ τῷ θανάτῳ τὸν οἶκον αὐτῆς, καὶ παρὰ τῷ ᾅδῃ μετὰ τῶν γηγενῶν τοὺς ἄξονας αὐτῆς·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 19,
+          "source_ref": "Pro.2:19",
+          "ko": "그 길로 가는 이들은 모두 돌아오지 못하며 곧은 오솔길에 이르지 못한다. 생명의 해들이 그들을 붙들어 주지 못하기 때문이다.",
+          "grc": "πάντες οἱ πορευόμενοι ἐν αὐτῇ οὐκ ἀναστρέψουσιν οὐδὲ μὴ καταλάβωσιν τρίβους εὐθείας· οὐ γὰρ καταλαμβάνονται ὑπὸ ἐνιαυτῶν ζωῆς.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 20,
+          "source_ref": "Pro.2:20",
+          "ko": "그들이 좋은 오솔길로 걸었다면 의로운 길들이 평탄함을 알았을 것이다.",
+          "grc": "εἰ γὰρ ἐπορεύοντο τρίβους ἀγαθάς, εὕροσαν ἂν τρίβους δικαιοσύνης λείους.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 21,
+          "source_ref": "Pro.2:21",
+          "ko": "올곧은 이들은 땅에 거하고 거룩한 이들은 그곳에 남을 것이다.",
+          "grc": "ὅτι εὐθεῖς κατασκηνώσουσι γῆν, καὶ ὅσιοι ὑπολειφθήσονται ἐν αὐτῇ·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 22,
+          "source_ref": "Pro.2:22",
+          "ko": "불경한 자들의 길은 땅에서 사라지고 불법한 자들은 거기서 쫓겨날 것이다.",
+          "grc": "ὁδοὶ ἀσεβῶν ἐκ γῆς ὀλοῦνται, οἱ δὲ παράνομοι ἐξωσθήσονται ἀπ᾽ αὐτῆς.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        }
+      ],
+      "pairs": [],
+      "notes": [
+        {
+          "title": "대조의 성격",
+          "text": "지혜와 깨달음을 보물처럼 찾으라는 권면을 그리스도 안에 감추어진 지혜와 지식의 보화와 비교합니다."
+        },
+        {
+          "title": "악한 꾀",
+          "text": "16절부터 칠십인역은 길을 벗어나게 하는 악한 꾀를 의인화합니다. 개역한글은 음녀를 묘사합니다."
+        }
+      ],
+      "related_comparisons": [],
+      "related_references": [],
+      "boundary_notes": [],
+      "lxx_text_form": "Swete selected text",
+      "index_verification": {
+        "na28": "reference_verified_from_scan_ocr",
+        "ubs6": "pending",
+        "verified_source": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research/page/n969/mode/1up",
+        "verified_source_edition": "NA28",
+        "source_entry": {
+          "ot": "Prov 2:3–4",
+          "nt": "Col 2:3"
+        },
+        "classification": "editorial; source row marks may cover multiple NT references",
+        "reviewed_on": "2026-09-22",
+        "verification_method": "reference_pairs_checked_in_OCR_of_primary_scan",
+        "page": 856,
+        "source_typography": "not_transcribed"
+      },
+      "verse_comparisons": [],
+      "ot_chapter": {
+        "title": "잠언 2장",
+        "book": "pro",
+        "chapter": 2,
+        "edition": "개역한글",
+        "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=2",
+        "source_sha256": "ca668906b235f51dd70f05d367e320fad5cce7d7b54b099c27e9d926f5196a73",
+        "source_chapters": [],
+        "verse_refs": {},
+        "verses": [
+          {
+            "verse": 1,
+            "ko": "내 아들아 네가 만일 나의 말을 받으며 나의 계명을 네게 간직하며"
+          },
+          {
+            "verse": 2,
+            "ko": "네 귀를 지혜에 기울이며 네 마음을 명철에 두며"
+          },
+          {
+            "verse": 3,
+            "ko": "지식을 불러 구하며 명철을 얻으려고 소리를 높이며"
+          },
+          {
+            "verse": 4,
+            "ko": "은을 구하는 것 같이 그것을 구하며 감추인 보배를 찾는 것 같이 그것을 찾으면"
+          },
+          {
+            "verse": 5,
+            "ko": "여호와 경외하기를 깨달으며 하나님을 알게 되리니"
+          },
+          {
+            "verse": 6,
+            "ko": "대저 여호와는 지혜를 주시며 지식과 명철을 그 입에서 내심이며"
+          },
+          {
+            "verse": 7,
+            "ko": "그는 정직한 자를 위하여 완전한 지혜를 예비하시며 행실이 온전한 자에게 방패가 되시나니"
+          },
+          {
+            "verse": 8,
+            "ko": "대저 그는 공평의 길을 보호하시며 그 성도들의 길을 보전하려 하심이니라"
+          },
+          {
+            "verse": 9,
+            "ko": "그런즉 네가 공의와 공평과 정직 곧 모든 선한 길을 깨달을 것이라"
+          },
+          {
+            "verse": 10,
+            "ko": "곧 지혜가 네 마음에 들어가며 지식이 네 영혼에 즐겁게 될 것이요"
+          },
+          {
+            "verse": 11,
+            "ko": "근신이 너를 지키며 명철이 너를 보호하여"
+          },
+          {
+            "verse": 12,
+            "ko": "악한 자의 길과 패역을 말하는 자에게서 건져내리라"
+          },
+          {
+            "verse": 13,
+            "ko": "이 무리는 정직한 길을 떠나 어두운 길로 행하며"
+          },
+          {
+            "verse": 14,
+            "ko": "행악하기를 기뻐하며 악인의 패역을 즐거워하나니"
+          },
+          {
+            "verse": 15,
+            "ko": "그 길은 구부러지고 그 행위는 패역하니라"
+          },
+          {
+            "verse": 16,
+            "ko": "지혜가 또 너를 음녀에게서, 말로 호리는 이방 계집에게서 구원하리니"
+          },
+          {
+            "verse": 17,
+            "ko": "그는 소시의 짝을 버리며 그 하나님의 언약을 잊어버린 자라"
+          },
+          {
+            "verse": 18,
+            "ko": "그 집은 사망으로, 그 길은 음부로 기울어졌나니"
+          },
+          {
+            "verse": 19,
+            "ko": "누구든지 그에게로 가는 자는 돌아오지 못하며 또 생명길을 얻지 못하느니라"
+          },
+          {
+            "verse": 20,
+            "ko": "지혜가 너로 선한 자의 길로 행하게 하며 또 의인의 길을 지키게 하리니"
+          },
+          {
+            "verse": 21,
+            "ko": "대저 정직한 자는 땅에 거하며 완전한 자는 땅에 남아 있으리라"
+          },
+          {
+            "verse": 22,
+            "ko": "그러나 악인은 땅에서 끊어지겠고 궤휼한 자는 땅에서 뽑히리라"
+          }
+        ]
+      },
+      "lxx_ot_verse_map": [
+        {
+          "lxx_verse": 1,
+          "ot_verse": 1
+        },
+        {
+          "lxx_verse": 2,
+          "ot_verse": 2
+        },
+        {
+          "lxx_verse": 3,
+          "ot_verse": 3
+        },
+        {
+          "lxx_verse": 4,
+          "ot_verse": 4
+        },
+        {
+          "lxx_verse": 5,
+          "ot_verse": 5
+        },
+        {
+          "lxx_verse": 6,
+          "ot_verse": 6
+        },
+        {
+          "lxx_verse": 7,
+          "ot_verse": 7
+        },
+        {
+          "lxx_verse": 8,
+          "ot_verse": 8
+        },
+        {
+          "lxx_verse": 9,
+          "ot_verse": 9
+        },
+        {
+          "lxx_verse": 10,
+          "ot_verse": 10
+        },
+        {
+          "lxx_verse": 11,
+          "ot_verse": 11
+        },
+        {
+          "lxx_verse": 12,
+          "ot_verse": 12
+        },
+        {
+          "lxx_verse": 13,
+          "ot_verse": 13
+        },
+        {
+          "lxx_verse": 14,
+          "ot_verse": 14
+        },
+        {
+          "lxx_verse": 15,
+          "ot_verse": 15
+        },
+        {
+          "lxx_verse": 16,
+          "ot_verse": 16
+        },
+        {
+          "lxx_verse": 17,
+          "ot_verse": 17
+        },
+        {
+          "lxx_verse": 18,
+          "ot_verse": 18
+        },
+        {
+          "lxx_verse": 19,
+          "ot_verse": 19
+        },
+        {
+          "lxx_verse": 20,
+          "ot_verse": 20
+        },
+        {
+          "lxx_verse": 21,
+          "ot_verse": 21
+        },
+        {
+          "lxx_verse": 22,
+          "ot_verse": 22
+        }
+      ]
+    },
+    {
+      "id": "col2-rules",
+      "lxx_chapter_id": "isaiah-29",
+      "ot_chapter_id": "isaiah-29",
+      "url": "/colossians-2/col2-rules/",
+      "kind": "인용에 가까운 재사용",
+      "nt_book": "Colossians",
+      "nt_chapter": 2,
+      "nt_ref": "골로새서 2:22",
+      "nt_selected_verses": [
+        22
+      ],
+      "lxx_ref": "이사야 29:13",
+      "lxx_title": "이사야 29장",
+      "lxx_selected_verses": [
+        13
+      ],
+      "verses": [
+        {
+          "verse": 1,
+          "source_ref": "Isa.29:1",
+          "ko": "아, 다윗이 싸웠던 성읍 아리엘아! 해마다 소출을 모아라. 먹어라. 너희는 모압과 함께 먹을 것이다.",
+          "grc": "Οὐαὶ Ἀριὴλ πόλις, ἣν ἐπολέμησεν Δαυείδ. συναγάγετε γενήματα ἐνιαυτὸν ἐπὶ ἐνιαυτόν· φάγεσθε, φάγεσθε γὰρ σὺν Μωάβ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 2,
+          "source_ref": "Isa.29:2",
+          "ko": "내가 아리엘을 짓누르리니 그 힘과 부가 내 것이 될 것이다.",
+          "grc": "ἐκθλίψω γὰρ Ἀριήλ, καὶ ἔσται αὐτῆς ἡ ἰσχὺς καὶ ὁ πλοῦτος ἐμοί.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 3,
+          "source_ref": "Isa.29:3",
+          "ko": "다윗처럼 너를 에워싸고 네 둘레에 방책을 치며 망대들을 세우겠다.",
+          "grc": "καὶ κυκλώσω ὡς Δαυεὶδ ἐπὶ σέ, καὶ βαλῶ περὶ σὲ χάρακα, καὶ θήσω περὶ σὲ πύργους,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 4,
+          "source_ref": "Isa.29:4",
+          "ko": "네 말은 땅까지 낮아지고 땅속으로 잠길 것이다. 네 소리는 땅에서 말하는 자들의 소리처럼 되고 땅바닥을 향하여 약해질 것이다.",
+          "grc": "καὶ ταπεινωθήσονται εἰς τὴν γῆν οἱ λόγοι σου, καὶ εἰς τὴν γῆν οἱ λόγοι σου δύσονται· καὶ ἔσονται ὡς οἱ φωνοῦντες ἐκ τῆς γῆς ἡ φωνή σου, καὶ πρὸς τὸ ἔδαφος ἡ φωνή σου ἀσθενήσει.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 5,
+          "source_ref": "Isa.29:5",
+          "ko": "불경한 자들의 부는 벽에서 떨어지는 먼지처럼, 너를 억압하는 무리는 날리는 겨처럼 될 것이다. 그것은 순간에 갑자기 이루어질 것이다,",
+          "grc": "καὶ ἔσται ὡς κονιορτὸς ἀπὸ τοίχου ὁ πλοῦτος τῶν ἀσεβῶν, καὶ ὡς χνοῦς φερόμενος τὸ πλῆθος τῶν καταδυναστευόντων σε, καὶ ἔσται ὡς στιγμὴ παραχρῆμα",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 6,
+          "source_ref": "Isa.29:6",
+          "ko": "만군의 주님에게서. 천둥과 지진과 큰 소리, 몰아치는 폭풍과 삼키는 불꽃과 함께 돌아보아 벌하심이 있을 것이다.",
+          "grc": "παρὰ Κυρίου σαβαώθ· ἐπισκοπὴ γὰρ ἔσται μετὰ βροντῆς καὶ σεισμοῦ καὶ φωνὴ μεγάλη, καταιγὶς φερομένη καὶ φλὸξ πυρὸς κατεσθίουσα.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 7,
+          "source_ref": "Isa.29:7",
+          "ko": "예루살렘을 치러 온 모든 민족의 부와 예루살렘을 공격하는 모든 자, 그곳을 치려고 모인 모든 자와 괴롭히는 자들이 밤잠 가운데 꾸는 꿈처럼 될 것이다.",
+          "grc": "καὶ ἔσται ὡς ἐνυπνιαζόμενος καθ᾽ ὕπνους νυκτὸς ὁ πλοῦτος ἁπάντων τῶν ἐθνῶν ὅσοι ἐπεστράτευσαν ἐπὶ Ἰερουσαλήμ, καὶ πάντες οἱ στρατευόμενοι ἐπὶ Ἰερουσαλήμ, καὶ πάντες οἱ συνηγμένοι ἐπ᾽ αὐτὴν καὶ οἱ θλίβοντες αὐτήν.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 8,
+          "source_ref": "Isa.29:8",
+          "ko": "잠속에서 마시고 먹다가 깨면 꿈이 헛된 것처럼, 목마른 이가 마시는 꿈을 꾸다가 깨면 여전히 목마르고 그 마음의 기대가 헛된 것처럼, 시온산을 치러 온 모든 민족의 부가 그렇게 될 것이다.",
+          "grc": "καὶ ὡς οἱ ἐν τῷ ὕπνῳ πίνοντες καὶ ἔσθοντες, καὶ ἐξαναστάντων μάταιον τὸ ἐνύπνιον· καὶ ὃν τρόπον ἐνυπνιάζεται ὁ διψῶν ὡς πίνων, καὶ ἐξαναστὰς ἔτι διψᾷ, ἡ δὲ ψυχὴ αὐτοῦ εἰς κενὸν ἤλπισεν, οὕτως ἔσται ὁ πλοῦτος πάντων τῶν ἐθνῶν ὅσοι ἐπεστράτευσαν ἐπὶ τὸ ὄρος Σειών.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 9,
+          "source_ref": "Isa.29:9",
+          "ko": "힘이 풀리고 넋을 잃어라. 독주나 포도주 때문이 아닌 취기 속에 있어라.",
+          "grc": "Ἐκλύθητε καὶ ἔκστητε, κραιπαλήσατε οὐκ ἀπὸ σίκερα οὐδὲ ἀπὸ οἴνου·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 10,
+          "source_ref": "Isa.29:10",
+          "ko": "주님이 너희에게 혼미의 영을 마시게 하셨고, 그들과 그들의 예언자들과 지도자들, 곧 감추어진 것을 보는 자들의 눈을 감기실 것이기 때문이다.",
+          "grc": "ὅτι πεπότικεν ὑμᾶς Κύριος πνεύματι κατανύξεως, καὶ καμμύσει τοὺς ὀφθαλμοὺς αὐτῶν καὶ τῶν προφητῶν αὐτῶν καὶ τῶν ἀρχόντων αὐτῶν, οἱ ὁρῶντες τὰ κρυπτά.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 11,
+          "source_ref": "Isa.29:11",
+          "ko": "이 모든 말씀이 너희에게 봉인된 책의 말처럼 될 것이다. 글을 아는 사람에게 그것을 주며 “이것을 읽으시오” 하면, 그는 “봉인되어 있어 읽을 수 없습니다”라고 말할 것이다.",
+          "grc": "καὶ ἔσται ὑμῖν τὰ ῥήματα πάντα ταῦτα ὡς οἱ λόγοι τοῦ βιβλίου τοῦ ἐσφραγισμένου, ὃ ἂν δῶσιν αὐτὸ ἀνθρώπῳ ἐπισταμένῳ γράμματα λέγοντες Ἀνάγνωθι ταῦτα, καὶ ἐρεῖ Οὐ δύναμαι ἀναγνῶναι, ἐσφράγισται γάρ.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 12,
+          "source_ref": "Isa.29:12",
+          "ko": "이 책을 글을 모르는 사람의 손에 주며 “이것을 읽으시오” 하면, 그는 “저는 글을 모릅니다”라고 말할 것이다.",
+          "grc": "καὶ δοθήσεται τὸ βιβλίον τοῦτο εἰς χεῖρας ἀνθρώπου μὴ ἐπισταμένου γράμματα, καὶ ἐρεῖ αὐτῷ Ἀνάγνωθι τοῦτο· καὶ ἐρεῖ Οὐκ ἐπίσταμαι γράμματα.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 13,
+          "source_ref": "Isa.29:13",
+          "ko": "주님이 말씀하셨다. “이 백성은 입으로 내게 가까이 오고 입술로 나를 공경하지만 마음은 내게서 멀리 떨어져 있다. 그들은 사람들의 명령과 가르침을 가르치며 헛되이 나를 경배한다.",
+          "grc": "καὶ εἶπεν Κύριος Ἐγγίζει μοι ὁ λαὸς οὗτος ἐν τῷ στόματι αὐτοῦ, καὶ ἐν τοῖς χείλεσιν αὐτῶν τιμῶσίν με, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ᾽ ἐμοῦ· μάτην δὲ σέβονταί με διδάσκοντες ἐντάλματα ἀνθρώπων καὶ διδασκαλίας.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 14,
+          "source_ref": "Isa.29:14",
+          "ko": "그러므로 보라, 내가 다시 이 백성을 옮기겠다. 그들을 옮기고 지혜로운 자들의 지혜를 없애며 총명한 자들의 깨달음을 감추겠다.”",
+          "grc": "διὰ τοῦτο ἰδοὺ προσθήσω τοῦ μεταθεῖναι τὸν λαὸν τοῦτον· καὶ μεταθήσω αὐτούς, καὶ ἀπολῶ τὴν σοφίαν τῶν σοφῶν, καὶ τὴν σύνεσιν τῶν συνετῶν κρύψω.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 15,
+          "source_ref": "Isa.29:15",
+          "ko": "아, 깊은 곳에서 계획을 꾸미는 자들아! 그들의 일은 어둠 속에 있을 것이며 그들은 “누가 우리를 보았는가? 누가 우리나 우리가 하는 일을 알겠는가?” 할 것이다.",
+          "grc": "Οὐαὶ οἱ βαθέως βουλὴν ποιοῦντες καὶ ἔσται ἐν σκότει τὰ ἔργα αὐτῶν, καὶ ἐροῦσιν Τίς ἑόρακεν ἡμᾶς; καὶ τίς ἡμᾶς γνώσεται ἢ ἃ ἡμεῖς ποιοῦμεν;",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 16,
+          "source_ref": "Isa.29:16",
+          "ko": "너희는 토기장이의 진흙처럼 여겨지지 않겠느냐? 빚어진 것이 자기를 빚은 이에게 “당신이 나를 빚지 않았소” 하겠느냐? 만들어진 것이 만든 이에게 “당신은 나를 지혜롭게 만들지 않았소” 하겠느냐?",
+          "grc": "οὐχ ὡς ὁ πηλὸς τοῦ κεραμέως λογισθήσεσθε; μὴ ἐρεῖ τὸ πλάσμα τῷ πλάσαντι αὐτό Οὐ σύ με ἔπλασας; ἢ τὸ ποίημα τῷ ποιήσαντι Οὐ συνετῶς με ἐποίησας;",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 17,
+          "source_ref": "Isa.29:17",
+          "ko": "얼마 지나지 않아 레바논은 헤르멜산처럼 바뀌고 헤르멜은 숲으로 여겨질 것이다.",
+          "grc": "οὐκέτι μικρὸν καὶ μετατεθήσεται ὁ Λίβανος ὡς τὸ ὄρος τὸ Χερμέλ, καὶ τὸ Χερμὲλ εἰς δρυμὸν λογισθήσεται.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 18,
+          "source_ref": "Isa.29:18",
+          "ko": "그날에 귀먹은 이들이 책의 말을 듣고 어둠과 안개 속에 있던 눈먼 이들의 눈이 볼 것이다.",
+          "grc": "καὶ ἀκούσονται ἐν τῇ ἡμέρᾳ ἐκείνῃ κωφοὶ λόγους βιβλίου, καὶ οἱ ἐν τῷ σκότει καὶ οἱ ἐν τῇ ὁμίχλῃ ὀφθαλμοὶ τυφλῶν ὄψονται,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 19,
+          "source_ref": "Isa.29:19",
+          "ko": "가난한 이들이 주님 때문에 기뻐 즐거워하고 사람들 가운데 소망을 잃은 이들이 기쁨으로 가득할 것이다.",
+          "grc": "καὶ ἀγαλλιάσονται πτωχοὶ διὰ Κύριον ἐν εὐφροσύνῃ, καὶ οἱ ἀπηλπισμένοι τῶν ἀνθρώπων ἐμπλησθήσονται εὐφροσύνης.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 20,
+          "source_ref": "Isa.29:20",
+          "ko": "불법을 행하는 자는 사라지고 교만한 자는 멸망하였으며 악으로 불법을 저지르는 자들은 끊어졌다.",
+          "grc": "ἐξέλιπεν ἄνομος, καὶ ἀπώλετο ὑπερήφανος, καὶ ἐξωλεθρεύθησαν οἱ ἀνομοῦντες ἐπὶ κακίᾳ,",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 21,
+          "source_ref": "Isa.29:21",
+          "ko": "말로 사람들을 죄짓게 하는 자들도 그러하다. 그들은 성문에서 책망하는 모든 이 앞에 걸림돌을 놓을 것이다. 불의한 일로 의인을 그릇된 길로 밀었기 때문이다.",
+          "grc": "καὶ οἱ ποιοῦντες ἁμαρτεῖν ἀνθρώπους ἐν λόγῳ· πάντας δὲ τοὺς ἐλέγχοντας ἐν πύλαις πρόσκομμα θήσουσιν, ὅτι ἐπλαγίασαν ἐν ἀδίκοις δίκαιον.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 22,
+          "source_ref": "Isa.29:22",
+          "ko": "그러므로 주님이 아브라함에게서 구별해 내신 야곱의 집에 관하여 이렇게 말씀하신다. “이제 야곱은 부끄러워하지 않고 그 얼굴빛도 달라지지 않을 것이다.",
+          "grc": "διὰ τοῦτο τάδε λέγει Κύριος ἐπὶ τὸν οἶκον Ἰακώβ, ὃν ἀφώρισεν ἐξ Ἀβραάμ Οὐ νῦν αἰσχυνθήσεται Ἰακώβ, οὐδὲ νῦν τὸ πρόσωπον μεταβαλεῖ·",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 23,
+          "source_ref": "Isa.29:23",
+          "ko": "그들의 자녀들이 내 일을 볼 때, 나 때문에 내 이름을 거룩히 여기고 야곱의 거룩하신 분을 거룩히 여기며 이스라엘의 하나님을 두려워할 것이다.",
+          "grc": "ἀλλ᾽ ὅταν ἴδωσιν τὰ τέκνα αὐτῶν τὰ ἔργα μου, δι᾽ ἐμὲ ἁγιάσωσιν τὸ ὄνομά μου, καὶ ἁγιάσωσιν τὸν ἅγιον Ἰακώβ, καὶ τὸν θεὸν τοῦ Ἰσραὴλ φοβηθήσονται.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        },
+        {
+          "verse": 24,
+          "source_ref": "Isa.29:24",
+          "ko": "영으로 헤매던 이들은 깨달음을 알게 되고 원망하던 이들은 순종을 배우며 더듬거리던 혀들은 평화를 말하는 법을 배울 것이다.”",
+          "grc": "καὶ γνώσονται πλανώμενοι τῷ πνεύματι σύνεσιν, οἱ δὲ γογγύζοντες μαθήσονται ὑπακούειν, καὶ αἱ γλῶσσαι αἱ ψελλίζουσαι μαθήσονται λαλεῖν εἰρήνην.",
+          "text_status": "present",
+          "verse_kind": "verse",
+          "textual_note": null
+        }
+      ],
+      "pairs": [
+        {
+          "id": "col2-rules-p1",
+          "nt": {
+            "ko_verse": 22,
+            "ko_phrase": "사람의 명과 가르침을",
+            "grc_verse": 22,
+            "grc_phrase": "τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων"
+          },
+          "lxx": {
+            "ko_verse": 13,
+            "ko_phrase": "사람들의 명령과 가르침을",
+            "grc_verse": 13,
+            "grc_phrase": "ἐντάλματα ἀνθρώπων καὶ διδασκαλίας"
+          },
+          "relation": "어순·관사 변화"
+        }
+      ],
+      "notes": [
+        {
+          "title": "대조의 성격",
+          "text": "사람의 명령으로 가르치는 예배를 책망하는 이사야의 말을 음식과 접촉에 관한 규정에 적용합니다."
+        }
+      ],
+      "related_comparisons": [],
+      "related_references": [],
+      "boundary_notes": [],
+      "lxx_text_form": "Swete selected text",
+      "index_verification": {
+        "na28": "reference_verified_from_scan_ocr",
+        "ubs6": "pending",
+        "verified_source": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research/page/n971/mode/1up",
+        "verified_source_edition": "NA28",
+        "source_entry": {
+          "ot": "Is 29:13",
+          "nt": "Col 2:22"
+        },
+        "classification": "editorial; source row marks may cover multiple NT references",
+        "reviewed_on": "2026-09-22",
+        "verification_method": "reference_pairs_checked_in_OCR_of_primary_scan",
+        "page": 858,
+        "source_typography": "not_transcribed"
+      },
+      "verse_comparisons": [
+        {
+          "id": "col2-rules-verse-1",
+          "pair_ids": [
+            "col2-rules-p1"
+          ],
+          "nt": [
+            {
+              "verse": 22,
+              "ko": "(이 모든 것은 쓰는대로 부패에 돌아 가리라) 사람의 명과 가르침을 좇느냐",
+              "grc": "ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων;",
+              "grc_html": "<span class=\"grc-changed\">ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει, κατὰ τὰ</span> <span class=\"grc-shared\">ἐντάλματα καὶ διδασκαλίας</span> <span class=\"grc-changed\">τῶν ἀνθρώπων</span>;"
+            }
+          ],
+          "lxx": [
+            {
+              "verse": 13,
+              "ko": "주님이 말씀하셨다. “이 백성은 입으로 내게 가까이 오고 입술로 나를 공경하지만 마음은 내게서 멀리 떨어져 있다. 그들은 사람들의 명령과 가르침을 가르치며 헛되이 나를 경배한다.",
+              "grc": "καὶ εἶπεν Κύριος Ἐγγίζει μοι ὁ λαὸς οὗτος ἐν τῷ στόματι αὐτοῦ, καὶ ἐν τοῖς χείλεσιν αὐτῶν τιμῶσίν με, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ᾽ ἐμοῦ· μάτην δὲ σέβονταί με διδάσκοντες ἐντάλματα ἀνθρώπων καὶ διδασκαλίας.",
+              "grc_html": "<span class=\"grc-changed\">καὶ εἶπεν Κύριος Ἐγγίζει μοι ὁ λαὸς οὗτος ἐν τῷ στόματι αὐτοῦ, καὶ ἐν τοῖς χείλεσιν αὐτῶν τιμῶσίν με, ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ᾽ ἐμοῦ· μάτην δὲ σέβονταί με διδάσκοντες</span> <span class=\"grc-shared\">ἐντάλματα</span> <span class=\"grc-changed\">ἀνθρώπων</span> <span class=\"grc-shared\">καὶ διδασκαλίας</span>."
+            }
+          ],
+          "differences": [
+            {
+              "nt": "ἅ ἐστιν πάντα εἰς φθορὰν τῇ ἀποχρήσει κατὰ τὰ",
+              "lxx": "καὶ εἶπεν Κύριος Ἐγγίζει μοι ὁ λαὸς οὗτος ἐν τῷ στόματι αὐτοῦ καὶ ἐν τοῖς χείλεσιν αὐτῶν τιμῶσίν με ἡ δὲ καρδία αὐτῶν πόρρω ἀπέχει ἀπ ἐμοῦ μάτην δὲ σέβονταί με διδάσκοντες",
+              "relation": "표현 차이"
+            },
+            {
+              "nt": "",
+              "lxx": "ἀνθρώπων",
+              "relation": "어순·배치"
+            },
+            {
+              "nt": "τῶν ἀνθρώπων",
+              "lxx": "",
+              "relation": "신약 쪽 어구"
+            }
+          ],
+          "notes": [
+            {
+              "title": "구약과 신약의 문맥",
+              "text": "사람의 명령으로 가르치는 예배를 책망하는 이사야의 말을 음식과 접촉에 관한 규정에 적용합니다.",
+              "pair_id": null
+            }
+          ],
+          "summary": "",
+          "focus_rows": [
+            {
+              "label": "어순·관사 변화",
+              "pair_id": "col2-rules-p1",
+              "nt": {
+                "ko": "사람의 명과 가르침을",
+                "grc": "τὰ ἐντάλματα καὶ διδασκαλίας τῶν ἀνθρώπων",
+                "grc_html": "<span class=\"grc-changed\">τὰ</span> <span class=\"grc-shared\">ἐντάλματα καὶ διδασκαλίας</span> <span class=\"grc-changed\">τῶν ἀνθρώπων</span>"
+              },
+              "lxx": {
+                "ko": "사람들의 명령과 가르침을",
+                "grc": "ἐντάλματα ἀνθρώπων καὶ διδασκαλίας",
+                "grc_html": "<span class=\"grc-shared\">ἐντάλματα</span> <span class=\"grc-changed\">ἀνθρώπων</span> <span class=\"grc-shared\">καὶ διδασκαλίας</span>"
+              }
+            }
+          ],
+          "focus_text_kind": "quotation",
+          "sources": []
+        }
+      ],
+      "ot_chapter": {
+        "title": "이사야 29장",
+        "book": "isa",
+        "chapter": 29,
+        "edition": "개역한글",
+        "source_url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=29",
+        "source_sha256": "9a7543ea8714cbe04bf218ad5914f06e29b5d4ac5e89b43c202ef74ebc1a10dc",
+        "source_chapters": [],
+        "verse_refs": {},
+        "verses": [
+          {
+            "verse": 1,
+            "ko": "슬프다 아리엘이여 아리엘이여 다윗의 진 친 성읍이여 년부년 절기가 돌아오려니와"
+          },
+          {
+            "verse": 2,
+            "ko": "내가 필경 너 아리엘을 괴롭게 하리니 네가 슬퍼하고 애곡하며 내게 아리엘과 같이 되리라"
+          },
+          {
+            "verse": 3,
+            "ko": "내가 너를 사면으로 둘러 진을 치며 군대로 너를 에우며 대를 쌓아 너를 치리니"
+          },
+          {
+            "verse": 4,
+            "ko": "네가 낮아져서 땅에서 말하며 네 말소리가 나직히 티끌에서 날 것이라 네 목소리가 신접한 자의 목소리 같이 땅에서 나며 네 말소리가 티끌에서 지껄거리리라"
+          },
+          {
+            "verse": 5,
+            "ko": "그럴지라도 네 대적의 무리는 세미한 티끌 같겠고 강포한 자의 무리는 불려 가는 겨 같으리니 그 일이 경각간에 갑자기 이룰 것이라"
+          },
+          {
+            "verse": 6,
+            "ko": "만군의 여호와께서 벽력과 지진과 큰 소리와 회리바람과 폭풍과 맹렬한 불꽃으로 그들을 징벌하실 것인즉"
+          },
+          {
+            "verse": 7,
+            "ko": "아리엘을 치는 열방의 무리 곧 아리엘과 그 보장을 쳐서 곤고케 하는 모든 자는 꿈 같이, 밤의 환상 같이 되리니"
+          },
+          {
+            "verse": 8,
+            "ko": "주린 자가 꿈에 먹었을지라도 깨면 그 속은 여전히 비고 목마른 자가 꿈에 마셨을지라도 깨면 곤비하며 그 속에 갈증이 있는 것 같이 시온산을 치는 열방의 무리가 그와 같으리라"
+          },
+          {
+            "verse": 9,
+            "ko": "너희는 놀라고 놀라라 너희는 소경이 되고 소경이 되라 그들의 취함이 포도주로 인함이 아니며 그들의 비틀거림이 독주로 인함이 아니라"
+          },
+          {
+            "verse": 10,
+            "ko": "대저 여호와께서 깊이 잠들게 하는 신을 너희에게 부어주사 너희의 눈을 감기셨음이니 눈은 선지자요 너희 머리를 덮으셨음이니 머리는 선견자라"
+          },
+          {
+            "verse": 11,
+            "ko": "그러므로 모든 묵시가 너희에게는 마치 봉한 책의 말이라 그것을 유식한 자에게 주며 이르기를 그대에게 청하노니 이를 읽으라 하면 대답하기를 봉하였으니 못하겠노라 할 것이요"
+          },
+          {
+            "verse": 12,
+            "ko": "또 무식한 자에게 주며 이르기를 그대에게 청하노니 이를 읽으라 하면 대답하기를 나는 무식하다 할 것이니라"
+          },
+          {
+            "verse": 13,
+            "ko": "주께서 가라사대 이 백성이 입으로는 나를 가까이하며 입술로는 나를 존경하나 그 마음은 내게서 멀리 떠났나니 그들이 나를 경외함은 사람의 계명으로 가르침을 받았을 뿐이라"
+          },
+          {
+            "verse": 14,
+            "ko": "그러므로 내가 이 백성 중에 기이한 일 곧 기이하고 가장 기이한 일을 다시 행하리니 그들 중의 지혜자의 지혜가 없어지고 명철자의 총명이 가리워지리라"
+          },
+          {
+            "verse": 15,
+            "ko": "화 있을찐저 자기의 도모를 여호와께 깊이 숨기려하는 자여 그 일을 어두운데서 행하며 이르기를 누가 우리를 보랴 누가 우리를 알랴 하니"
+          },
+          {
+            "verse": 16,
+            "ko": "너희의 패리함이 심하도다 토기장이를 어찌 진흙 같이 여기겠느냐 지음을 받은 물건이 어찌 자기를 지은 자에 대하여 이르기를 그가 나를 짓지 아니하였다 하겠으며 빚음을 받은 물건이 자기를 빚은 자에 대하여 이르기를 그가 총명이 없다 하겠느냐"
+          },
+          {
+            "verse": 17,
+            "ko": "미구에 레바논이 기름진 밭으로 변하지 않겠으며 기름진 밭이 삼림으로 여김이 되지 않겠느냐"
+          },
+          {
+            "verse": 18,
+            "ko": "그 날에 귀머거리가 책의 말을 들을 것이며 어둡고 캄캄한데서 소경의 눈이 볼 것이며"
+          },
+          {
+            "verse": 19,
+            "ko": "겸손한 자가 여호와를 인하여 기쁨이 더하겠고 사람 중 빈핍한 자가 이스라엘의 거룩하신 자를 인하여 즐거워하리니"
+          },
+          {
+            "verse": 20,
+            "ko": "이는 강포한 자가 소멸되었으며 경만한 자가 그쳤으며 죄악의 기회를 엿보던 자가 다 끊어졌음이라"
+          },
+          {
+            "verse": 21,
+            "ko": "그들은 송사에 사람에게 죄를 입히며 성문에서 판단하는 자를 올무로 잡듯하며 헛된 일로 의인을 억울케 하느니라"
+          },
+          {
+            "verse": 22,
+            "ko": "그러므로 아브라함을 구속하신 여호와께서 야곱 족속에 대하여 말씀하시되 야곱이 이제부터는 부끄러워 아니하겠고 그 얼굴이 이제부터는 실색하지 아니할 것이며"
+          },
+          {
+            "verse": 23,
+            "ko": "그 자손은 나의 손으로 그 가운데서 행한 것을 볼 때에 내 이름을 거룩하다 하며 야곱의 거룩한 자를 거룩하다 하며 이스라엘의 하나님을 경외할 것이며"
+          },
+          {
+            "verse": 24,
+            "ko": "마음이 혼미하던 자도 총명하게 되며 원망하던 자도 교훈을 받으리라 하셨느니라"
+          }
+        ]
+      },
+      "lxx_ot_verse_map": [
+        {
+          "lxx_verse": 1,
+          "ot_verse": 1
+        },
+        {
+          "lxx_verse": 2,
+          "ot_verse": 2
+        },
+        {
+          "lxx_verse": 3,
+          "ot_verse": 3
+        },
+        {
+          "lxx_verse": 4,
+          "ot_verse": 4
+        },
+        {
+          "lxx_verse": 5,
+          "ot_verse": 5
+        },
+        {
+          "lxx_verse": 6,
+          "ot_verse": 6
+        },
+        {
+          "lxx_verse": 7,
+          "ot_verse": 7
+        },
+        {
+          "lxx_verse": 8,
+          "ot_verse": 8
+        },
+        {
+          "lxx_verse": 9,
+          "ot_verse": 9
+        },
+        {
+          "lxx_verse": 10,
+          "ot_verse": 10
+        },
+        {
+          "lxx_verse": 11,
+          "ot_verse": 11
+        },
+        {
+          "lxx_verse": 12,
+          "ot_verse": 12
+        },
+        {
+          "lxx_verse": 13,
+          "ot_verse": 13
+        },
+        {
+          "lxx_verse": 14,
+          "ot_verse": 14
+        },
+        {
+          "lxx_verse": 15,
+          "ot_verse": 15
+        },
+        {
+          "lxx_verse": 16,
+          "ot_verse": 16
+        },
+        {
+          "lxx_verse": 17,
+          "ot_verse": 17
+        },
+        {
+          "lxx_verse": 18,
+          "ot_verse": 18
+        },
+        {
+          "lxx_verse": 19,
+          "ot_verse": 19
+        },
+        {
+          "lxx_verse": 20,
+          "ot_verse": 20
+        },
+        {
+          "lxx_verse": 21,
+          "ot_verse": 21
+        },
+        {
+          "lxx_verse": 22,
+          "ot_verse": 22
+        },
+        {
+          "lxx_verse": 23,
+          "ot_verse": 23
+        },
+        {
+          "lxx_verse": 24,
+          "ot_verse": 24
+        }
+      ]
+    }
+  ],
+  "site_scope": {
+    "nt_chapters": 260,
+    "nt_verse_slots": 7958,
+    "nt_verses": 7942,
+    "lxx_chapters": 290,
+    "lxx_verse_slots": 7171,
+    "lxx_translated_slots": 7152,
+    "ot_verses": 7169,
+    "comparisons": 1253,
+    "phrase_pairs": 1347,
+    "nt_books": 27,
+    "ot_chapters": 291
+  }
+}

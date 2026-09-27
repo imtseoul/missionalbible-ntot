@@ -1,0 +1,50 @@
+{
+  "id": "revelation-4",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/revelation-4/rv4-throne/",
+      "nt": "계 4:2",
+      "ot": "에스겔 1:26",
+      "lead": "하늘의 보좌",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-4/rv4-thunder/",
+      "nt": "계 4:5",
+      "ot": "출애굽기 19:16",
+      "lead": "번개와 음성과 우레",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-4/rv4-lamps/",
+      "nt": "계 4:5",
+      "ot": "스가랴 4:2",
+      "lead": "일곱 등불",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-4/rv4-crystal/",
+      "nt": "계 4:6",
+      "ot": "에스겔 1:22",
+      "lead": "수정 같은 바다",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-4/rv4-creatures/",
+      "nt": "계 4:6–8",
+      "ot": "에스겔 1:5, 10, 18",
+      "lead": "네 생물과 가득한 눈",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-4/rv4-holy/",
+      "nt": "계 4:8",
+      "ot": "이사야 6:2–3",
+      "lead": "거룩하다 거룩하다 거룩하다",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

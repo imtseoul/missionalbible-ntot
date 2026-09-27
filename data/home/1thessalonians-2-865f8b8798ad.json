@@ -1,0 +1,22 @@
+{
+  "id": "1thessalonians-2",
+  "book": "1thessalonians",
+  "name": "데살로니가전서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/1thessalonians-2/1th2-hearts/",
+      "nt": "살전 2:4",
+      "ot": "예레미야 11:20",
+      "lead": "마음을 살피시는 하나님",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/1thessalonians-2/1th2-sins/",
+      "nt": "살전 2:16",
+      "ot": "창세기 15:16",
+      "lead": "죄가 차오름",
+      "kind": "암시"
+    }
+  ]
+}

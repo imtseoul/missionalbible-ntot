@@ -1,0 +1,36 @@
+{
+  "id": "1corinthians-13",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 13,
+  "rows": [
+    {
+      "url": "/1corinthians-13/c13-cymbal/",
+      "nt": "고전 13:1",
+      "ot": "시편 150:5",
+      "lead": "울리는 제금",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/1corinthians-13/c13-evil/",
+      "nt": "고전 13:5",
+      "ot": "스가랴 8:17",
+      "lead": "악한 것을 생각하지 않음",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-13/c13-face/",
+      "nt": "고전 13:12",
+      "ot": "창세기 32:30",
+      "lead": "얼굴과 얼굴을 대하여",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-13/c13-riddles/",
+      "nt": "고전 13:12",
+      "ot": "민수기 12:8",
+      "lead": "수수께끼와 대면",
+      "kind": "암시"
+    }
+  ]
+}

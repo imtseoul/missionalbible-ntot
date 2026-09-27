@@ -1,0 +1,92 @@
+{
+  "id": "revelation-1",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/revelation-1/rv1-reveal/",
+      "nt": "계 1:1",
+      "ot": "다니엘 2:28–29, 45",
+      "lead": "반드시 일어날 일",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-being/",
+      "nt": "계 1:4",
+      "ot": "출애굽기 3:14",
+      "lead": "계시고 계셨고 오실 이",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-1/rv1-witness/",
+      "nt": "계 1:5",
+      "ot": "시편 88:28, 38",
+      "lead": "충성된 증인과 땅의 왕들",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-1/rv1-priests/",
+      "nt": "계 1:6",
+      "ot": "출애굽기 19:6",
+      "lead": "나라와 제사장",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-1/rv1-clouds/",
+      "nt": "계 1:7",
+      "ot": "다니엘 7:13",
+      "lead": "구름과 함께 오심",
+      "kind": "결합 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-mourning/",
+      "nt": "계 1:7",
+      "ot": "스가랴 12:10–14",
+      "lead": "그를 보고 애곡함",
+      "kind": "결합 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-lampstands/",
+      "nt": "계 1:12",
+      "ot": "스가랴 4:2",
+      "lead": "금 등잔대",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-robe/",
+      "nt": "계 1:13–15",
+      "ot": "다니엘 10:5–6",
+      "lead": "빛나는 몸과 불 같은 눈",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-hair/",
+      "nt": "계 1:14",
+      "ot": "다니엘 7:9",
+      "lead": "흰 머리털",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-waters/",
+      "nt": "계 1:15",
+      "ot": "에스겔 1:24",
+      "lead": "많은 물의 소리",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-sword/",
+      "nt": "계 1:16",
+      "ot": "이사야 49:2",
+      "lead": "입에서 나오는 칼",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-1/rv1-first-last/",
+      "nt": "계 1:17",
+      "ot": "이사야 44:6",
+      "lead": "처음과 마지막",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

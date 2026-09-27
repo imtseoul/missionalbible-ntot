@@ -1,0 +1,22 @@
+{
+  "id": "ephesians-5",
+  "book": "ephesians",
+  "name": "에베소서",
+  "chapter": 5,
+  "rows": [
+    {
+      "url": "/ephesians-5/eph5-husband/",
+      "nt": "엡 5:23",
+      "ot": "창세기 3:16",
+      "lead": "남편과 아내",
+      "kind": "암시"
+    },
+    {
+      "url": "/ephesians-5/eph5-flesh/",
+      "nt": "엡 5:31",
+      "ot": "창세기 2:24",
+      "lead": "둘이 한 몸",
+      "kind": "직접 인용"
+    }
+  ]
+}

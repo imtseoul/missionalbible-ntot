@@ -1,0 +1,29 @@
+{
+  "id": "hebrews-8",
+  "book": "hebrews",
+  "name": "히브리서",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/hebrews-8/hb8-seat/",
+      "nt": "히 8:1",
+      "ot": "시편 109:1",
+      "lead": "하늘의 왕좌 우편",
+      "kind": "암시"
+    },
+    {
+      "url": "/hebrews-8/hb8-pattern/",
+      "nt": "히 8:5",
+      "ot": "출애굽기 25:40",
+      "lead": "산에서 보인 본",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-8/hb8-covenant/",
+      "nt": "히 8:8–12",
+      "ot": "예레미야 38:31–34",
+      "lead": "새 언약",
+      "kind": "직접 인용"
+    }
+  ]
+}

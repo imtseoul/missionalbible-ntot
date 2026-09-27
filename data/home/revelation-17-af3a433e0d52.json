@@ -1,0 +1,50 @@
+{
+  "id": "revelation-17",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 17,
+  "rows": [
+    {
+      "url": "/revelation-17/rv17-waters/",
+      "nt": "계 17:1, 15",
+      "ot": "예레미야 28:13",
+      "lead": "많은 물 위에 앉음",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-17/rv17-cup/",
+      "nt": "계 17:2, 4",
+      "ot": "예레미야 28:7",
+      "lead": "만국을 취하게 하는 금잔",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-17/rv17-blood/",
+      "nt": "계 17:6",
+      "ot": "이사야 34:7",
+      "lead": "피에 취함",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-17/rv17-kings/",
+      "nt": "계 17:12",
+      "ot": "다니엘 7:20",
+      "lead": "열 뿔과 왕들",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-17/rv17-lord/",
+      "nt": "계 17:14",
+      "ot": "신명기 10:17",
+      "lead": "만주의 주",
+      "kind": "호칭의 재사용"
+    },
+    {
+      "url": "/revelation-17/rv17-naked/",
+      "nt": "계 17:16",
+      "ot": "호세아 2:3",
+      "lead": "벌거벗겨진 여인",
+      "kind": "영상적 암시"
+    }
+  ]
+}

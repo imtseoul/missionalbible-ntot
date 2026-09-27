@@ -1,0 +1,29 @@
+{
+  "id": "2timothy-2",
+  "book": "2timothy",
+  "name": "디모데후서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/2timothy-2/2ti2-known/",
+      "nt": "딤후 2:19",
+      "ot": "민수기 16:5",
+      "lead": "주께서 자기 사람을 아심",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/2timothy-2/2ti2-name/",
+      "nt": "딤후 2:19",
+      "ot": "레위기 24:16",
+      "lead": "주의 이름을 부르는 이",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/2timothy-2/2ti2-confess/",
+      "nt": "딤후 2:19",
+      "ot": "이사야 26:13",
+      "lead": "주의 이름만을 부름",
+      "kind": "어휘적 암시"
+    }
+  ]
+}

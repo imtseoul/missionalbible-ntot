@@ -1,0 +1,22 @@
+{
+  "id": "matthew-8",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/matthew-8/mt8-infirmities/",
+      "nt": "마 8:16–17",
+      "ot": "이사야 53:4",
+      "lead": "연약함을 담당하고 병을 짊어짐",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-8/mt8-storm/",
+      "nt": "마 8:24",
+      "ot": "요나 1:4–5",
+      "lead": "폭풍 가운데 잠듦",
+      "kind": "서사적 암시"
+    }
+  ]
+}

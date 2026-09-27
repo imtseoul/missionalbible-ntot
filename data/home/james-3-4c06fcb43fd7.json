@@ -1,0 +1,36 @@
+{
+  "id": "james-3",
+  "book": "james",
+  "name": "야고보서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/james-3/jas3-bit/",
+      "nt": "약 3:3",
+      "ot": "시편 31:9",
+      "lead": "말의 입에 물린 재갈",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-3/jas3-venom/",
+      "nt": "약 3:8",
+      "ot": "시편 139:4",
+      "lead": "죽이는 독",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-3/jas3-likeness/",
+      "nt": "약 3:9",
+      "ot": "창세기 1:26–27",
+      "lead": "하나님의 형상인 사람",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-3/jas3-wise/",
+      "nt": "약 3:13",
+      "ot": "신명기 4:6",
+      "lead": "지혜롭고 총명한 사람",
+      "kind": "어휘적 암시"
+    }
+  ]
+}

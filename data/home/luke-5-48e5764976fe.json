@@ -1,0 +1,15 @@
+{
+  "id": "luke-5",
+  "book": "luke",
+  "name": "누가복음",
+  "chapter": 5,
+  "rows": [
+    {
+      "url": "/luke-5/lk5-forgive/",
+      "nt": "눅 5:21",
+      "ot": "이사야 44:22",
+      "lead": "죄를 없애시는 하나님",
+      "kind": "암시"
+    }
+  ]
+}

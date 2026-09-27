@@ -1,0 +1,22 @@
+{
+  "id": "matthew-20",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 20,
+  "rows": [
+    {
+      "url": "/matthew-20/mt20-wages/",
+      "nt": "마 20:8",
+      "ot": "신명기 24:14–15",
+      "lead": "저녁에 주는 품삯",
+      "kind": "율법적 배경"
+    },
+    {
+      "url": "/matthew-20/mt20-ransom/",
+      "nt": "마 20:28",
+      "ot": "이사야 53:10–12",
+      "lead": "많은 사람을 위한 생명",
+      "kind": "암시"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "titus-3",
+  "book": "titus",
+  "name": "디도서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/titus-3/ti3-mercy/",
+      "nt": "딛 3:5",
+      "ot": "신명기 9:5",
+      "lead": "우리의 의로운 행위가 아님",
+      "kind": "암시"
+    },
+    {
+      "url": "/titus-3/ti3-poured/",
+      "nt": "딛 3:6",
+      "ot": "요엘 3:1",
+      "lead": "영을 부어 주심",
+      "kind": "암시"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "james-4",
+  "book": "james",
+  "name": "야고보서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/james-4/jas4-humble/",
+      "nt": "약 4:6",
+      "ot": "잠언 3:34",
+      "lead": "겸손한 이에게 은혜",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/james-4/jas4-clean-hands/",
+      "nt": "약 4:8",
+      "ot": "이사야 1:15–16",
+      "lead": "손과 마음을 깨끗하게",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-4/jas4-clean/",
+      "nt": "약 4:8",
+      "ot": "시편 17:21, 25",
+      "lead": "깨끗한 손",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/james-4/jas4-return/",
+      "nt": "약 4:8",
+      "ot": "말라기 3:7",
+      "lead": "가까이 오면 가까이 오심",
+      "kind": "암시"
+    },
+    {
+      "url": "/james-4/jas4-mist/",
+      "nt": "약 4:14",
+      "ot": "호세아 13:3",
+      "lead": "잠깐 보이는 안개",
+      "kind": "암시"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "romans-13",
+  "book": "romans",
+  "name": "로마서",
+  "chapter": 13,
+  "rows": [
+    {
+      "url": "/romans-13/rm13-commandments/",
+      "nt": "롬 13:9",
+      "ot": "출애굽기 20:13–17",
+      "lead": "이웃에 관한 계명들",
+      "kind": "묶음 인용"
+    },
+    {
+      "url": "/romans-13/rm13-neighbor/",
+      "nt": "롬 13:9",
+      "ot": "레위기 19:18",
+      "lead": "네 이웃을 네 몸처럼 사랑하라",
+      "kind": "직접 인용"
+    }
+  ]
+}

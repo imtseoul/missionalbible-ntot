@@ -1,0 +1,22 @@
+{
+  "id": "2timothy-4",
+  "book": "2timothy",
+  "name": "디모데후서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/2timothy-4/2ti4-repay/",
+      "nt": "딤후 4:14",
+      "ot": "시편 61:13",
+      "lead": "행위대로 갚으심",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/2timothy-4/2ti4-lion/",
+      "nt": "딤후 4:17",
+      "ot": "시편 21:22",
+      "lead": "사자의 입에서 건짐",
+      "kind": "암시"
+    }
+  ]
+}

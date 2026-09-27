@@ -1,0 +1,92 @@
+{
+  "id": "revelation-12",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 12,
+  "rows": [
+    {
+      "url": "/revelation-12/rv12-birth/",
+      "nt": "계 12:2, 5",
+      "ot": "이사야 66:7",
+      "lead": "남자아이를 낳은 여인",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-labor/",
+      "nt": "계 12:2",
+      "ot": "이사야 26:17",
+      "lead": "해산의 고통",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-dragon/",
+      "nt": "계 12:3",
+      "ot": "이사야 27:1",
+      "lead": "큰 용",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-horns/",
+      "nt": "계 12:3",
+      "ot": "다니엘 7:7, 24",
+      "lead": "열 뿔",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-iron/",
+      "nt": "계 12:5",
+      "ot": "시편 2:9",
+      "lead": "철장으로 만국을 다스림",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-12/rv12-michael/",
+      "nt": "계 12:7",
+      "ot": "다니엘 10:13, 21",
+      "lead": "미가엘의 싸움",
+      "kind": "인물의 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-protector/",
+      "nt": "계 12:7",
+      "ot": "다니엘 12:1",
+      "lead": "백성을 지키는 미가엘",
+      "kind": "인물의 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-serpent/",
+      "nt": "계 12:9",
+      "ot": "창세기 3:1, 14–19",
+      "lead": "옛 뱀",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-wings/",
+      "nt": "계 12:14",
+      "ot": "출애굽기 19:4",
+      "lead": "큰 독수리의 두 날개",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-time/",
+      "nt": "계 12:14",
+      "ot": "다니엘 12:7",
+      "lead": "한 때와 두 때와 반 때",
+      "kind": "시간 표현의 재사용"
+    },
+    {
+      "url": "/revelation-12/rv12-earth/",
+      "nt": "계 12:16",
+      "ot": "민수기 16:30, 32",
+      "lead": "입을 벌리는 땅",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-12/rv12-offspring/",
+      "nt": "계 12:17",
+      "ot": "창세기 3:15",
+      "lead": "여인의 남은 자손",
+      "kind": "서사적 암시"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "revelation-15",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 15,
+  "rows": [
+    {
+      "url": "/revelation-15/rv15-moses/",
+      "nt": "계 15:3",
+      "ot": "출애굽기 15:1",
+      "lead": "모세의 노래",
+      "kind": "노래의 재사용"
+    },
+    {
+      "url": "/revelation-15/rv15-ways/",
+      "nt": "계 15:3–4",
+      "ot": "신명기 32:4",
+      "lead": "의롭고 참되신 길",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-15/rv15-servant/",
+      "nt": "계 15:3",
+      "ot": "민수기 12:7",
+      "lead": "하나님의 종 모세",
+      "kind": "호칭의 암시"
+    },
+    {
+      "url": "/revelation-15/rv15-nations/",
+      "nt": "계 15:4",
+      "ot": "이사야 2:2",
+      "lead": "모든 민족이 나아옴",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-15/rv15-glory/",
+      "nt": "계 15:8",
+      "ot": "이사야 6:1, 4",
+      "lead": "연기로 가득한 성전",
+      "kind": "영상적 암시"
+    }
+  ]
+}

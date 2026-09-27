@@ -1,0 +1,36 @@
+{
+  "id": "matthew-18",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 18,
+  "rows": [
+    {
+      "url": "/matthew-18/mt18-seek/",
+      "nt": "마 18:12–14",
+      "ot": "에스겔 34:6, 12, 16",
+      "lead": "잃은 양을 찾음",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-18/mt18-rebuke/",
+      "nt": "마 18:15",
+      "ot": "레위기 19:17",
+      "lead": "형제를 권고하라",
+      "kind": "율법적 배경"
+    },
+    {
+      "url": "/matthew-18/mt18-witness/",
+      "nt": "마 18:16",
+      "ot": "신명기 19:15",
+      "lead": "두세 증인의 입",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-18/mt18-forgive/",
+      "nt": "마 18:22",
+      "ot": "창세기 4:24",
+      "lead": "보복의 횟수와 용서",
+      "kind": "암시"
+    }
+  ]
+}

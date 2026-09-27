@@ -1,0 +1,29 @@
+{
+  "id": "1corinthians-6",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 6,
+  "rows": [
+    {
+      "url": "/1corinthians-6/c6-judge/",
+      "nt": "고전 6:2",
+      "ot": "다니엘 7:22",
+      "lead": "성도들의 판단",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-6/c6-one-flesh/",
+      "nt": "고전 6:16",
+      "ot": "창세기 2:24",
+      "lead": "둘이 한 몸이 됨",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-6/c6-joined/",
+      "nt": "고전 6:17",
+      "ot": "신명기 10:20",
+      "lead": "주께 붙어 있음",
+      "kind": "암시"
+    }
+  ]
+}

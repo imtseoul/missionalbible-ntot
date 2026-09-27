@@ -1,0 +1,50 @@
+{
+  "id": "revelation-9",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 9,
+  "rows": [
+    {
+      "url": "/revelation-9/rv9-smoke/",
+      "nt": "계 9:2",
+      "ot": "창세기 19:28",
+      "lead": "큰 화덕의 연기",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-9/rv9-furnace/",
+      "nt": "계 9:2",
+      "ot": "출애굽기 19:18",
+      "lead": "연기로 덮인 곳",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-9/rv9-euphrates/",
+      "nt": "계 9:14",
+      "ot": "창세기 15:18",
+      "lead": "큰 강 유브라데",
+      "kind": "지리적 암시"
+    },
+    {
+      "url": "/revelation-9/rv9-fire-mouth/",
+      "nt": "계 9:17",
+      "ot": "욥기 41:10–12",
+      "lead": "입에서 나오는 불과 연기",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-9/rv9-idols/",
+      "nt": "계 9:20",
+      "ot": "시편 113:12–15",
+      "lead": "보지도 듣지도 못하는 우상",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-9/rv9-commandments/",
+      "nt": "계 9:21",
+      "ot": "출애굽기 20:13–15",
+      "lead": "살인과 음행과 도둑질",
+      "kind": "율법적 암시"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mark-8",
+  "book": "mark",
+  "name": "마가복음",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/mark-8/mk8-eyes/",
+      "nt": "막 8:18",
+      "ot": "에스겔 12:2",
+      "lead": "눈이 있어도 보지 못함",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/mark-8/mk8-rejected/",
+      "nt": "막 8:31",
+      "ot": "시편 117:22",
+      "lead": "버림받음",
+      "kind": "암시"
+    },
+    {
+      "url": "/mark-8/mk8-adulterous/",
+      "nt": "막 8:38",
+      "ot": "호세아 2:2–5",
+      "lead": "음란한 세대",
+      "kind": "암시"
+    }
+  ]
+}

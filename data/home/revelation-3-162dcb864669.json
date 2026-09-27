@@ -1,0 +1,64 @@
+{
+  "id": "revelation-3",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/revelation-3/rv3-book/",
+      "nt": "계 3:5",
+      "ot": "출애굽기 32:32–33",
+      "lead": "책에서 지우지 않는 이름",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-3/rv3-living-book/",
+      "nt": "계 3:5",
+      "ot": "시편 68:29",
+      "lead": "생명책의 이름",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/revelation-3/rv3-deliverance/",
+      "nt": "계 3:5",
+      "ot": "다니엘 12:1",
+      "lead": "책에 기록된 이들",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-3/rv3-key/",
+      "nt": "계 3:7",
+      "ot": "이사야 22:22",
+      "lead": "열고 닫는 권세",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-3/rv3-bow/",
+      "nt": "계 3:9",
+      "ot": "이사야 49:23",
+      "lead": "발 앞에 엎드림",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-3/rv3-city/",
+      "nt": "계 3:9",
+      "ot": "이사야 60:14",
+      "lead": "박해하던 자들의 경배",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-3/rv3-amen/",
+      "nt": "계 3:14",
+      "ot": "이사야 65:16",
+      "lead": "참된 증인",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/revelation-3/rv3-buy/",
+      "nt": "계 3:18",
+      "ot": "이사야 55:1",
+      "lead": "내게서 사라",
+      "kind": "암시"
+    }
+  ]
+}

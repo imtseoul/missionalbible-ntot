@@ -1,0 +1,71 @@
+{
+  "id": "revelation-11",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 11,
+  "rows": [
+    {
+      "url": "/revelation-11/rv11-court/",
+      "nt": "계 11:2",
+      "ot": "시편 78:1",
+      "lead": "이방인에게 짓밟히는 성전",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-11/rv11-olive/",
+      "nt": "계 11:4",
+      "ot": "스가랴 4:3, 11, 14",
+      "lead": "두 올리브나무",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-11/rv11-fire/",
+      "nt": "계 11:5",
+      "ot": "열왕기하 1:10",
+      "lead": "대적을 삼키는 불",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-11/rv11-no-rain/",
+      "nt": "계 11:6",
+      "ot": "열왕기상 17:1",
+      "lead": "하늘을 닫음",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-11/rv11-beast/",
+      "nt": "계 11:7",
+      "ot": "다니엘 7:3, 21",
+      "lead": "짐승과 성도들의 전쟁",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-11/rv11-breath/",
+      "nt": "계 11:11",
+      "ot": "에스겔 37:5, 10",
+      "lead": "생기가 들어가 일어섬",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-11/rv11-kingdom/",
+      "nt": "계 11:15",
+      "ot": "다니엘 2:44",
+      "lead": "영원히 서는 나라",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-11/rv11-reign/",
+      "nt": "계 11:15",
+      "ot": "다니엘 7:14, 27",
+      "lead": "세상 나라의 주권",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-11/rv11-temple-storm/",
+      "nt": "계 11:19",
+      "ot": "이사야 29:6",
+      "lead": "우레와 지진",
+      "kind": "영상적 암시"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "galatians-1",
+  "book": "galatians",
+  "name": "갈라디아서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/galatians-1/gal1-called/",
+      "nt": "갈 1:15",
+      "ot": "예레미야 1:5",
+      "lead": "태에서부터 구별됨",
+      "kind": "암시"
+    },
+    {
+      "url": "/galatians-1/gal1-servant/",
+      "nt": "갈 1:15",
+      "ot": "이사야 49:1",
+      "lead": "태에서 부르신 주",
+      "kind": "암시"
+    },
+    {
+      "url": "/galatians-1/gal1-glory/",
+      "nt": "갈 1:24",
+      "ot": "이사야 49:3",
+      "lead": "나로 말미암아 하나님께 영광",
+      "kind": "암시"
+    }
+  ]
+}

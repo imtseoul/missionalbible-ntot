@@ -1,0 +1,64 @@
+{
+  "id": "romans-1",
+  "book": "romans",
+  "name": "로마서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/romans-1/rm1-faith/",
+      "nt": "롬 1:17",
+      "ot": "하박국 2:4",
+      "lead": "믿음으로 사는 의인",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-1/rm1-righteousness/",
+      "nt": "롬 1:17",
+      "ot": "이사야 51:5–6, 8",
+      "lead": "나타나는 의와 구원",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-1/rm1-heavens/",
+      "nt": "롬 1:20",
+      "ot": "시편 18:2",
+      "lead": "하늘이 전하는 영광",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-1/rm1-creation/",
+      "nt": "롬 1:20",
+      "ot": "시편 8:4",
+      "lead": "손으로 지으신 하늘",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-1/rm1-creator/",
+      "nt": "롬 1:20",
+      "ot": "이사야 40:26, 28",
+      "lead": "창조주의 능력",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-1/rm1-images/",
+      "nt": "롬 1:23",
+      "ot": "신명기 4:15–18",
+      "lead": "사람과 동물의 형상",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-1/rm1-exchange/",
+      "nt": "롬 1:23",
+      "ot": "시편 105:20",
+      "lead": "영광을 형상으로 바꾸다",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-1/rm1-male/",
+      "nt": "롬 1:27",
+      "ot": "레위기 18:22",
+      "lead": "남자와 남자",
+      "kind": "암시"
+    }
+  ]
+}

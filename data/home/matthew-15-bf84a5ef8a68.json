@@ -1,0 +1,36 @@
+{
+  "id": "matthew-15",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 15,
+  "rows": [
+    {
+      "url": "/matthew-15/mt15-parents/",
+      "nt": "마 15:4",
+      "ot": "출애굽기 20:12",
+      "lead": "부모를 공경하라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-15/mt15-curse/",
+      "nt": "마 15:4",
+      "ot": "출애굽기 21:16",
+      "lead": "부모를 훼방하는 자",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-15/mt15-lips/",
+      "nt": "마 15:7–9",
+      "ot": "이사야 29:13",
+      "lead": "입술의 공경과 먼 마음",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-15/mt15-lost/",
+      "nt": "마 15:24",
+      "ot": "이사야 53:6",
+      "lead": "잃은 양 같은 백성",
+      "kind": "암시"
+    }
+  ]
+}

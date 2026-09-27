@@ -1,0 +1,50 @@
+{
+  "id": "john-4",
+  "book": "john",
+  "name": "요한복음",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/john-4/jn4-land/",
+      "nt": "요 4:5",
+      "ot": "창세기 48:22",
+      "lead": "요셉에게 준 땅",
+      "kind": "서사적 배경"
+    },
+    {
+      "url": "/john-4/jn4-living-water/",
+      "nt": "요 4:10",
+      "ot": "스가랴 14:8",
+      "lead": "살아 있는 물",
+      "kind": "암시"
+    },
+    {
+      "url": "/john-4/jn4-spring/",
+      "nt": "요 4:14",
+      "ot": "이사야 58:11",
+      "lead": "마르지 않는 샘",
+      "kind": "암시"
+    },
+    {
+      "url": "/john-4/jn4-worship/",
+      "nt": "요 4:21",
+      "ot": "이사야 66:1",
+      "lead": "산과 예루살렘을 넘어",
+      "kind": "암시"
+    },
+    {
+      "url": "/john-4/jn4-harvest/",
+      "nt": "요 4:35",
+      "ot": "요엘 4:13",
+      "lead": "추수할 때",
+      "kind": "암시"
+    },
+    {
+      "url": "/john-4/jn4-rejoicing/",
+      "nt": "요 4:36",
+      "ot": "이사야 9:3",
+      "lead": "추수의 기쁨",
+      "kind": "암시"
+    }
+  ]
+}

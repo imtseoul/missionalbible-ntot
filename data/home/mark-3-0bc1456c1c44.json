@@ -1,0 +1,22 @@
+{
+  "id": "mark-3",
+  "book": "mark",
+  "name": "마가복음",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/mark-3/mk3-heart/",
+      "nt": "막 3:5",
+      "ot": "이사야 6:10",
+      "lead": "굳어진 마음",
+      "kind": "암시"
+    },
+    {
+      "url": "/mark-3/mk3-strong/",
+      "nt": "막 3:27",
+      "ot": "이사야 49:24–25",
+      "lead": "강한 자의 집",
+      "kind": "암시"
+    }
+  ]
+}

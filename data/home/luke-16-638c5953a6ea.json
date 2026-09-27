@@ -1,0 +1,15 @@
+{
+  "id": "luke-16",
+  "book": "luke",
+  "name": "누가복음",
+  "chapter": 16,
+  "rows": [
+    {
+      "url": "/luke-16/lk16-divorce/",
+      "nt": "눅 16:18",
+      "ot": "신명기 24:1",
+      "lead": "이혼과 재혼",
+      "kind": "암시 · 율법 배경"
+    }
+  ]
+}

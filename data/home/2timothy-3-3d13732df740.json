@@ -1,0 +1,22 @@
+{
+  "id": "2timothy-3",
+  "book": "2timothy",
+  "name": "디모데후서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/2timothy-3/2ti3-magicians/",
+      "nt": "딤후 3:8",
+      "ot": "출애굽기 7:11, 22",
+      "lead": "모세를 대적한 이들",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/2timothy-3/2ti3-delivered/",
+      "nt": "딤후 3:11",
+      "ot": "시편 33:20",
+      "lead": "모든 고난에서 건지심",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

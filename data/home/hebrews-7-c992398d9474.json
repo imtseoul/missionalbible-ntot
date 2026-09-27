@@ -1,0 +1,22 @@
+{
+  "id": "hebrews-7",
+  "book": "hebrews",
+  "name": "히브리서",
+  "chapter": 7,
+  "rows": [
+    {
+      "url": "/hebrews-7/hb7-melchizedek/",
+      "nt": "히 7:1–2, 4, 6, 10",
+      "ot": "창세기 14:17–20",
+      "lead": "멜기세덱과 아브라함",
+      "kind": "서사 재진술"
+    },
+    {
+      "url": "/hebrews-7/hb7-order/",
+      "nt": "히 7:3, 11, 17, 21",
+      "ot": "시편 109:4",
+      "lead": "맹세로 세워진 제사장",
+      "kind": "반복 인용과 암시"
+    }
+  ]
+}

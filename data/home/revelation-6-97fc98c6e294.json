@@ -1,0 +1,64 @@
+{
+  "id": "revelation-6",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 6,
+  "rows": [
+    {
+      "url": "/revelation-6/rv6-horses/",
+      "nt": "계 6:2–8",
+      "ot": "스가랴 6:1–3, 6",
+      "lead": "색이 다른 말들",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-6/rv6-death/",
+      "nt": "계 6:8",
+      "ot": "호세아 13:14",
+      "lead": "죽음과 음부",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-6/rv6-avenge/",
+      "nt": "계 6:10",
+      "ot": "시편 78:5, 10",
+      "lead": "어느 때까지입니까",
+      "kind": "기도의 재사용"
+    },
+    {
+      "url": "/revelation-6/rv6-sackcloth/",
+      "nt": "계 6:12",
+      "ot": "이사야 50:3",
+      "lead": "검은 베옷 같은 해",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-6/rv6-dark-sky/",
+      "nt": "계 6:12",
+      "ot": "이사야 13:10",
+      "lead": "빛을 잃는 해와 달",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-6/rv6-quake/",
+      "nt": "계 6:12",
+      "ot": "에스겔 38:19",
+      "lead": "큰 지진",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-6/rv6-stars/",
+      "nt": "계 6:13–14",
+      "ot": "이사야 34:4",
+      "lead": "떨어지는 별과 말리는 하늘",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-6/rv6-hide/",
+      "nt": "계 6:16",
+      "ot": "호세아 10:8",
+      "lead": "우리 위에 무너져라",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

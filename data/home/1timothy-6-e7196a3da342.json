@@ -1,0 +1,43 @@
+{
+  "id": "1timothy-6",
+  "book": "1timothy",
+  "name": "디모데전서",
+  "chapter": 6,
+  "rows": [
+    {
+      "url": "/1timothy-6/1ti6-nothing/",
+      "nt": "딤전 6:7",
+      "ot": "욥기 1:21",
+      "lead": "빈손으로 와서 빈손으로 감",
+      "kind": "암시"
+    },
+    {
+      "url": "/1timothy-6/1ti6-riches/",
+      "nt": "딤전 6:9",
+      "ot": "잠언 28:22",
+      "lead": "부자가 되려는 욕망",
+      "kind": "암시"
+    },
+    {
+      "url": "/1timothy-6/1ti6-man-of-god/",
+      "nt": "딤전 6:11",
+      "ot": "사무엘상 2:27",
+      "lead": "하나님의 사람",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/1timothy-6/1ti6-unseen/",
+      "nt": "딤전 6:16",
+      "ot": "출애굽기 33:20",
+      "lead": "사람이 볼 수 없는 하나님",
+      "kind": "암시"
+    },
+    {
+      "url": "/1timothy-6/1ti6-trust/",
+      "nt": "딤전 6:17",
+      "ot": "시편 61:11",
+      "lead": "재물에 마음을 두지 말라",
+      "kind": "암시"
+    }
+  ]
+}

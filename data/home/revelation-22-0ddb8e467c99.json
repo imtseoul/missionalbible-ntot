@@ -1,0 +1,85 @@
+{
+  "id": "revelation-22",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 22,
+  "rows": [
+    {
+      "url": "/revelation-22/rv22-river/",
+      "nt": "계 22:1",
+      "ot": "에스겔 47:1",
+      "lead": "보좌에서 흐르는 강",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-22/rv22-eden/",
+      "nt": "계 22:1–2",
+      "ot": "창세기 2:9–10",
+      "lead": "강과 생명나무",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-22/rv22-leaves/",
+      "nt": "계 22:2",
+      "ot": "에스겔 47:12",
+      "lead": "열매와 치료하는 잎",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-22/rv22-no-curse/",
+      "nt": "계 22:3",
+      "ot": "스가랴 14:11",
+      "lead": "다시는 저주가 없음",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-22/rv22-light/",
+      "nt": "계 22:5",
+      "ot": "이사야 60:19",
+      "lead": "주 하나님이 비추심",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-22/rv22-reign/",
+      "nt": "계 22:5",
+      "ot": "다니엘 7:18, 27",
+      "lead": "세세토록 왕 노릇함",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-22/rv22-prophecy/",
+      "nt": "계 22:6",
+      "ot": "다니엘 2:28–29, 45",
+      "lead": "반드시 일어날 일",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/revelation-22/rv22-holy/",
+      "nt": "계 22:11",
+      "ot": "다니엘 12:10",
+      "lead": "거룩한 자는 그대로 거룩하게",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-22/rv22-reward/",
+      "nt": "계 22:12",
+      "ot": "이사야 40:10",
+      "lead": "상급을 가지고 오심",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-22/rv22-come/",
+      "nt": "계 22:17",
+      "ot": "이사야 55:1",
+      "lead": "목마른 자는 오라",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-22/rv22-add/",
+      "nt": "계 22:18",
+      "ot": "신명기 4:2",
+      "lead": "말씀에 더하지 말라",
+      "kind": "율법 경고의 재사용"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "romans-8",
+  "book": "romans",
+  "name": "로마서",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/romans-8/rm8-offering/",
+      "nt": "롬 8:3",
+      "ot": "레위기 16:15–16",
+      "lead": "죄를 위한 제물",
+      "kind": "제의적 암시"
+    },
+    {
+      "url": "/romans-8/rm8-creation/",
+      "nt": "롬 8:20",
+      "ot": "창세기 3:14–19",
+      "lead": "저주 아래 놓인 피조 세계",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/romans-8/rm8-image/",
+      "nt": "롬 8:29",
+      "ot": "창세기 1:26–27",
+      "lead": "아들의 형상을 닮음",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-8/rm8-for-us/",
+      "nt": "롬 8:31",
+      "ot": "시편 117:6",
+      "lead": "하나님이 우리를 위하시면",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-8/rm8-son/",
+      "nt": "롬 8:32",
+      "ot": "창세기 22:16",
+      "lead": "아들을 아끼지 않음",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-8/rm8-accuse/",
+      "nt": "롬 8:33",
+      "ot": "이사야 50:8",
+      "lead": "누가 고발하겠는가",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-8/rm8-right-hand/",
+      "nt": "롬 8:34",
+      "ot": "시편 109:1",
+      "lead": "하나님 우편",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-8/rm8-sheep/",
+      "nt": "롬 8:36",
+      "ot": "시편 43:23",
+      "lead": "도살할 양처럼",
+      "kind": "직접 인용"
+    }
+  ]
+}

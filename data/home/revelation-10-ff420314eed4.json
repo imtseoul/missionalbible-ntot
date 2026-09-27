@@ -1,0 +1,64 @@
+{
+  "id": "revelation-10",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 10,
+  "rows": [
+    {
+      "url": "/revelation-10/rv10-cloud/",
+      "nt": "계 10:1",
+      "ot": "출애굽기 13:21",
+      "lead": "구름과 불",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-10/rv10-scroll/",
+      "nt": "계 10:2",
+      "ot": "에스겔 2:9",
+      "lead": "손에 든 두루마리",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-10/rv10-seal/",
+      "nt": "계 10:4",
+      "ot": "다니엘 12:4, 9",
+      "lead": "기록하지 말고 봉인하라",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-10/rv10-oath/",
+      "nt": "계 10:5–6",
+      "ot": "다니엘 12:7",
+      "lead": "하늘을 향해 들고 맹세함",
+      "kind": "행위의 암시"
+    },
+    {
+      "url": "/revelation-10/rv10-living/",
+      "nt": "계 10:5–6",
+      "ot": "신명기 32:40",
+      "lead": "영원히 살아 계신 이",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-10/rv10-creator/",
+      "nt": "계 10:6",
+      "ot": "출애굽기 20:11",
+      "lead": "하늘과 땅과 바다를 지으심",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-10/rv10-eat/",
+      "nt": "계 10:8–10",
+      "ot": "에스겔 3:1–3",
+      "lead": "두루마리를 먹음",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-10/rv10-nations/",
+      "nt": "계 10:11",
+      "ot": "예레미야 1:10",
+      "lead": "여러 민족과 왕들에게",
+      "kind": "소명의 암시"
+    }
+  ]
+}

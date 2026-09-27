@@ -1,0 +1,15 @@
+{
+  "id": "luke-8",
+  "book": "luke",
+  "name": "누가복음",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/luke-8/lk8-parables/",
+      "nt": "눅 8:10",
+      "ot": "이사야 6:9",
+      "lead": "보아도 보지 못하고",
+      "kind": "암시"
+    }
+  ]
+}

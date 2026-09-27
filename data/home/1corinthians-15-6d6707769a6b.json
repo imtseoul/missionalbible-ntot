@@ -1,0 +1,85 @@
+{
+  "id": "1corinthians-15",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 15,
+  "rows": [
+    {
+      "url": "/1corinthians-15/c15-sins/",
+      "nt": "고전 15:3",
+      "ot": "이사야 53:5–6, 8–9, 12",
+      "lead": "우리 죄를 위하여 죽으심",
+      "kind": "복음 전승의 배경"
+    },
+    {
+      "url": "/1corinthians-15/c15-reign/",
+      "nt": "고전 15:25",
+      "ot": "시편 109:1",
+      "lead": "원수를 발 아래 두기까지",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/1corinthians-15/c15-all-things/",
+      "nt": "고전 15:27",
+      "ot": "시편 8:7",
+      "lead": "만물을 발 아래 두심",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-15/c15-eat-drink/",
+      "nt": "고전 15:32",
+      "ot": "이사야 22:13",
+      "lead": "먹고 마시자",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-15/c15-seed/",
+      "nt": "고전 15:38",
+      "ot": "창세기 1:11–12",
+      "lead": "씨마다 주시는 몸",
+      "kind": "창조 이야기의 암시"
+    },
+    {
+      "url": "/1corinthians-15/c15-flesh/",
+      "nt": "고전 15:39",
+      "ot": "창세기 1:20, 24",
+      "lead": "서로 다른 육체",
+      "kind": "창조 이야기의 암시"
+    },
+    {
+      "url": "/1corinthians-15/c15-adam/",
+      "nt": "고전 15:45, 47",
+      "ot": "창세기 2:7",
+      "lead": "생령과 살리는 영",
+      "kind": "직접 인용과 해설"
+    },
+    {
+      "url": "/1corinthians-15/c15-earthly/",
+      "nt": "고전 15:49",
+      "ot": "창세기 5:3",
+      "lead": "형상을 입음",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-15/c15-victory/",
+      "nt": "고전 15:54",
+      "ot": "이사야 25:8",
+      "lead": "사망을 삼킨 승리",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/1corinthians-15/c15-death/",
+      "nt": "고전 15:55",
+      "ot": "호세아 13:14",
+      "lead": "사망아 너의 쏘는 것이 어디 있느냐",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/1corinthians-15/c15-labor/",
+      "nt": "고전 15:58",
+      "ot": "이사야 65:23",
+      "lead": "헛되지 않은 수고",
+      "kind": "암시"
+    }
+  ]
+}

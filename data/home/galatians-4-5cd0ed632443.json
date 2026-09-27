@@ -1,0 +1,57 @@
+{
+  "id": "galatians-4",
+  "book": "galatians",
+  "name": "갈라디아서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/galatians-4/gal4-hagar/",
+      "nt": "갈 4:22",
+      "ot": "창세기 16:15",
+      "lead": "여종에게서 난 아들",
+      "kind": "서사적 인용"
+    },
+    {
+      "url": "/galatians-4/gal4-isaac/",
+      "nt": "갈 4:22–23",
+      "ot": "창세기 21:2",
+      "lead": "약속으로 난 아들",
+      "kind": "서사적 인용"
+    },
+    {
+      "url": "/galatians-4/gal4-promise/",
+      "nt": "갈 4:23",
+      "ot": "창세기 17:16, 19",
+      "lead": "사라에게 주신 약속",
+      "kind": "서사적 배경"
+    },
+    {
+      "url": "/galatians-4/gal4-covenants/",
+      "nt": "갈 4:24",
+      "ot": "출애굽기 24:7–8",
+      "lead": "시내산의 언약",
+      "kind": "해석적 암시"
+    },
+    {
+      "url": "/galatians-4/gal4-rejoice/",
+      "nt": "갈 4:27",
+      "ot": "이사야 54:1",
+      "lead": "아이를 낳지 못하는 이여 기뻐하라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/galatians-4/gal4-persecution/",
+      "nt": "갈 4:29",
+      "ot": "창세기 21:9",
+      "lead": "두 아들의 갈등",
+      "kind": "해석적 인용"
+    },
+    {
+      "url": "/galatians-4/gal4-cast-out/",
+      "nt": "갈 4:30",
+      "ot": "창세기 21:10",
+      "lead": "여종과 그 아들을 내보내라",
+      "kind": "직접 인용"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "matthew-24",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 24,
+  "rows": [
+    {
+      "url": "/matthew-24/mt24-desolation/",
+      "nt": "마 24:15",
+      "ot": "다니엘 9:27",
+      "lead": "황폐하게 하는 가증한 것",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/matthew-24/mt24-sanctuary/",
+      "nt": "마 24:15",
+      "ot": "다니엘 11:31",
+      "lead": "더럽혀진 성소",
+      "kind": "인용 배경"
+    },
+    {
+      "url": "/matthew-24/mt24-abomination/",
+      "nt": "마 24:15",
+      "ot": "다니엘 12:11",
+      "lead": "제사가 사라진 뒤",
+      "kind": "인용 배경"
+    },
+    {
+      "url": "/matthew-24/mt24-distress/",
+      "nt": "마 24:21",
+      "ot": "다니엘 12:1",
+      "lead": "전에 없던 환난",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/matthew-24/mt24-darkness/",
+      "nt": "마 24:29",
+      "ot": "이사야 13:10",
+      "lead": "해와 달이 어두워짐",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/matthew-24/mt24-stars/",
+      "nt": "마 24:29",
+      "ot": "이사야 34:4",
+      "lead": "하늘의 별들이 떨어짐",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/matthew-24/mt24-clouds/",
+      "nt": "마 24:30",
+      "ot": "다니엘 7:13",
+      "lead": "구름을 타고 오는 인자",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/matthew-24/mt24-mourning/",
+      "nt": "마 24:30",
+      "ot": "스가랴 12:10, 12, 14",
+      "lead": "모든 족속의 통곡",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-24/mt24-gather/",
+      "nt": "마 24:31",
+      "ot": "신명기 30:4",
+      "lead": "하늘 끝에서 모으심",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-24/mt24-trumpet/",
+      "nt": "마 24:31",
+      "ot": "이사야 27:13",
+      "lead": "큰 나팔",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-24/mt24-word/",
+      "nt": "마 24:35",
+      "ot": "이사야 40:8",
+      "lead": "사라지지 않는 말씀",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-24/mt24-noah/",
+      "nt": "마 24:37",
+      "ot": "창세기 6:11–13",
+      "lead": "노아의 때",
+      "kind": "서사적 암시"
+    }
+  ]
+}

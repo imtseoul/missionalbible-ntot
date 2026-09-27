@@ -1,0 +1,71 @@
+{
+  "id": "galatians-3",
+  "book": "galatians",
+  "name": "갈라디아서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/galatians-3/gal3-faith/",
+      "nt": "갈 3:6",
+      "ot": "창세기 15:6",
+      "lead": "아브라함의 믿음",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-nations/",
+      "nt": "갈 3:8",
+      "ot": "창세기 12:3",
+      "lead": "모든 민족이 받을 복",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-blessing/",
+      "nt": "갈 3:8",
+      "ot": "창세기 18:18",
+      "lead": "그 안에서 모든 민족이 복을 받음",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-curse/",
+      "nt": "갈 3:10",
+      "ot": "신명기 27:26",
+      "lead": "율법의 모든 말씀",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-live/",
+      "nt": "갈 3:11",
+      "ot": "하박국 2:4",
+      "lead": "의인은 믿음으로 살리라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-do/",
+      "nt": "갈 3:12",
+      "ot": "레위기 18:5",
+      "lead": "행하는 자가 살리라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-tree/",
+      "nt": "갈 3:13",
+      "ot": "신명기 21:23",
+      "lead": "나무에 달린 이의 저주",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-covenant/",
+      "nt": "갈 3:16",
+      "ot": "창세기 17:8",
+      "lead": "너와 네 뒤의 씨",
+      "kind": "해석적 인용"
+    },
+    {
+      "url": "/galatians-3/gal3-mediator/",
+      "nt": "갈 3:19",
+      "ot": "신명기 5:4–5",
+      "lead": "중보자의 손",
+      "kind": "서사적 암시"
+    }
+  ]
+}

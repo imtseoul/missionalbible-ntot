@@ -1,0 +1,29 @@
+{
+  "id": "matthew-1",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/matthew-1/mt1-genealogy/",
+      "nt": "마 1:1",
+      "ot": "창세기 2:4",
+      "lead": "계보의 책",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-1/mt1-adam/",
+      "nt": "마 1:1",
+      "ot": "창세기 5:1",
+      "lead": "아담의 계보와 예수의 계보",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-1/mt1-emmanuel/",
+      "nt": "마 1:22–23",
+      "ot": "이사야 7:14",
+      "lead": "처녀가 아들을 낳으리라",
+      "kind": "직접 인용"
+    }
+  ]
+}

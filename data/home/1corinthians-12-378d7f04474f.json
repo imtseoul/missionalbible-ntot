@@ -1,0 +1,22 @@
+{
+  "id": "1corinthians-12",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 12,
+  "rows": [
+    {
+      "url": "/1corinthians-12/c12-mute/",
+      "nt": "고전 12:2",
+      "ot": "시편 113:13",
+      "lead": "말 못하는 우상",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-12/c12-silent/",
+      "nt": "고전 12:2",
+      "ot": "하박국 2:18",
+      "lead": "말 없는 형상",
+      "kind": "암시"
+    }
+  ]
+}

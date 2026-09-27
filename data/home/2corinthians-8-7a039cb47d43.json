@@ -1,0 +1,22 @@
+{
+  "id": "2corinthians-8",
+  "book": "2corinthians",
+  "name": "고린도후서",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/2corinthians-8/2co8-manna/",
+      "nt": "고후 8:15",
+      "ot": "출애굽기 16:18",
+      "lead": "많아도 남지 않고 적어도 모자라지 않음",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/2corinthians-8/2co8-honorable/",
+      "nt": "고후 8:21",
+      "ot": "잠언 3:4",
+      "lead": "하나님과 사람 앞에서",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

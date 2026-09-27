@@ -1,0 +1,57 @@
+{
+  "id": "2corinthians-6",
+  "book": "2corinthians",
+  "name": "고린도후서",
+  "chapter": 6,
+  "rows": [
+    {
+      "url": "/2corinthians-6/2co6-time/",
+      "nt": "고후 6:2",
+      "ot": "이사야 49:8",
+      "lead": "지금은 구원의 날",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/2corinthians-6/2co6-live/",
+      "nt": "고후 6:9",
+      "ot": "시편 117:17–18",
+      "lead": "죽는 자 같으나 살아 있음",
+      "kind": "암시"
+    },
+    {
+      "url": "/2corinthians-6/2co6-dwell/",
+      "nt": "고후 6:16",
+      "ot": "레위기 26:11–12",
+      "lead": "그들 가운데 거하리라",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/2corinthians-6/2co6-separate/",
+      "nt": "고후 6:17",
+      "ot": "이사야 52:11",
+      "lead": "나와서 따로 있으라",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/2corinthians-6/2co6-father/",
+      "nt": "고후 6:18",
+      "ot": "사무엘하 7:14",
+      "lead": "아버지와 자녀",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/2corinthians-6/2co6-children/",
+      "nt": "고후 6:18",
+      "ot": "이사야 43:6",
+      "lead": "아들들과 딸들",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/2corinthians-6/2co6-israel-father/",
+      "nt": "고후 6:18",
+      "ot": "예레미야 38:9",
+      "lead": "이스라엘의 아버지",
+      "kind": "인용 배경"
+    }
+  ]
+}

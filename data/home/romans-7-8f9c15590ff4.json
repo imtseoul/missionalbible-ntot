@@ -1,0 +1,36 @@
+{
+  "id": "romans-7",
+  "book": "romans",
+  "name": "로마서",
+  "chapter": 7,
+  "rows": [
+    {
+      "url": "/romans-7/rm7-covet/",
+      "nt": "롬 7:7",
+      "ot": "출애굽기 20:17",
+      "lead": "탐내지 마라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-7/rm7-life/",
+      "nt": "롬 7:10",
+      "ot": "레위기 18:5",
+      "lead": "생명을 위한 계명",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-7/rm7-deceived/",
+      "nt": "롬 7:11",
+      "ot": "창세기 3:13",
+      "lead": "나를 속였음",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-7/rm7-sin/",
+      "nt": "롬 7:14",
+      "ot": "시편 50:7",
+      "lead": "죄 아래 있는 사람",
+      "kind": "암시"
+    }
+  ]
+}

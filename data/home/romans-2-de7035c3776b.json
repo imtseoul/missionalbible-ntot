@@ -1,0 +1,43 @@
+{
+  "id": "romans-2",
+  "book": "romans",
+  "name": "로마서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/romans-2/rm2-deeds/",
+      "nt": "롬 2:6",
+      "ot": "시편 61:13",
+      "lead": "행위대로 갚으심",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-2/rm2-name/",
+      "nt": "롬 2:24",
+      "ot": "이사야 52:5",
+      "lead": "모독당하는 이름",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-2/rm2-nations/",
+      "nt": "롬 2:24",
+      "ot": "에스겔 36:20",
+      "lead": "민족들 가운데 더럽혀진 이름",
+      "kind": "인용 배경"
+    },
+    {
+      "url": "/romans-2/rm2-law/",
+      "nt": "롬 2:26",
+      "ot": "레위기 18:5",
+      "lead": "율법의 규례를 지킴",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-2/rm2-heart/",
+      "nt": "롬 2:29",
+      "ot": "신명기 30:6",
+      "lead": "마음의 할례",
+      "kind": "암시"
+    }
+  ]
+}

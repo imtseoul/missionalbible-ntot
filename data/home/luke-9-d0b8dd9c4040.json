@@ -1,0 +1,29 @@
+{
+  "id": "luke-9",
+  "book": "luke",
+  "name": "누가복음",
+  "chapter": 9,
+  "rows": [
+    {
+      "url": "/luke-9/lk9-third-day/",
+      "nt": "눅 9:22",
+      "ot": "호세아 6:2",
+      "lead": "셋째 날에 일어나다",
+      "kind": "암시"
+    },
+    {
+      "url": "/luke-9/lk9-listen/",
+      "nt": "눅 9:35",
+      "ot": "신명기 18:15",
+      "lead": "그의 말을 들어라",
+      "kind": "암시"
+    },
+    {
+      "url": "/luke-9/lk9-chosen/",
+      "nt": "눅 9:35",
+      "ot": "이사야 42:1",
+      "lead": "선택된 아들",
+      "kind": "암시"
+    }
+  ]
+}

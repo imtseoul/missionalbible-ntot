@@ -1,0 +1,29 @@
+{
+  "id": "matthew-17",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 17,
+  "rows": [
+    {
+      "url": "/matthew-17/mt17-listen/",
+      "nt": "마 17:5",
+      "ot": "신명기 18:15",
+      "lead": "너희는 그의 말을 들으라",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/matthew-17/mt17-elijah/",
+      "nt": "마 17:10–11",
+      "ot": "말라기 4:4–5",
+      "lead": "먼저 와서 회복하는 엘리야",
+      "kind": "해석적 인용"
+    },
+    {
+      "url": "/matthew-17/mt17-generation/",
+      "nt": "마 17:17",
+      "ot": "신명기 32:5, 20",
+      "lead": "믿음 없고 패역한 세대",
+      "kind": "암시"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hebrews-4",
+  "book": "hebrews",
+  "name": "히브리서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/hebrews-4/hb4-rest/",
+      "nt": "히 4:3, 5",
+      "ot": "시편 94:11",
+      "lead": "내 안식에 들어오지 못한다",
+      "kind": "반복 인용"
+    },
+    {
+      "url": "/hebrews-4/hb4-seventh/",
+      "nt": "히 4:4, 10",
+      "ot": "창세기 2:2",
+      "lead": "일곱째 날의 안식",
+      "kind": "인용과 재사용"
+    },
+    {
+      "url": "/hebrews-4/hb4-today/",
+      "nt": "히 4:7",
+      "ot": "시편 94:8",
+      "lead": "다시 정하신 오늘",
+      "kind": "반복 인용"
+    },
+    {
+      "url": "/hebrews-4/hb4-word/",
+      "nt": "히 4:12",
+      "ot": "이사야 55:11",
+      "lead": "일을 이루는 말씀",
+      "kind": "암시"
+    }
+  ]
+}

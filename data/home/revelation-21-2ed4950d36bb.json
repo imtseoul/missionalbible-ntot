@@ -1,0 +1,99 @@
+{
+  "id": "revelation-21",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 21,
+  "rows": [
+    {
+      "url": "/revelation-21/rv21-new/",
+      "nt": "계 21:1, 4",
+      "ot": "이사야 65:17, 19",
+      "lead": "새 하늘과 새 땅",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-heavens/",
+      "nt": "계 21:1",
+      "ot": "이사야 66:22",
+      "lead": "새 창조의 지속",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-21/rv21-bride/",
+      "nt": "계 21:2",
+      "ot": "이사야 61:10",
+      "lead": "단장한 신부",
+      "kind": "혼인 영상의 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-dwell/",
+      "nt": "계 21:3",
+      "ot": "에스겔 37:27",
+      "lead": "하나님의 장막이 사람들과 함께",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-tears/",
+      "nt": "계 21:4",
+      "ot": "이사야 25:8",
+      "lead": "모든 눈물을 닦으심",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-former/",
+      "nt": "계 21:4–5",
+      "ot": "이사야 43:18–19",
+      "lead": "보라 내가 새롭게 하노라",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-21/rv21-water/",
+      "nt": "계 21:6",
+      "ot": "이사야 55:1",
+      "lead": "값없이 주는 생명수",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-son/",
+      "nt": "계 21:7",
+      "ot": "사무엘하 7:14",
+      "lead": "나는 그의 하나님 그는 내 아들",
+      "kind": "언약의 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-glory/",
+      "nt": "계 21:11, 23",
+      "ot": "이사야 60:1–2, 19",
+      "lead": "하나님의 영광이 비춤",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-21/rv21-nations/",
+      "nt": "계 21:24",
+      "ot": "이사야 60:3, 5",
+      "lead": "빛 가운데 걷는 민족들",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-gates/",
+      "nt": "계 21:25–26",
+      "ot": "이사야 60:11",
+      "lead": "닫히지 않는 성문",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-21/rv21-night/",
+      "nt": "계 21:25",
+      "ot": "스가랴 14:7",
+      "lead": "밤이 없음",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-21/rv21-unclean/",
+      "nt": "계 21:27",
+      "ot": "이사야 52:1",
+      "lead": "부정한 것은 들어오지 못함",
+      "kind": "암시"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "2corinthians-3",
+  "book": "2corinthians",
+  "name": "고린도후서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/2corinthians-3/2co3-stone/",
+      "nt": "고후 3:3",
+      "ot": "출애굽기 32:15",
+      "lead": "돌판과 마음판",
+      "kind": "암시"
+    },
+    {
+      "url": "/2corinthians-3/2co3-heart/",
+      "nt": "고후 3:3",
+      "ot": "에스겔 36:26",
+      "lead": "살로 된 마음",
+      "kind": "암시"
+    },
+    {
+      "url": "/2corinthians-3/2co3-written/",
+      "nt": "고후 3:3",
+      "ot": "예레미야 38:33",
+      "lead": "마음에 기록된 언약",
+      "kind": "암시"
+    },
+    {
+      "url": "/2corinthians-3/2co3-glory/",
+      "nt": "고후 3:7–11",
+      "ot": "출애굽기 34:29–30",
+      "lead": "모세의 빛나는 얼굴",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/2corinthians-3/2co3-veil/",
+      "nt": "고후 3:13–15",
+      "ot": "출애굽기 34:33, 35",
+      "lead": "얼굴을 덮은 수건",
+      "kind": "서사적 인용"
+    },
+    {
+      "url": "/2corinthians-3/2co3-turn/",
+      "nt": "고후 3:16",
+      "ot": "출애굽기 34:34",
+      "lead": "주께로 돌아갈 때",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/2corinthians-3/2co3-transformed/",
+      "nt": "고후 3:18",
+      "ot": "출애굽기 24:17",
+      "lead": "주의 영광",
+      "kind": "암시"
+    }
+  ]
+}

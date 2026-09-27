@@ -1,0 +1,36 @@
+{
+  "id": "hebrews-3",
+  "book": "hebrews",
+  "name": "히브리서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/hebrews-3/hb3-faithful/",
+      "nt": "히 3:2, 5",
+      "ot": "민수기 12:7",
+      "lead": "온 집에 충성된 모세",
+      "kind": "암시"
+    },
+    {
+      "url": "/hebrews-3/hb3-maker/",
+      "nt": "히 3:4",
+      "ot": "이사야 40:28",
+      "lead": "만물을 지으신 하나님",
+      "kind": "암시"
+    },
+    {
+      "url": "/hebrews-3/hb3-today/",
+      "nt": "히 3:7–11",
+      "ot": "시편 94:8–11",
+      "lead": "오늘 그의 음성을 들으면",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-3/hb3-hear/",
+      "nt": "히 3:15",
+      "ot": "시편 94:8",
+      "lead": "마음을 완고하게 하지 마라",
+      "kind": "반복 인용"
+    }
+  ]
+}

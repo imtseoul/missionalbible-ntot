@@ -1,0 +1,22 @@
+{
+  "id": "matthew-16",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 16,
+  "rows": [
+    {
+      "url": "/matthew-16/mt16-keys/",
+      "nt": "마 16:19",
+      "ot": "이사야 22:22",
+      "lead": "열쇠와 권한",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-16/mt16-repay/",
+      "nt": "마 16:27",
+      "ot": "시편 61:13",
+      "lead": "행한 대로 갚음",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

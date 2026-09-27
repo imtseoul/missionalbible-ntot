@@ -1,0 +1,64 @@
+{
+  "id": "1corinthians-11",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 11,
+  "rows": [
+    {
+      "url": "/1corinthians-11/c11-image/",
+      "nt": "고전 11:7",
+      "ot": "창세기 1:26–27",
+      "lead": "하나님의 형상",
+      "kind": "창조 이야기의 해석"
+    },
+    {
+      "url": "/1corinthians-11/c11-likeness/",
+      "nt": "고전 11:7",
+      "ot": "창세기 5:1",
+      "lead": "하나님을 닮게 지으심",
+      "kind": "창조 이야기의 해석"
+    },
+    {
+      "url": "/1corinthians-11/c11-from-man/",
+      "nt": "고전 11:8–9",
+      "ot": "창세기 2:18, 22–23",
+      "lead": "여자의 지음받음",
+      "kind": "창조 이야기의 해석"
+    },
+    {
+      "url": "/1corinthians-11/c11-angels/",
+      "nt": "고전 11:10",
+      "ot": "창세기 6:2",
+      "lead": "천사들 때문에",
+      "kind": "해석상의 배경"
+    },
+    {
+      "url": "/1corinthians-11/c11-memorial/",
+      "nt": "고전 11:24",
+      "ot": "레위기 24:7",
+      "lead": "기념을 위한 떡",
+      "kind": "제의적 배경"
+    },
+    {
+      "url": "/1corinthians-11/c11-blood/",
+      "nt": "고전 11:25",
+      "ot": "출애굽기 24:8",
+      "lead": "언약의 피",
+      "kind": "언약의 암시"
+    },
+    {
+      "url": "/1corinthians-11/c11-new-covenant/",
+      "nt": "고전 11:25",
+      "ot": "예레미야 38:31",
+      "lead": "새 언약",
+      "kind": "언약의 암시"
+    },
+    {
+      "url": "/1corinthians-11/c11-covenant-blood/",
+      "nt": "고전 11:25",
+      "ot": "스가랴 9:11",
+      "lead": "언약의 피로 놓임",
+      "kind": "언약의 암시"
+    }
+  ]
+}

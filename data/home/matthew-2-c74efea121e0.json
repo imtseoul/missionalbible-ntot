@@ -1,0 +1,43 @@
+{
+  "id": "matthew-2",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/matthew-2/mt2-bethlehem/",
+      "nt": "마 2:5–6",
+      "ot": "미가 5:2, 4",
+      "lead": "베들레헴에서 나올 다스리는 이",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/matthew-2/mt2-shepherd/",
+      "nt": "마 2:6",
+      "ot": "사무엘하 5:2",
+      "lead": "내 백성 이스라엘을 먹일 자",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/matthew-2/mt2-egypt/",
+      "nt": "마 2:14–15",
+      "ot": "호세아 11:1",
+      "lead": "애굽에서 내 아들을 불렀다",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-2/mt2-rachel/",
+      "nt": "마 2:17–18",
+      "ot": "예레미야 38:15",
+      "lead": "자식을 위해 우는 라헬",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-2/mt2-branch/",
+      "nt": "마 2:23",
+      "ot": "이사야 11:1",
+      "lead": "이새의 뿌리에서 나는 싹",
+      "kind": "해석적 배경"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "matthew-25",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 25,
+  "rows": [
+    {
+      "url": "/matthew-25/mt25-throne/",
+      "nt": "마 25:31",
+      "ot": "다니엘 7:13–14",
+      "lead": "영광의 보좌",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-25/mt25-hungry/",
+      "nt": "마 25:35",
+      "ot": "이사야 58:7",
+      "lead": "굶주린 이와 나그네와 헐벗은 이",
+      "kind": "윤리적 배경"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "matthew-4",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/matthew-4/mt4-test/",
+      "nt": "마 4:1",
+      "ot": "신명기 8:2",
+      "lead": "광야에서 받은 시험",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/matthew-4/mt4-forty/",
+      "nt": "마 4:2",
+      "ot": "신명기 9:9",
+      "lead": "사십 주야의 금식",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/matthew-4/mt4-bread/",
+      "nt": "마 4:4",
+      "ot": "신명기 8:3",
+      "lead": "떡으로만 살 것이 아니요",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-4/mt4-angels/",
+      "nt": "마 4:6",
+      "ot": "시편 90:11–12",
+      "lead": "천사들이 손으로 받들리라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-4/mt4-not-test/",
+      "nt": "마 4:7",
+      "ot": "신명기 6:16",
+      "lead": "주 너의 하나님을 시험하지 말라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-4/mt4-worship/",
+      "nt": "마 4:10",
+      "ot": "신명기 6:13",
+      "lead": "하나님만 섬기라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-4/mt4-serve/",
+      "nt": "마 4:10",
+      "ot": "신명기 10:20",
+      "lead": "주께 붙어 섬김",
+      "kind": "인용 배경"
+    },
+    {
+      "url": "/matthew-4/mt4-light/",
+      "nt": "마 4:14–16",
+      "ot": "이사야 9:1–2",
+      "lead": "갈릴리에 비친 큰 빛",
+      "kind": "직접 인용"
+    }
+  ]
+}

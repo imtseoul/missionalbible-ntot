@@ -1,0 +1,29 @@
+{
+  "id": "2thessalonians-3",
+  "book": "2thessalonians",
+  "name": "데살로니가후서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/2thessalonians-3/2th3-deliver/",
+      "nt": "살후 3:2",
+      "ot": "시편 139:2",
+      "lead": "악한 사람들에게서 건짐",
+      "kind": "암시"
+    },
+    {
+      "url": "/2thessalonians-3/2th3-refuge/",
+      "nt": "살후 3:2",
+      "ot": "이사야 25:4",
+      "lead": "악한 사람들에게서의 구원",
+      "kind": "암시"
+    },
+    {
+      "url": "/2thessalonians-3/2th3-toil/",
+      "nt": "살후 3:8",
+      "ot": "예레미야 20:18",
+      "lead": "수고와 고생",
+      "kind": "어휘적 암시"
+    }
+  ]
+}

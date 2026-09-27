@@ -1,0 +1,15 @@
+{
+  "id": "2corinthians-13",
+  "book": "2corinthians",
+  "name": "고린도후서",
+  "chapter": 13,
+  "rows": [
+    {
+      "url": "/2corinthians-13/2co13-witnesses/",
+      "nt": "고후 13:1",
+      "ot": "신명기 19:15",
+      "lead": "두세 증인의 입",
+      "kind": "직접 인용"
+    }
+  ]
+}

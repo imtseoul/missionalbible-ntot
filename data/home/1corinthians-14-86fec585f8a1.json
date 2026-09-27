@@ -1,0 +1,57 @@
+{
+  "id": "1corinthians-14",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 14,
+  "rows": [
+    {
+      "url": "/1corinthians-14/c14-prophesy/",
+      "nt": "고전 14:5",
+      "ot": "민수기 11:29",
+      "lead": "모두 예언하기를",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-14/c14-children/",
+      "nt": "고전 14:20",
+      "ot": "예레미야 4:22",
+      "lead": "악에는 어린아이",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-14/c14-tongues/",
+      "nt": "고전 14:21",
+      "ot": "이사야 28:11–12",
+      "lead": "다른 방언과 다른 입술",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-14/c14-god-among/",
+      "nt": "고전 14:25",
+      "ot": "이사야 45:14",
+      "lead": "하나님이 너희 가운데 계심",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-14/c14-revealer/",
+      "nt": "고전 14:25",
+      "ot": "다니엘 2:47",
+      "lead": "은밀한 것을 드러내는 하나님",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-14/c14-with-you/",
+      "nt": "고전 14:25",
+      "ot": "스가랴 8:23",
+      "lead": "하나님이 함께 계심",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-14/c14-order/",
+      "nt": "고전 14:34",
+      "ot": "창세기 3:16",
+      "lead": "율법이 말하는 복종",
+      "kind": "율법의 배경"
+    }
+  ]
+}

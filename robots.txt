@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ntot.missionalbible.org/sitemap.xml

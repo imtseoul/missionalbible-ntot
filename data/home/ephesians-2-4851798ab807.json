@@ -1,0 +1,29 @@
+{
+  "id": "ephesians-2",
+  "book": "ephesians",
+  "name": "에베소서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/ephesians-2/eph2-peace/",
+      "nt": "엡 2:14",
+      "ot": "이사야 9:6",
+      "lead": "그는 우리의 화평",
+      "kind": "암시"
+    },
+    {
+      "url": "/ephesians-2/eph2-shepherd/",
+      "nt": "엡 2:14",
+      "ot": "미가 5:5",
+      "lead": "평화가 되는 이",
+      "kind": "암시"
+    },
+    {
+      "url": "/ephesians-2/eph2-far-near/",
+      "nt": "엡 2:17",
+      "ot": "이사야 57:19",
+      "lead": "먼 이들과 가까운 이들에게 평화",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

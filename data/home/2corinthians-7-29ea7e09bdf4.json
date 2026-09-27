@@ -1,0 +1,22 @@
+{
+  "id": "2corinthians-7",
+  "book": "2corinthians",
+  "name": "고린도후서",
+  "chapter": 7,
+  "rows": [
+    {
+      "url": "/2corinthians-7/2co7-comfort/",
+      "nt": "고후 7:6",
+      "ot": "이사야 49:13",
+      "lead": "낮은 자를 위로하시는 하나님",
+      "kind": "암시"
+    },
+    {
+      "url": "/2corinthians-7/2co7-trembling/",
+      "nt": "고후 7:15",
+      "ot": "시편 2:11",
+      "lead": "두려움과 떨림",
+      "kind": "어휘적 암시"
+    }
+  ]
+}

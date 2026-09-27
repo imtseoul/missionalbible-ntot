@@ -1,0 +1,4 @@
+footer { flex-wrap: wrap; }
+footer .imt-credit { display: flex; flex-basis: 100%; align-items: center; width: fit-content; min-height: 32px; margin: 8px 0 0; color: inherit; font: 500 12px/1.5 system-ui, sans-serif; text-decoration: none; }
+footer .imt-credit:hover { text-decoration: underline; text-underline-offset: 3px; }
+footer .imt-credit:focus-visible { outline: 2px solid currentColor; outline-offset: 3px; }

@@ -1,0 +1,2502 @@
+{
+  "schema_version": "3.1",
+  "title": "신약의 구약 사용: 신약 27권 260장 선정 대조",
+  "translation_status": "AI-assisted draft; no independent scholarly review",
+  "scope": {
+    "nt_chapters": 260,
+    "nt_verse_slots": 7958,
+    "nt_verses": 7942,
+    "lxx_chapters": 290,
+    "lxx_verse_slots": 7171,
+    "lxx_translated_slots": 7152,
+    "ot_verses": 7169,
+    "comparisons": 1253,
+    "phrase_pairs": 1347,
+    "nt_books": 27,
+    "ot_chapters": 291
+  },
+  "index_basis": {
+    "edition": "NA28",
+    "appendix": "III. Loci citati vel allegati",
+    "scope": "Selected Old Testament quotation and allusion comparisons across the 27 New Testament books, with complete NT chapter context and the full selected LXX chapters; not an exhaustive appendix transcription. Philemon and 3 John have full NT text without selected comparisons.",
+    "status": "partial_primary_appendix_verification",
+    "verification": "The reference links for the selected comparisons outside Acts were checked against the primary NA28 appendix scan and its OCR. Page and source row references are recorded per comparison. Typeface is not transcribed; relationship classifications are editorial. Jonah 1:5 / Acts 27:19 was visually checked on p. 867. The other 57 Acts comparisons retain NA27 online-transcription selection provenance. UBS6 individual index checking remains pending. Hebrews 10:8–9 repeats the citation indexed at 10:5.",
+    "previous_entry_source": "https://matthewbarron.org/places-quoted-or-alluded-to-in-the-new-testament/",
+    "na28_publisher": "https://www.die-bibel.de/en/the-na-28",
+    "na28_appendix_reference": "https://spu.libguides.com/THEO3210/IdentifySources",
+    "supplementary_edition": {
+      "edition": "UBS6",
+      "section": "Index of Quotations",
+      "page": 627,
+      "printing": "2nd, corrected printing, 2026",
+      "status": "index_existence_verified_in_publisher_contents_entries_not_checked",
+      "allusions": "The preface, p. VIII, states that the Index of Allusions and Parallels and the Cross-Reference apparatus have been removed.",
+      "publisher_sample": "https://shop.die-bibel.de/media/e9/59/fc/1777447024/9783438053107_Leseprobe_01.pdf.pdf"
+    },
+    "reviewed_on": "2026-09-22",
+    "na28_scan": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research"
+  },
+  "editions": {
+    "nt_ko": "개역한글, 대한성서공회",
+    "ot_ko": "개역한글, 대한성서공회",
+    "nt_grc": "SBLGNT, Michael W. Holmes, 2010; CC BY 4.0",
+    "lxx_grc": "Swete; eliranwong/LXX-Swete-1930; GPL-3.0",
+    "lxx_ko": "Original Korean research draft; GPL-3.0"
+  },
+  "sources": [
+    {
+      "title": "개역한글 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=2"
+    },
+    {
+      "title": "개역한글 이용 안내",
+      "url": "https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq&wr_id=5"
+    },
+    {
+      "title": "Swete 칠십인역 전자본문 · GPL-3.0",
+      "url": "https://github.com/eliranwong/LXX-Swete-1930"
+    },
+    {
+      "title": "Swete 시편 인쇄본",
+      "url": "https://archive.org/details/oldtestamenting02swet"
+    },
+    {
+      "title": "Swete 예언서 인쇄본",
+      "url": "https://archive.org/details/oldtestgreek00unknuoft"
+    },
+    {
+      "title": "SBLGNT · CC BY 4.0",
+      "url": "https://sblgnt.com/"
+    },
+    {
+      "title": "SBLGNT 전자본문 출처",
+      "url": "https://github.com/morphgnt/sblgnt"
+    },
+    {
+      "title": "SBLGNT 발행처 전자본문",
+      "url": "https://github.com/Faithlife/SBLGNT/tree/master/data/sblgnt/text"
+    },
+    {
+      "title": "SBLGNT 마태복음 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Matt.txt"
+    },
+    {
+      "title": "SBLGNT 마가복음 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Mark.txt"
+    },
+    {
+      "title": "SBLGNT 고린도전서 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/1Cor.txt"
+    },
+    {
+      "title": "SBLGNT 로마서 · 발행처 전자본문 대조",
+      "url": "https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt"
+    },
+    {
+      "title": "사도행전 항목 선정 자료 · NA27 부록 온라인 전사본",
+      "url": "https://matthewbarron.org/places-quoted-or-alluded-to-in-the-new-testament/"
+    },
+    {
+      "title": "NA28 부록 III 스캔 · 836–869쪽",
+      "url": "https://archive.org/details/ntg-28-nestle-aland-institute-for-new-testament-textual-research"
+    },
+    {
+      "title": "NA28 · 독일성서공회 판본 안내",
+      "url": "https://www.die-bibel.de/en/the-na-28"
+    },
+    {
+      "title": "NA28 부록 III 안내 · Seattle Pacific University 도서관",
+      "url": "https://spu.libguides.com/THEO3210/IdentifySources"
+    },
+    {
+      "title": "UBS6 공식 미리보기 · 목차 VI쪽, 서문 VIII쪽",
+      "url": "https://shop.die-bibel.de/media/e9/59/fc/1777447024/9783438053107_Leseprobe_01.pdf.pdf"
+    },
+    {
+      "title": "일부 인용·비영리 사용에 관한 대한성서공회 안내",
+      "url": "https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq&wr_id=8"
+    },
+    {
+      "title": "온라인 성경읽기 서비스 이용 안내",
+      "url": "https://www.bskorea.or.kr/bbs/board.php?bo_table=copyright_faq&wr_id=9"
+    },
+    {
+      "title": "저작권법 제28조 · 공표된 저작물의 인용",
+      "url": "https://www.law.go.kr/법령/저작권법/제28조"
+    },
+    {
+      "title": "저작권법 제35조의5 · 공정한 이용",
+      "url": "https://www.law.go.kr/법령/저작권법/제35조의5"
+    },
+    {
+      "title": "개역한글 요엘 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jol&chap=2"
+    },
+    {
+      "title": "개역한글 시편 16편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=16"
+    },
+    {
+      "title": "개역한글 시편 110편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=110"
+    },
+    {
+      "title": "개역한글 시편 69편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=69"
+    },
+    {
+      "title": "개역한글 시편 109편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=109"
+    },
+    {
+      "title": "개역한글 신명기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=18"
+    },
+    {
+      "title": "개역한글 레위기 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=23"
+    },
+    {
+      "title": "개역한글 창세기 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=22"
+    },
+    {
+      "title": "개역한글 시편 118편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=118"
+    },
+    {
+      "title": "개역한글 시편 2편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=2"
+    },
+    {
+      "title": "개역한글 신명기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=21"
+    },
+    {
+      "title": "개역한글 창세기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=12"
+    },
+    {
+      "title": "개역한글 창세기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=15"
+    },
+    {
+      "title": "개역한글 출애굽기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=1"
+    },
+    {
+      "title": "개역한글 출애굽기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=2"
+    },
+    {
+      "title": "개역한글 출애굽기 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=3"
+    },
+    {
+      "title": "개역한글 출애굽기 32장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=32"
+    },
+    {
+      "title": "개역한글 아모스 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=5"
+    },
+    {
+      "title": "개역한글 이사야 66장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=66"
+    },
+    {
+      "title": "개역한글 이사야 53장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=53"
+    },
+    {
+      "title": "개역한글 출애굽기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=18"
+    },
+    {
+      "title": "개역한글 사무엘상 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=3"
+    },
+    {
+      "title": "개역한글 사무엘상 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=13"
+    },
+    {
+      "title": "개역한글 시편 89편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=89"
+    },
+    {
+      "title": "개역한글 이사야 44장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=44"
+    },
+    {
+      "title": "개역한글 이사야 45장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=45"
+    },
+    {
+      "title": "개역한글 이사야 55장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=55"
+    },
+    {
+      "title": "개역한글 하박국 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hab&chap=1"
+    },
+    {
+      "title": "개역한글 이사야 49장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=49"
+    },
+    {
+      "title": "개역한글 시편 146편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=146"
+    },
+    {
+      "title": "개역한글 아모스 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=9"
+    },
+    {
+      "title": "개역한글 출애굽기 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=22"
+    },
+    {
+      "title": "개역한글 이사야 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=6"
+    },
+    {
+      "title": "개역한글 이사야 42장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=42"
+    },
+    {
+      "title": "개역한글 예레미야 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=1"
+    },
+    {
+      "title": "개역한글 에스겔 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=2"
+    },
+    {
+      "title": "개역한글 에스겔 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=4"
+    },
+    {
+      "title": "개역한글 민수기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=6"
+    },
+    {
+      "title": "개역한글 다니엘 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=12"
+    },
+    {
+      "title": "개역한글 요나 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jnh&chap=1"
+    },
+    {
+      "title": "개역한글 레위기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=17"
+    },
+    {
+      "title": "개역한글 시편 74편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=74"
+    },
+    {
+      "title": "개역한글 창세기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=18"
+    },
+    {
+      "title": "개역한글 창세기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=19"
+    },
+    {
+      "title": "개역한글 출애굽기 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=13"
+    },
+    {
+      "title": "개역한글 출애굽기 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=20"
+    },
+    {
+      "title": "개역한글 출애굽기 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=23"
+    },
+    {
+      "title": "개역한글 출애굽기 24장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=24"
+    },
+    {
+      "title": "개역한글 레위기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=12"
+    },
+    {
+      "title": "개역한글 레위기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=19"
+    },
+    {
+      "title": "개역한글 신명기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=6"
+    },
+    {
+      "title": "개역한글 신명기 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=8"
+    },
+    {
+      "title": "개역한글 신명기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=25"
+    },
+    {
+      "title": "개역한글 사무엘상 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=2"
+    },
+    {
+      "title": "개역한글 사무엘하 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2sa&chap=7"
+    },
+    {
+      "title": "개역한글 열왕기상 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=10"
+    },
+    {
+      "title": "개역한글 열왕기상 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=17"
+    },
+    {
+      "title": "개역한글 열왕기하 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ki&chap=5"
+    },
+    {
+      "title": "개역한글 시편 6편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=6"
+    },
+    {
+      "title": "개역한글 시편 22편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=22"
+    },
+    {
+      "title": "개역한글 시편 31편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=31"
+    },
+    {
+      "title": "개역한글 시편 91편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=91"
+    },
+    {
+      "title": "개역한글 이사야 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=5"
+    },
+    {
+      "title": "개역한글 이사야 35장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=35"
+    },
+    {
+      "title": "개역한글 이사야 40장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=40"
+    },
+    {
+      "title": "개역한글 이사야 56장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=56"
+    },
+    {
+      "title": "개역한글 이사야 58장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=58"
+    },
+    {
+      "title": "개역한글 이사야 61장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=61"
+    },
+    {
+      "title": "개역한글 예레미야 31장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=31"
+    },
+    {
+      "title": "개역한글 예레미야 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=7"
+    },
+    {
+      "title": "개역한글 에스겔 34장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=34"
+    },
+    {
+      "title": "개역한글 다니엘 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=7"
+    },
+    {
+      "title": "개역한글 호세아 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=6"
+    },
+    {
+      "title": "개역한글 호세아 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=10"
+    },
+    {
+      "title": "개역한글 요나 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jnh&chap=3"
+    },
+    {
+      "title": "개역한글 말라기 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=3"
+    },
+    {
+      "title": "개역한글 말라기 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=4"
+    },
+    {
+      "title": "개역한글 잠언 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=25"
+    },
+    {
+      "title": "개역한글 신명기 24장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=24"
+    },
+    {
+      "title": "개역한글 창세기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=2"
+    },
+    {
+      "title": "개역한글 창세기 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=4"
+    },
+    {
+      "title": "개역한글 창세기 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=5"
+    },
+    {
+      "title": "개역한글 창세기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=6"
+    },
+    {
+      "title": "개역한글 창세기 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=14"
+    },
+    {
+      "title": "개역한글 창세기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=21"
+    },
+    {
+      "title": "개역한글 창세기 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=27"
+    },
+    {
+      "title": "개역한글 창세기 47장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=47"
+    },
+    {
+      "title": "개역한글 창세기 48장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=48"
+    },
+    {
+      "title": "개역한글 창세기 50장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=50"
+    },
+    {
+      "title": "개역한글 출애굽기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=12"
+    },
+    {
+      "title": "개역한글 출애굽기 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=14"
+    },
+    {
+      "title": "개역한글 출애굽기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=19"
+    },
+    {
+      "title": "개역한글 출애굽기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=25"
+    },
+    {
+      "title": "개역한글 레위기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=16"
+    },
+    {
+      "title": "개역한글 민수기 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=12"
+    },
+    {
+      "title": "개역한글 민수기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=19"
+    },
+    {
+      "title": "개역한글 신명기 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=4"
+    },
+    {
+      "title": "개역한글 신명기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=9"
+    },
+    {
+      "title": "개역한글 신명기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=17"
+    },
+    {
+      "title": "개역한글 신명기 29장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=29"
+    },
+    {
+      "title": "개역한글 신명기 31장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=31"
+    },
+    {
+      "title": "개역한글 신명기 32장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=32"
+    },
+    {
+      "title": "개역한글 여호수아 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jos&chap=6"
+    },
+    {
+      "title": "개역한글 잠언 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=3"
+    },
+    {
+      "title": "개역한글 잠언 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=4"
+    },
+    {
+      "title": "개역한글 이사야 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=8"
+    },
+    {
+      "title": "개역한글 이사야 26장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=26"
+    },
+    {
+      "title": "개역한글 호세아 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=14"
+    },
+    {
+      "title": "개역한글 하박국 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hab&chap=2"
+    },
+    {
+      "title": "개역한글 학개 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hag&chap=2"
+    },
+    {
+      "title": "개역한글 시편 8편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=8"
+    },
+    {
+      "title": "개역한글 시편 40편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=40"
+    },
+    {
+      "title": "개역한글 시편 45편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=45"
+    },
+    {
+      "title": "개역한글 시편 95편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=95"
+    },
+    {
+      "title": "개역한글 시편 97편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=97"
+    },
+    {
+      "title": "개역한글 시편 102편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=102"
+    },
+    {
+      "title": "개역한글 시편 104편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=104"
+    },
+    {
+      "title": "개역한글 창세기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=1"
+    },
+    {
+      "title": "개역한글 창세기 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=3"
+    },
+    {
+      "title": "개역한글 창세기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=17"
+    },
+    {
+      "title": "개역한글 창세기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=25"
+    },
+    {
+      "title": "개역한글 출애굽기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=9"
+    },
+    {
+      "title": "개역한글 출애굽기 33장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=33"
+    },
+    {
+      "title": "개역한글 레위기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=18"
+    },
+    {
+      "title": "개역한글 민수기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=15"
+    },
+    {
+      "title": "개역한글 민수기 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=23"
+    },
+    {
+      "title": "개역한글 신명기 30장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=30"
+    },
+    {
+      "title": "개역한글 열왕기상 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=19"
+    },
+    {
+      "title": "개역한글 욥기 41장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=41"
+    },
+    {
+      "title": "개역한글 시편 5편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=5"
+    },
+    {
+      "title": "개역한글 시편 10편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=10"
+    },
+    {
+      "title": "개역한글 시편 14편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=14"
+    },
+    {
+      "title": "개역한글 시편 18편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=18"
+    },
+    {
+      "title": "개역한글 시편 19편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=19"
+    },
+    {
+      "title": "개역한글 시편 32편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=32"
+    },
+    {
+      "title": "개역한글 시편 36편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=36"
+    },
+    {
+      "title": "개역한글 시편 44편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=44"
+    },
+    {
+      "title": "개역한글 시편 51편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=51"
+    },
+    {
+      "title": "개역한글 시편 62편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=62"
+    },
+    {
+      "title": "개역한글 시편 106편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=106"
+    },
+    {
+      "title": "개역한글 시편 116편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=116"
+    },
+    {
+      "title": "개역한글 시편 117편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=117"
+    },
+    {
+      "title": "개역한글 시편 140편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=140"
+    },
+    {
+      "title": "개역한글 시편 143편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=143"
+    },
+    {
+      "title": "개역한글 이사야 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=1"
+    },
+    {
+      "title": "개역한글 이사야 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=10"
+    },
+    {
+      "title": "개역한글 이사야 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=11"
+    },
+    {
+      "title": "개역한글 이사야 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=27"
+    },
+    {
+      "title": "개역한글 이사야 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=28"
+    },
+    {
+      "title": "개역한글 이사야 29장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=29"
+    },
+    {
+      "title": "개역한글 이사야 50장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=50"
+    },
+    {
+      "title": "개역한글 이사야 51장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=51"
+    },
+    {
+      "title": "개역한글 이사야 52장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=52"
+    },
+    {
+      "title": "개역한글 이사야 59장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=59"
+    },
+    {
+      "title": "개역한글 이사야 65장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=65"
+    },
+    {
+      "title": "개역한글 예레미야 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=18"
+    },
+    {
+      "title": "개역한글 에스겔 36장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=36"
+    },
+    {
+      "title": "개역한글 호세아 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=2"
+    },
+    {
+      "title": "개역한글 말라기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=1"
+    },
+    {
+      "title": "개역한글 호세아 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=1"
+    },
+    {
+      "title": "개역한글 창세기 32장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=32"
+    },
+    {
+      "title": "개역한글 출애굽기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=16"
+    },
+    {
+      "title": "개역한글 출애굽기 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=17"
+    },
+    {
+      "title": "개역한글 레위기 24장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=24"
+    },
+    {
+      "title": "개역한글 민수기 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=11"
+    },
+    {
+      "title": "개역한글 민수기 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=14"
+    },
+    {
+      "title": "개역한글 민수기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=16"
+    },
+    {
+      "title": "개역한글 민수기 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=18"
+    },
+    {
+      "title": "개역한글 민수기 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=20"
+    },
+    {
+      "title": "개역한글 민수기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=21"
+    },
+    {
+      "title": "개역한글 민수기 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=25"
+    },
+    {
+      "title": "개역한글 신명기 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=10"
+    },
+    {
+      "title": "개역한글 신명기 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=20"
+    },
+    {
+      "title": "개역한글 욥기 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=5"
+    },
+    {
+      "title": "개역한글 시편 24편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=24"
+    },
+    {
+      "title": "개역한글 시편 33편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=33"
+    },
+    {
+      "title": "개역한글 시편 78편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=78"
+    },
+    {
+      "title": "개역한글 시편 79편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=79"
+    },
+    {
+      "title": "개역한글 시편 94편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=94"
+    },
+    {
+      "title": "개역한글 시편 114편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=114"
+    },
+    {
+      "title": "개역한글 시편 115편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=115"
+    },
+    {
+      "title": "개역한글 시편 150편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=150"
+    },
+    {
+      "title": "개역한글 이사야 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=19"
+    },
+    {
+      "title": "개역한글 이사야 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=22"
+    },
+    {
+      "title": "개역한글 이사야 25장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=25"
+    },
+    {
+      "title": "개역한글 이사야 33장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=33"
+    },
+    {
+      "title": "개역한글 이사야 64장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=64"
+    },
+    {
+      "title": "개역한글 예레미야 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=4"
+    },
+    {
+      "title": "개역한글 예레미야 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=9"
+    },
+    {
+      "title": "개역한글 예레미야 20장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=20"
+    },
+    {
+      "title": "개역한글 예레미야 23장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=23"
+    },
+    {
+      "title": "개역한글 다니엘 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=2"
+    },
+    {
+      "title": "개역한글 호세아 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=13"
+    },
+    {
+      "title": "개역한글 아모스 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=4"
+    },
+    {
+      "title": "개역한글 스가랴 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=8"
+    },
+    {
+      "title": "개역한글 스가랴 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=9"
+    },
+    {
+      "title": "개역한글 스가랴 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=12"
+    },
+    {
+      "title": "개역한글 스가랴 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=13"
+    },
+    {
+      "title": "개역한글 말라기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mal&chap=2"
+    },
+    {
+      "title": "개역한글 레위기 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=6"
+    },
+    {
+      "title": "개역한글 레위기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=7"
+    },
+    {
+      "title": "개역한글 출애굽기 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=21"
+    },
+    {
+      "title": "개역한글 신명기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=15"
+    },
+    {
+      "title": "개역한글 신명기 19장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=19"
+    },
+    {
+      "title": "개역한글 사무엘상 21장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=21"
+    },
+    {
+      "title": "개역한글 사무엘하 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2sa&chap=5"
+    },
+    {
+      "title": "개역한글 시편 37편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=37"
+    },
+    {
+      "title": "개역한글 시편 42편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=42"
+    },
+    {
+      "title": "개역한글 시편 48편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=48"
+    },
+    {
+      "title": "개역한글 이사야 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=7"
+    },
+    {
+      "title": "개역한글 이사야 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=9"
+    },
+    {
+      "title": "개역한글 이사야 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=13"
+    },
+    {
+      "title": "개역한글 이사야 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=14"
+    },
+    {
+      "title": "개역한글 이사야 34장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=34"
+    },
+    {
+      "title": "개역한글 이사야 62장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=62"
+    },
+    {
+      "title": "개역한글 예레미야 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=6"
+    },
+    {
+      "title": "개역한글 다니엘 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=9"
+    },
+    {
+      "title": "개역한글 다니엘 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=11"
+    },
+    {
+      "title": "개역한글 호세아 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=hos&chap=11"
+    },
+    {
+      "title": "개역한글 미가 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mic&chap=5"
+    },
+    {
+      "title": "개역한글 미가 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mic&chap=7"
+    },
+    {
+      "title": "개역한글 요나 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jnh&chap=2"
+    },
+    {
+      "title": "개역한글 스가랴 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=11"
+    },
+    {
+      "title": "개역한글 레위기 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=2"
+    },
+    {
+      "title": "개역한글 열왕기하 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ki&chap=1"
+    },
+    {
+      "title": "개역한글 요엘 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jol&chap=3"
+    },
+    {
+      "title": "개역한글 시편 107편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=107"
+    },
+    {
+      "title": "개역한글 시편 41편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=41"
+    },
+    {
+      "title": "개역한글 욥기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=9"
+    },
+    {
+      "title": "개역한글 사무엘상 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1sa&chap=22"
+    },
+    {
+      "title": "개역한글 에스겔 17장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=17"
+    },
+    {
+      "title": "개역한글 민수기 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=27"
+    },
+    {
+      "title": "개역한글 아모스 8장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=amo&chap=8"
+    },
+    {
+      "title": "개역한글 이사야 43장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=43"
+    },
+    {
+      "title": "개역한글 에스겔 12장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=12"
+    },
+    {
+      "title": "개역한글 창세기 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=28"
+    },
+    {
+      "title": "개역한글 시편 82편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=82"
+    },
+    {
+      "title": "개역한글 이사야 54장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=54"
+    },
+    {
+      "title": "개역한글 시편 35편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=35"
+    },
+    {
+      "title": "개역한글 시편 25편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=25"
+    },
+    {
+      "title": "개역한글 에스겔 37장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=37"
+    },
+    {
+      "title": "개역한글 이사야 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=2"
+    },
+    {
+      "title": "개역한글 에스겔 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=28"
+    },
+    {
+      "title": "개역한글 창세기 9장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=9"
+    },
+    {
+      "title": "개역한글 출애굽기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=7"
+    },
+    {
+      "title": "개역한글 신명기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=7"
+    },
+    {
+      "title": "개역한글 신명기 33장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=33"
+    },
+    {
+      "title": "개역한글 시편 49편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=49"
+    },
+    {
+      "title": "개역한글 시편 130편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=130"
+    },
+    {
+      "title": "개역한글 잠언 28장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=28"
+    },
+    {
+      "title": "개역한글 에스겔 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=18"
+    },
+    {
+      "title": "개역한글 예레미야 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=11"
+    },
+    {
+      "title": "개역한글 창세기 49장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=49"
+    },
+    {
+      "title": "개역한글 출애굽기 15장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=15"
+    },
+    {
+      "title": "개역한글 에스겔 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=1"
+    },
+    {
+      "title": "개역한글 에스겔 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=3"
+    },
+    {
+      "title": "개역한글 에스겔 38장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=38"
+    },
+    {
+      "title": "개역한글 에스겔 39장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=39"
+    },
+    {
+      "title": "개역한글 에스겔 47장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=ezk&chap=47"
+    },
+    {
+      "title": "개역한글 스가랴 4장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=4"
+    },
+    {
+      "title": "개역한글 스가랴 6장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=6"
+    },
+    {
+      "title": "개역한글 스가랴 14장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=14"
+    },
+    {
+      "title": "개역한글 이사야 60장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=60"
+    },
+    {
+      "title": "개역한글 이사야 63장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=63"
+    },
+    {
+      "title": "개역한글 다니엘 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=dan&chap=10"
+    },
+    {
+      "title": "개역한글 예레미야 51장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jer&chap=51"
+    },
+    {
+      "title": "개역한글 시편 119편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=119"
+    },
+    {
+      "title": "개역한글 출애굽기 34장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=exo&chap=34"
+    },
+    {
+      "title": "개역한글 레위기 26장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=lev&chap=26"
+    },
+    {
+      "title": "개역한글 신명기 5장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=5"
+    },
+    {
+      "title": "개역한글 신명기 27장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=deu&chap=27"
+    },
+    {
+      "title": "개역한글 시편 68편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=68"
+    },
+    {
+      "title": "개역한글 시편 4편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=4"
+    },
+    {
+      "title": "개역한글 시편 112편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=112"
+    },
+    {
+      "title": "개역한글 욥기 13장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=13"
+    },
+    {
+      "title": "개역한글 창세기 16장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=16"
+    },
+    {
+      "title": "개역한글 이사야 57장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=isa&chap=57"
+    },
+    {
+      "title": "개역한글 창세기 7장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gen&chap=7"
+    },
+    {
+      "title": "개역한글 여호수아 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jos&chap=2"
+    },
+    {
+      "title": "개역한글 민수기 22장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=num&chap=22"
+    },
+    {
+      "title": "개역한글 열왕기상 18장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ki&chap=18"
+    },
+    {
+      "title": "개역한글 욥기 1장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=job&chap=1"
+    },
+    {
+      "title": "개역한글 시편 34편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=34"
+    },
+    {
+      "title": "개역한글 시편 90편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=90"
+    },
+    {
+      "title": "개역한글 잠언 10장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=10"
+    },
+    {
+      "title": "개역한글 잠언 11장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=11"
+    },
+    {
+      "title": "개역한글 잠언 26장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=26"
+    },
+    {
+      "title": "개역한글 스가랴 3장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=zec&chap=3"
+    },
+    {
+      "title": "개역한글 시편 80편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=80"
+    },
+    {
+      "title": "개역한글 시편 55편 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=psa&chap=55"
+    },
+    {
+      "title": "개역한글 잠언 2장 · 대한성서공회",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=pro&chap=2"
+    },
+    {
+      "title": "마태복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=1"
+    },
+    {
+      "title": "마태복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=2"
+    },
+    {
+      "title": "마태복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=3"
+    },
+    {
+      "title": "마태복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=4"
+    },
+    {
+      "title": "마태복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=5"
+    },
+    {
+      "title": "마태복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=6"
+    },
+    {
+      "title": "마태복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=7"
+    },
+    {
+      "title": "마태복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=8"
+    },
+    {
+      "title": "마태복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=9"
+    },
+    {
+      "title": "마태복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=10"
+    },
+    {
+      "title": "마태복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=11"
+    },
+    {
+      "title": "마태복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=12"
+    },
+    {
+      "title": "마태복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=13"
+    },
+    {
+      "title": "마태복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=14"
+    },
+    {
+      "title": "마태복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=15"
+    },
+    {
+      "title": "마태복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=16"
+    },
+    {
+      "title": "마태복음 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=17"
+    },
+    {
+      "title": "마태복음 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=18"
+    },
+    {
+      "title": "마태복음 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=19"
+    },
+    {
+      "title": "마태복음 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=20"
+    },
+    {
+      "title": "마태복음 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=21"
+    },
+    {
+      "title": "마태복음 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=22"
+    },
+    {
+      "title": "마태복음 23장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=23"
+    },
+    {
+      "title": "마태복음 24장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=24"
+    },
+    {
+      "title": "마태복음 25장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=25"
+    },
+    {
+      "title": "마태복음 26장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=26"
+    },
+    {
+      "title": "마태복음 27장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=27"
+    },
+    {
+      "title": "마태복음 28장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mat&chap=28"
+    },
+    {
+      "title": "마가복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=1"
+    },
+    {
+      "title": "마가복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=2"
+    },
+    {
+      "title": "마가복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=3"
+    },
+    {
+      "title": "마가복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=4"
+    },
+    {
+      "title": "마가복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=5"
+    },
+    {
+      "title": "마가복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=6"
+    },
+    {
+      "title": "마가복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=7"
+    },
+    {
+      "title": "마가복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=8"
+    },
+    {
+      "title": "마가복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=9"
+    },
+    {
+      "title": "마가복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=10"
+    },
+    {
+      "title": "마가복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=11"
+    },
+    {
+      "title": "마가복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=12"
+    },
+    {
+      "title": "마가복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=13"
+    },
+    {
+      "title": "마가복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=14"
+    },
+    {
+      "title": "마가복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=15"
+    },
+    {
+      "title": "마가복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=mrk&chap=16"
+    },
+    {
+      "title": "누가복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=1"
+    },
+    {
+      "title": "누가복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=2"
+    },
+    {
+      "title": "누가복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=3"
+    },
+    {
+      "title": "누가복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=4"
+    },
+    {
+      "title": "누가복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=5"
+    },
+    {
+      "title": "누가복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=6"
+    },
+    {
+      "title": "누가복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=7"
+    },
+    {
+      "title": "누가복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=8"
+    },
+    {
+      "title": "누가복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=9"
+    },
+    {
+      "title": "누가복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=10"
+    },
+    {
+      "title": "누가복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=11"
+    },
+    {
+      "title": "누가복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=12"
+    },
+    {
+      "title": "누가복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=13"
+    },
+    {
+      "title": "누가복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=14"
+    },
+    {
+      "title": "누가복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=15"
+    },
+    {
+      "title": "누가복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=16"
+    },
+    {
+      "title": "누가복음 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=17"
+    },
+    {
+      "title": "누가복음 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=18"
+    },
+    {
+      "title": "누가복음 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=19"
+    },
+    {
+      "title": "누가복음 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=20"
+    },
+    {
+      "title": "누가복음 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=21"
+    },
+    {
+      "title": "누가복음 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=22"
+    },
+    {
+      "title": "누가복음 23장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=23"
+    },
+    {
+      "title": "누가복음 24장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=luk&chap=24"
+    },
+    {
+      "title": "요한복음 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=1"
+    },
+    {
+      "title": "요한복음 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=2"
+    },
+    {
+      "title": "요한복음 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=3"
+    },
+    {
+      "title": "요한복음 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=4"
+    },
+    {
+      "title": "요한복음 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=5"
+    },
+    {
+      "title": "요한복음 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=6"
+    },
+    {
+      "title": "요한복음 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=7"
+    },
+    {
+      "title": "요한복음 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=8"
+    },
+    {
+      "title": "요한복음 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=9"
+    },
+    {
+      "title": "요한복음 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=10"
+    },
+    {
+      "title": "요한복음 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=11"
+    },
+    {
+      "title": "요한복음 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=12"
+    },
+    {
+      "title": "요한복음 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=13"
+    },
+    {
+      "title": "요한복음 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=14"
+    },
+    {
+      "title": "요한복음 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=15"
+    },
+    {
+      "title": "요한복음 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=16"
+    },
+    {
+      "title": "요한복음 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=17"
+    },
+    {
+      "title": "요한복음 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=18"
+    },
+    {
+      "title": "요한복음 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=19"
+    },
+    {
+      "title": "요한복음 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=20"
+    },
+    {
+      "title": "요한복음 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jhn&chap=21"
+    },
+    {
+      "title": "사도행전 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=1"
+    },
+    {
+      "title": "사도행전 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=3"
+    },
+    {
+      "title": "사도행전 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=4"
+    },
+    {
+      "title": "사도행전 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=5"
+    },
+    {
+      "title": "사도행전 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=6"
+    },
+    {
+      "title": "사도행전 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=7"
+    },
+    {
+      "title": "사도행전 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=8"
+    },
+    {
+      "title": "사도행전 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=9"
+    },
+    {
+      "title": "사도행전 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=10"
+    },
+    {
+      "title": "사도행전 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=11"
+    },
+    {
+      "title": "사도행전 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=12"
+    },
+    {
+      "title": "사도행전 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=13"
+    },
+    {
+      "title": "사도행전 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=14"
+    },
+    {
+      "title": "사도행전 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=15"
+    },
+    {
+      "title": "사도행전 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=16"
+    },
+    {
+      "title": "사도행전 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=17"
+    },
+    {
+      "title": "사도행전 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=18"
+    },
+    {
+      "title": "사도행전 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=19"
+    },
+    {
+      "title": "사도행전 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=20"
+    },
+    {
+      "title": "사도행전 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=21"
+    },
+    {
+      "title": "사도행전 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=22"
+    },
+    {
+      "title": "사도행전 23장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=23"
+    },
+    {
+      "title": "사도행전 24장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=24"
+    },
+    {
+      "title": "사도행전 25장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=25"
+    },
+    {
+      "title": "사도행전 26장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=26"
+    },
+    {
+      "title": "사도행전 27장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=27"
+    },
+    {
+      "title": "사도행전 28장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=act&chap=28"
+    },
+    {
+      "title": "로마서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=1"
+    },
+    {
+      "title": "로마서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=2"
+    },
+    {
+      "title": "로마서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=3"
+    },
+    {
+      "title": "로마서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=4"
+    },
+    {
+      "title": "로마서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=5"
+    },
+    {
+      "title": "로마서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=6"
+    },
+    {
+      "title": "로마서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=7"
+    },
+    {
+      "title": "로마서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=8"
+    },
+    {
+      "title": "로마서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=9"
+    },
+    {
+      "title": "로마서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=10"
+    },
+    {
+      "title": "로마서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=11"
+    },
+    {
+      "title": "로마서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=12"
+    },
+    {
+      "title": "로마서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=13"
+    },
+    {
+      "title": "로마서 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=14"
+    },
+    {
+      "title": "로마서 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=15"
+    },
+    {
+      "title": "로마서 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rom&chap=16"
+    },
+    {
+      "title": "고린도전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=1"
+    },
+    {
+      "title": "고린도전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=2"
+    },
+    {
+      "title": "고린도전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=3"
+    },
+    {
+      "title": "고린도전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=4"
+    },
+    {
+      "title": "고린도전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=5"
+    },
+    {
+      "title": "고린도전서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=6"
+    },
+    {
+      "title": "고린도전서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=7"
+    },
+    {
+      "title": "고린도전서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=8"
+    },
+    {
+      "title": "고린도전서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=9"
+    },
+    {
+      "title": "고린도전서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=10"
+    },
+    {
+      "title": "고린도전서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=11"
+    },
+    {
+      "title": "고린도전서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=12"
+    },
+    {
+      "title": "고린도전서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=13"
+    },
+    {
+      "title": "고린도전서 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=14"
+    },
+    {
+      "title": "고린도전서 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=15"
+    },
+    {
+      "title": "고린도전서 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1co&chap=16"
+    },
+    {
+      "title": "고린도후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=1"
+    },
+    {
+      "title": "고린도후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=2"
+    },
+    {
+      "title": "고린도후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=3"
+    },
+    {
+      "title": "고린도후서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=4"
+    },
+    {
+      "title": "고린도후서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=5"
+    },
+    {
+      "title": "고린도후서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=6"
+    },
+    {
+      "title": "고린도후서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=7"
+    },
+    {
+      "title": "고린도후서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=8"
+    },
+    {
+      "title": "고린도후서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=9"
+    },
+    {
+      "title": "고린도후서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=10"
+    },
+    {
+      "title": "고린도후서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=11"
+    },
+    {
+      "title": "고린도후서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=12"
+    },
+    {
+      "title": "고린도후서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2co&chap=13"
+    },
+    {
+      "title": "갈라디아서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=1"
+    },
+    {
+      "title": "갈라디아서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=2"
+    },
+    {
+      "title": "갈라디아서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=3"
+    },
+    {
+      "title": "갈라디아서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=4"
+    },
+    {
+      "title": "갈라디아서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=5"
+    },
+    {
+      "title": "갈라디아서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=gal&chap=6"
+    },
+    {
+      "title": "에베소서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=1"
+    },
+    {
+      "title": "에베소서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=2"
+    },
+    {
+      "title": "에베소서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=3"
+    },
+    {
+      "title": "에베소서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=4"
+    },
+    {
+      "title": "에베소서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=5"
+    },
+    {
+      "title": "에베소서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=eph&chap=6"
+    },
+    {
+      "title": "빌립보서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=1"
+    },
+    {
+      "title": "빌립보서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=2"
+    },
+    {
+      "title": "빌립보서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=3"
+    },
+    {
+      "title": "빌립보서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=php&chap=4"
+    },
+    {
+      "title": "골로새서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=1"
+    },
+    {
+      "title": "골로새서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=2"
+    },
+    {
+      "title": "골로새서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=3"
+    },
+    {
+      "title": "골로새서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=col&chap=4"
+    },
+    {
+      "title": "데살로니가전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=1"
+    },
+    {
+      "title": "데살로니가전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=2"
+    },
+    {
+      "title": "데살로니가전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=3"
+    },
+    {
+      "title": "데살로니가전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=4"
+    },
+    {
+      "title": "데살로니가전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1th&chap=5"
+    },
+    {
+      "title": "데살로니가후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2th&chap=1"
+    },
+    {
+      "title": "데살로니가후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2th&chap=2"
+    },
+    {
+      "title": "데살로니가후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2th&chap=3"
+    },
+    {
+      "title": "디모데전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=1"
+    },
+    {
+      "title": "디모데전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=2"
+    },
+    {
+      "title": "디모데전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=3"
+    },
+    {
+      "title": "디모데전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=4"
+    },
+    {
+      "title": "디모데전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=5"
+    },
+    {
+      "title": "디모데전서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1ti&chap=6"
+    },
+    {
+      "title": "디모데후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=1"
+    },
+    {
+      "title": "디모데후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=2"
+    },
+    {
+      "title": "디모데후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=3"
+    },
+    {
+      "title": "디모데후서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2ti&chap=4"
+    },
+    {
+      "title": "디도서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=tit&chap=1"
+    },
+    {
+      "title": "디도서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=tit&chap=2"
+    },
+    {
+      "title": "디도서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=tit&chap=3"
+    },
+    {
+      "title": "빌레몬서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=phm&chap=1"
+    },
+    {
+      "title": "히브리서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=1"
+    },
+    {
+      "title": "히브리서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=2"
+    },
+    {
+      "title": "히브리서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=3"
+    },
+    {
+      "title": "히브리서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=4"
+    },
+    {
+      "title": "히브리서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=5"
+    },
+    {
+      "title": "히브리서 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=6"
+    },
+    {
+      "title": "히브리서 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=7"
+    },
+    {
+      "title": "히브리서 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=8"
+    },
+    {
+      "title": "히브리서 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=9"
+    },
+    {
+      "title": "히브리서 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=10"
+    },
+    {
+      "title": "히브리서 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=11"
+    },
+    {
+      "title": "히브리서 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=12"
+    },
+    {
+      "title": "히브리서 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=heb&chap=13"
+    },
+    {
+      "title": "야고보서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=1"
+    },
+    {
+      "title": "야고보서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=2"
+    },
+    {
+      "title": "야고보서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=3"
+    },
+    {
+      "title": "야고보서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=4"
+    },
+    {
+      "title": "야고보서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jas&chap=5"
+    },
+    {
+      "title": "베드로전서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=1"
+    },
+    {
+      "title": "베드로전서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=2"
+    },
+    {
+      "title": "베드로전서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=3"
+    },
+    {
+      "title": "베드로전서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=4"
+    },
+    {
+      "title": "베드로전서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1pe&chap=5"
+    },
+    {
+      "title": "베드로후서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2pe&chap=1"
+    },
+    {
+      "title": "베드로후서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2pe&chap=2"
+    },
+    {
+      "title": "베드로후서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2pe&chap=3"
+    },
+    {
+      "title": "요한일서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=1"
+    },
+    {
+      "title": "요한일서 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=2"
+    },
+    {
+      "title": "요한일서 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=3"
+    },
+    {
+      "title": "요한일서 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=4"
+    },
+    {
+      "title": "요한일서 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=1jn&chap=5"
+    },
+    {
+      "title": "요한이서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=2jn&chap=1"
+    },
+    {
+      "title": "요한삼서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=3jn&chap=1"
+    },
+    {
+      "title": "유다서 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=jud&chap=1"
+    },
+    {
+      "title": "요한계시록 1장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=1"
+    },
+    {
+      "title": "요한계시록 2장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=2"
+    },
+    {
+      "title": "요한계시록 3장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=3"
+    },
+    {
+      "title": "요한계시록 4장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=4"
+    },
+    {
+      "title": "요한계시록 5장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=5"
+    },
+    {
+      "title": "요한계시록 6장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=6"
+    },
+    {
+      "title": "요한계시록 7장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=7"
+    },
+    {
+      "title": "요한계시록 8장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=8"
+    },
+    {
+      "title": "요한계시록 9장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=9"
+    },
+    {
+      "title": "요한계시록 10장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=10"
+    },
+    {
+      "title": "요한계시록 11장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=11"
+    },
+    {
+      "title": "요한계시록 12장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=12"
+    },
+    {
+      "title": "요한계시록 13장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=13"
+    },
+    {
+      "title": "요한계시록 14장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=14"
+    },
+    {
+      "title": "요한계시록 15장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=15"
+    },
+    {
+      "title": "요한계시록 16장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=16"
+    },
+    {
+      "title": "요한계시록 17장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=17"
+    },
+    {
+      "title": "요한계시록 18장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=18"
+    },
+    {
+      "title": "요한계시록 19장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=19"
+    },
+    {
+      "title": "요한계시록 20장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=20"
+    },
+    {
+      "title": "요한계시록 21장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=21"
+    },
+    {
+      "title": "요한계시록 22장 · 개역한글",
+      "url": "https://www.bskorea.or.kr/bible/korbibReadpage.php?version=HAN&book=rev&chap=22"
+    },
+    {
+      "title": "Swete 오경 인쇄본",
+      "url": "https://archive.org/details/theoldtestamenti00unknuoft"
+    }
+  ],
+  "format": "book_manifest",
+  "full_archive": "/data/reader.zip",
+  "books": [
+    {
+      "book": "Matthew",
+      "name": "마태복음",
+      "url": "/data/books/matthew.json",
+      "sha256": "ed7b6532c04212bdb5f485e6552b9406653c03370f56e3d84977e256f4dc330e"
+    },
+    {
+      "book": "Mark",
+      "name": "마가복음",
+      "url": "/data/books/mark.json",
+      "sha256": "e12bc6fe677893aa63b119dc9061d603e0a630b1bc89cca52cc96e7983f2e3ae"
+    },
+    {
+      "book": "Luke",
+      "name": "누가복음",
+      "url": "/data/books/luke.json",
+      "sha256": "a5ff6654f857e582a4469666deed5a8bac712acdaafe8b3d5222201d289733c0"
+    },
+    {
+      "book": "John",
+      "name": "요한복음",
+      "url": "/data/books/john.json",
+      "sha256": "a6bce5a9860a6478991a94fd2f218c083e82673c38af2d8522ba3af8c38a27e3"
+    },
+    {
+      "book": "Acts",
+      "name": "사도행전",
+      "url": "/data/books/acts.json",
+      "sha256": "49d5d23e9ad542df91f7fa51787b76deaa4c4825a1c357b664ba8a4f52273799"
+    },
+    {
+      "book": "Romans",
+      "name": "로마서",
+      "url": "/data/books/romans.json",
+      "sha256": "0e196d75dca1031200324f75dad170769561b7b85d3fca7f5e67a0e1c466407a"
+    },
+    {
+      "book": "1Corinthians",
+      "name": "고린도전서",
+      "url": "/data/books/1corinthians.json",
+      "sha256": "4b642bc1a8a41ec970f5247ad23b90aa5a76dd225dd175d45a5e7ae4ed3c5f2b"
+    },
+    {
+      "book": "2Corinthians",
+      "name": "고린도후서",
+      "url": "/data/books/2corinthians.json",
+      "sha256": "ccd520c058e58e3509b99f5390253bcc48e5d1af576eea1ba686a7b4dbb3d115"
+    },
+    {
+      "book": "Galatians",
+      "name": "갈라디아서",
+      "url": "/data/books/galatians.json",
+      "sha256": "997c2619e461a06b7f38c43935bfd510d51cd37be2c181406347b1b3ce73a4fe"
+    },
+    {
+      "book": "Ephesians",
+      "name": "에베소서",
+      "url": "/data/books/ephesians.json",
+      "sha256": "a8a8e670e2c929801d0268fca0e5b149b6ac15a70fc72099c40f7adbc604cdb0"
+    },
+    {
+      "book": "Philippians",
+      "name": "빌립보서",
+      "url": "/data/books/philippians.json",
+      "sha256": "6f03d2a91309b5426f73c07f8580c23a9a3463445bc7dd1cf636a752f65a2b57"
+    },
+    {
+      "book": "Colossians",
+      "name": "골로새서",
+      "url": "/data/books/colossians.json",
+      "sha256": "c0eee42bd529776c832e3e92093533c2fa6771aec08b795e9b8b5b3b4ff3e766"
+    },
+    {
+      "book": "1Thessalonians",
+      "name": "데살로니가전서",
+      "url": "/data/books/1thessalonians.json",
+      "sha256": "24481b3d64c0681b2fd8fbdeef0f282f4a8722850f584ef4198c664a4131234c"
+    },
+    {
+      "book": "2Thessalonians",
+      "name": "데살로니가후서",
+      "url": "/data/books/2thessalonians.json",
+      "sha256": "fb067926432bdb7e2cd80af6dcfeea9f704430fce1502aad354eea59cfd2df50"
+    },
+    {
+      "book": "1Timothy",
+      "name": "디모데전서",
+      "url": "/data/books/1timothy.json",
+      "sha256": "efa597064d50cc95ae3a19bc62c64f6b8fc6cb56d21e7357061f5e5d2840557c"
+    },
+    {
+      "book": "2Timothy",
+      "name": "디모데후서",
+      "url": "/data/books/2timothy.json",
+      "sha256": "29b4697375a60be56ea00ce0ba29bce710c59c442e5f90ed20c19dc35aec3a4f"
+    },
+    {
+      "book": "Titus",
+      "name": "디도서",
+      "url": "/data/books/titus.json",
+      "sha256": "58cd9059c0246a692a748bd2d83fd4aed25c4e65048527563bd565d2ef306a25"
+    },
+    {
+      "book": "Philemon",
+      "name": "빌레몬서",
+      "url": "/data/books/philemon.json",
+      "sha256": "72add9ce8523a3e146ce081932c1833784e36ca8b8b04dedd609793b3678e48e"
+    },
+    {
+      "book": "Hebrews",
+      "name": "히브리서",
+      "url": "/data/books/hebrews.json",
+      "sha256": "fe6da70fc45596381e1c7da7ce14ff211b089d6806c11eee2b5b5a13d024ff30"
+    },
+    {
+      "book": "James",
+      "name": "야고보서",
+      "url": "/data/books/james.json",
+      "sha256": "1d223985467ec5f081c3906c3e5f99fd5134459bbb809842d40f48d34ade921d"
+    },
+    {
+      "book": "1Peter",
+      "name": "베드로전서",
+      "url": "/data/books/1peter.json",
+      "sha256": "edfa70b4581fdd193fcfb4f8c758201bcfa1b861b8f37ac4c96a98928e31525b"
+    },
+    {
+      "book": "2Peter",
+      "name": "베드로후서",
+      "url": "/data/books/2peter.json",
+      "sha256": "1a57cece6803a4c457bfc31b4f5183e9bd8d256e858783c303920b6fa8eb0c90"
+    },
+    {
+      "book": "1John",
+      "name": "요한일서",
+      "url": "/data/books/1john.json",
+      "sha256": "9c758ac66e4db87c48c3b5a34ab5a97e3a5b88ea7242a710c1ab1d99571af72a"
+    },
+    {
+      "book": "2John",
+      "name": "요한이서",
+      "url": "/data/books/2john.json",
+      "sha256": "c12621b91b35f83d628bbe5585ab58a57d577c591fd8f90d4b7ad926e349f92e"
+    },
+    {
+      "book": "3John",
+      "name": "요한삼서",
+      "url": "/data/books/3john.json",
+      "sha256": "c2e10762e9ab3f6d46bc7eefe7f8c4eb5bf34b8bc0a14dcd48afd76a51ffb4cf"
+    },
+    {
+      "book": "Jude",
+      "name": "유다서",
+      "url": "/data/books/jude.json",
+      "sha256": "e4784d375cb360163aec76aeec78cd85fbbf310a846a80f822a4d3e797df18ec"
+    },
+    {
+      "book": "Revelation",
+      "name": "요한계시록",
+      "url": "/data/books/revelation.json",
+      "sha256": "0d4f2b02269d10fe013a7f771745a6d8a76bf4750cf5c3b3e94786e392353116"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1corinthians-8",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/1corinthians-8/c8-one-god/",
+      "nt": "고전 8:4",
+      "ot": "신명기 6:4",
+      "lead": "하나님은 한 분",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-8/c8-father/",
+      "nt": "고전 8:6",
+      "ot": "말라기 2:10",
+      "lead": "한 아버지와 한 하나님",
+      "kind": "암시"
+    }
+  ]
+}

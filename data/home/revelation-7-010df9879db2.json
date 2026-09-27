@@ -1,0 +1,64 @@
+{
+  "id": "revelation-7",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 7,
+  "rows": [
+    {
+      "url": "/revelation-7/rv7-winds/",
+      "nt": "계 7:1",
+      "ot": "스가랴 6:5",
+      "lead": "네 바람을 붙듦",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-7/rv7-sea-winds/",
+      "nt": "계 7:1",
+      "ot": "다니엘 7:2",
+      "lead": "하늘의 네 바람",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-7/rv7-palms/",
+      "nt": "계 7:9",
+      "ot": "레위기 23:40, 43",
+      "lead": "손에 든 종려 가지",
+      "kind": "예전적 암시"
+    },
+    {
+      "url": "/revelation-7/rv7-wash/",
+      "nt": "계 7:14",
+      "ot": "출애굽기 19:10, 14",
+      "lead": "옷을 씻은 이들",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-7/rv7-dwell/",
+      "nt": "계 7:15",
+      "ot": "에스겔 37:27",
+      "lead": "그들 위에 장막을 치심",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-7/rv7-hunger/",
+      "nt": "계 7:16",
+      "ot": "이사야 49:10",
+      "lead": "주림과 목마름이 없음",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-7/rv7-shepherd/",
+      "nt": "계 7:17",
+      "ot": "에스겔 34:23",
+      "lead": "그들을 먹이는 목자",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-7/rv7-tears/",
+      "nt": "계 7:17",
+      "ot": "이사야 25:8",
+      "lead": "눈물을 씻어 주심",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

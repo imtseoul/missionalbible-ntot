@@ -1,0 +1,78 @@
+{
+  "id": "1corinthians-1",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/1corinthians-1/c1-call/",
+      "nt": "고전 1:2",
+      "ot": "요엘 3:5",
+      "lead": "주의 이름을 부르는 이들",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-1/c1-wisdom/",
+      "nt": "고전 1:19",
+      "ot": "이사야 29:14",
+      "lead": "지혜를 없애심",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-1/c1-counsel/",
+      "nt": "고전 1:19",
+      "ot": "시편 32:10",
+      "lead": "민족들의 계획을 꺾으심",
+      "kind": "인용 배경"
+    },
+    {
+      "url": "/1corinthians-1/c1-egypt/",
+      "nt": "고전 1:20",
+      "ot": "이사야 19:11–12",
+      "lead": "지혜로운 이들은 어디 있는가",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-1/c1-scribe/",
+      "nt": "고전 1:20",
+      "ot": "이사야 33:18",
+      "lead": "학자는 어디 있는가",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-1/c1-foolish/",
+      "nt": "고전 1:20",
+      "ot": "이사야 44:25",
+      "lead": "지혜를 어리석게 하심",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-1/c1-called/",
+      "nt": "고전 1:26",
+      "ot": "예레미야 9:23",
+      "lead": "지혜와 능력과 가문",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-1/c1-righteous/",
+      "nt": "고전 1:30",
+      "ot": "예레미야 23:5–6",
+      "lead": "그리스도와 의",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-1/c1-boast/",
+      "nt": "고전 1:31",
+      "ot": "예레미야 9:23–24",
+      "lead": "주 안에서 자랑하라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-1/c1-hannah/",
+      "nt": "고전 1:31",
+      "ot": "사무엘상 2:10",
+      "lead": "자랑의 근거",
+      "kind": "인용 배경"
+    }
+  ]
+}

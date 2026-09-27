@@ -1,0 +1,50 @@
+{
+  "id": "1corinthians-3",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/1corinthians-3/c3-refine/",
+      "nt": "고전 3:13",
+      "ot": "스가랴 13:9",
+      "lead": "불로 시험함",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-3/c3-day/",
+      "nt": "고전 3:13",
+      "ot": "말라기 4:1",
+      "lead": "불로 드러나는 날",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-3/c3-firebrand/",
+      "nt": "고전 3:15",
+      "ot": "아모스 4:11",
+      "lead": "불 가운데서 건짐",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-3/c3-temple/",
+      "nt": "고전 3:17",
+      "ot": "시편 78:1",
+      "lead": "더럽혀진 성전",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-3/c3-wise/",
+      "nt": "고전 3:19",
+      "ot": "욥기 5:13",
+      "lead": "지혜자를 지혜로 붙잡으심",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-3/c3-thoughts/",
+      "nt": "고전 3:20",
+      "ot": "시편 93:11",
+      "lead": "헛된 생각을 아심",
+      "kind": "직접 인용"
+    }
+  ]
+}

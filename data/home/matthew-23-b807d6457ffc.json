@@ -1,0 +1,36 @@
+{
+  "id": "matthew-23",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 23,
+  "rows": [
+    {
+      "url": "/matthew-23/mt23-mercy/",
+      "nt": "마 23:23",
+      "ot": "호세아 6:6",
+      "lead": "율법의 무거운 것, 긍휼",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-23/mt23-abel/",
+      "nt": "마 23:35",
+      "ot": "창세기 4:8, 10",
+      "lead": "의인 아벨의 피",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/matthew-23/mt23-wings/",
+      "nt": "마 23:37",
+      "ot": "신명기 32:11",
+      "lead": "날개 아래 모으려 함",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-23/mt23-coming/",
+      "nt": "마 23:39",
+      "ot": "시편 117:26",
+      "lead": "다시 부를 축복",
+      "kind": "직접 인용"
+    }
+  ]
+}

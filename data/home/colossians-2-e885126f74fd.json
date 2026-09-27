@@ -1,0 +1,29 @@
+{
+  "id": "colossians-2",
+  "book": "colossians",
+  "name": "골로새서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/colossians-2/col2-treasures/",
+      "nt": "골 2:3",
+      "ot": "이사야 45:3",
+      "lead": "감추어진 보화",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/colossians-2/col2-wisdom/",
+      "nt": "골 2:3",
+      "ot": "잠언 2:3–4",
+      "lead": "보물처럼 찾는 지혜",
+      "kind": "암시"
+    },
+    {
+      "url": "/colossians-2/col2-rules/",
+      "nt": "골 2:22",
+      "ot": "이사야 29:13",
+      "lead": "사람의 명령과 가르침",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

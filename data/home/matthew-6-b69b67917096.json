@@ -1,0 +1,36 @@
+{
+  "id": "matthew-6",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 6,
+  "rows": [
+    {
+      "url": "/matthew-6/mt6-father/",
+      "nt": "마 6:9",
+      "ot": "신명기 32:6",
+      "lead": "우리 아버지",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-6/mt6-eye/",
+      "nt": "마 6:23",
+      "ot": "신명기 15:9",
+      "lead": "악한 눈",
+      "kind": "암시"
+    },
+    {
+      "url": "/matthew-6/mt6-solomon/",
+      "nt": "마 6:29",
+      "ot": "열왕기상 10:4–6",
+      "lead": "솔로몬의 영광",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/matthew-6/mt6-tomorrow/",
+      "nt": "마 6:34",
+      "ot": "출애굽기 16:19",
+      "lead": "내일을 위한 염려",
+      "kind": "서사적 암시"
+    }
+  ]
+}

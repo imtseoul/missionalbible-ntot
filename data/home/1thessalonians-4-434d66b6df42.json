@@ -1,0 +1,36 @@
+{
+  "id": "1thessalonians-4",
+  "book": "1thessalonians",
+  "name": "데살로니가전서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/1thessalonians-4/1th4-nations/",
+      "nt": "살전 4:5",
+      "ot": "시편 78:6",
+      "lead": "하나님을 알지 못하는 이방인",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/1thessalonians-4/1th4-avenger/",
+      "nt": "살전 4:6",
+      "ot": "시편 93:1",
+      "lead": "갚으시는 주",
+      "kind": "암시"
+    },
+    {
+      "url": "/1thessalonians-4/1th4-spirit/",
+      "nt": "살전 4:8",
+      "ot": "에스겔 36:27",
+      "lead": "너희 안에 주시는 영",
+      "kind": "암시"
+    },
+    {
+      "url": "/1thessalonians-4/1th4-life-spirit/",
+      "nt": "살전 4:8",
+      "ot": "에스겔 37:14",
+      "lead": "내 영을 너희 안에",
+      "kind": "암시"
+    }
+  ]
+}

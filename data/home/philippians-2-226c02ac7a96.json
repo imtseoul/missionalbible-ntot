@@ -1,0 +1,43 @@
+{
+  "id": "philippians-2",
+  "book": "philippians",
+  "name": "빌립보서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/philippians-2/php2-servant/",
+      "nt": "빌 2:7",
+      "ot": "이사야 53:3, 11",
+      "lead": "종의 모습",
+      "kind": "암시"
+    },
+    {
+      "url": "/philippians-2/php2-knee/",
+      "nt": "빌 2:10–11",
+      "ot": "이사야 45:23",
+      "lead": "모든 무릎과 모든 혀",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/philippians-2/php2-shine/",
+      "nt": "빌 2:15",
+      "ot": "다니엘 12:3",
+      "lead": "세상에서 빛남",
+      "kind": "암시"
+    },
+    {
+      "url": "/philippians-2/php2-labor/",
+      "nt": "빌 2:16",
+      "ot": "이사야 49:4",
+      "lead": "헛되이 수고하지 않음",
+      "kind": "암시"
+    },
+    {
+      "url": "/philippians-2/php2-vain/",
+      "nt": "빌 2:16",
+      "ot": "이사야 65:23",
+      "lead": "헛되지 않은 수고",
+      "kind": "암시"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "titus-1",
+  "book": "titus",
+  "name": "디도서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/titus-1/ti1-works/",
+      "nt": "딛 1:16",
+      "ot": "시편 13:1",
+      "lead": "하나님을 부인하는 행위",
+      "kind": "암시"
+    }
+  ]
+}

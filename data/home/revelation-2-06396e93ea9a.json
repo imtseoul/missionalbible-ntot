@@ -1,0 +1,64 @@
+{
+  "id": "revelation-2",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/revelation-2/rv2-tree/",
+      "nt": "계 2:7",
+      "ot": "창세기 2:9",
+      "lead": "생명나무의 열매",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-2/rv2-crown/",
+      "nt": "계 2:10",
+      "ot": "스가랴 6:14",
+      "lead": "기다리는 이의 면류관",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/revelation-2/rv2-sword/",
+      "nt": "계 2:12",
+      "ot": "이사야 49:2",
+      "lead": "날선 검을 가진 이",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-2/rv2-balaam/",
+      "nt": "계 2:14",
+      "ot": "민수기 25:1–2",
+      "lead": "음행과 우상의 제물",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/revelation-2/rv2-manna/",
+      "nt": "계 2:17",
+      "ot": "출애굽기 16:32–36",
+      "lead": "감추어진 만나",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-2/rv2-new-name/",
+      "nt": "계 2:17",
+      "ot": "이사야 62:2",
+      "lead": "새 이름",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-2/rv2-fire-eyes/",
+      "nt": "계 2:18",
+      "ot": "다니엘 10:6",
+      "lead": "불꽃 같은 눈과 빛나는 발",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-2/rv2-iron/",
+      "nt": "계 2:26–27",
+      "ot": "시편 2:8–9",
+      "lead": "철장으로 다스림",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

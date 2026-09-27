@@ -1,0 +1,50 @@
+{
+  "id": "ephesians-4",
+  "book": "ephesians",
+  "name": "에베소서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/ephesians-4/eph4-gifts/",
+      "nt": "엡 4:8",
+      "ot": "시편 67:19",
+      "lead": "높이 올라가 선물을 주심",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/ephesians-4/eph4-truth/",
+      "nt": "엡 4:25",
+      "ot": "스가랴 8:16",
+      "lead": "이웃에게 참말을 하라",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/ephesians-4/eph4-angry/",
+      "nt": "엡 4:26",
+      "ot": "시편 4:5",
+      "lead": "분을 내어도 죄를 짓지 말라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/ephesians-4/eph4-sunset/",
+      "nt": "엡 4:26",
+      "ot": "신명기 24:15",
+      "lead": "해가 지기 전에",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/ephesians-4/eph4-steal/",
+      "nt": "엡 4:28",
+      "ot": "신명기 5:19",
+      "lead": "도둑질에서 나눔으로",
+      "kind": "율법적 재사용"
+    },
+    {
+      "url": "/ephesians-4/eph4-grieve/",
+      "nt": "엡 4:30",
+      "ot": "이사야 63:10",
+      "lead": "성령을 근심하게 하지 말라",
+      "kind": "암시"
+    }
+  ]
+}

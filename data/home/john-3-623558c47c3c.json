@@ -1,0 +1,29 @@
+{
+  "id": "john-3",
+  "book": "john",
+  "name": "요한복음",
+  "chapter": 3,
+  "rows": [
+    {
+      "url": "/john-3/jn3-water-spirit/",
+      "nt": "요 3:5",
+      "ot": "에스겔 36:25–27",
+      "lead": "물과 영으로 태어남",
+      "kind": "암시"
+    },
+    {
+      "url": "/john-3/jn3-serpent/",
+      "nt": "요 3:14–15",
+      "ot": "민수기 21:8–9",
+      "lead": "들린 뱀과 인자",
+      "kind": "서사적 인용"
+    },
+    {
+      "url": "/john-3/jn3-lifted/",
+      "nt": "요 3:14",
+      "ot": "이사야 52:13",
+      "lead": "높이 들릴 인자",
+      "kind": "암시"
+    }
+  ]
+}

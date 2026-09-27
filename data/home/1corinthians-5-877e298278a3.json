@@ -1,0 +1,36 @@
+{
+  "id": "1corinthians-5",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 5,
+  "rows": [
+    {
+      "url": "/1corinthians-5/c5-father/",
+      "nt": "고전 5:1",
+      "ot": "레위기 18:8",
+      "lead": "아버지의 아내",
+      "kind": "율법적 배경"
+    },
+    {
+      "url": "/1corinthians-5/c5-passover/",
+      "nt": "고전 5:7",
+      "ot": "출애굽기 12:19, 21",
+      "lead": "누룩과 유월절",
+      "kind": "제의적 암시"
+    },
+    {
+      "url": "/1corinthians-5/c5-leaven/",
+      "nt": "고전 5:7",
+      "ot": "출애굽기 13:7",
+      "lead": "누룩이 보이지 않게",
+      "kind": "제의적 암시"
+    },
+    {
+      "url": "/1corinthians-5/c5-remove/",
+      "nt": "고전 5:13",
+      "ot": "신명기 17:7",
+      "lead": "악한 자를 내쫓으라",
+      "kind": "직접 인용"
+    }
+  ]
+}

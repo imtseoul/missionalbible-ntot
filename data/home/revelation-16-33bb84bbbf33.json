@@ -1,0 +1,71 @@
+{
+  "id": "revelation-16",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 16,
+  "rows": [
+    {
+      "url": "/revelation-16/rv16-sores/",
+      "nt": "계 16:2",
+      "ot": "출애굽기 9:10–11",
+      "lead": "악하고 독한 종기",
+      "kind": "재앙의 재사용"
+    },
+    {
+      "url": "/revelation-16/rv16-blood/",
+      "nt": "계 16:4",
+      "ot": "시편 77:44",
+      "lead": "피가 된 강과 샘",
+      "kind": "재앙의 재사용"
+    },
+    {
+      "url": "/revelation-16/rv16-drink/",
+      "nt": "계 16:6",
+      "ot": "이사야 49:26",
+      "lead": "피를 마시게 함",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-16/rv16-judgments/",
+      "nt": "계 16:7",
+      "ot": "시편 18:10",
+      "lead": "참되고 의로운 심판",
+      "kind": "찬양의 재사용"
+    },
+    {
+      "url": "/revelation-16/rv16-dry/",
+      "nt": "계 16:12",
+      "ot": "이사야 11:15–16",
+      "lead": "강을 마르게 하는 길",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-16/rv16-waters/",
+      "nt": "계 16:12",
+      "ot": "이사야 44:27",
+      "lead": "강들을 말리심",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-16/rv16-frogs/",
+      "nt": "계 16:13",
+      "ot": "시편 77:45",
+      "lead": "개구리 같은 영들",
+      "kind": "재앙의 변형"
+    },
+    {
+      "url": "/revelation-16/rv16-voice/",
+      "nt": "계 16:17",
+      "ot": "이사야 66:6",
+      "lead": "성전에서 나는 음성",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-16/rv16-storm/",
+      "nt": "계 16:18, 21",
+      "ot": "출애굽기 9:24",
+      "lead": "우레와 큰 우박",
+      "kind": "재앙의 재사용"
+    }
+  ]
+}

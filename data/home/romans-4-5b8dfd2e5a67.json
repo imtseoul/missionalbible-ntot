@@ -1,0 +1,71 @@
+{
+  "id": "romans-4",
+  "book": "romans",
+  "name": "로마서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/romans-4/rm4-believed/",
+      "nt": "롬 4:3",
+      "ot": "창세기 15:6",
+      "lead": "믿음이 의로 여겨짐",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-4/rm4-blessed/",
+      "nt": "롬 4:7–8",
+      "ot": "시편 31:1–2",
+      "lead": "죄를 계산하지 않는 복",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-4/rm4-sign/",
+      "nt": "롬 4:11",
+      "ot": "창세기 17:11",
+      "lead": "할례의 표지",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-4/rm4-promise/",
+      "nt": "롬 4:13",
+      "ot": "창세기 15:5, 7",
+      "lead": "후손과 땅의 약속",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-4/rm4-inherit/",
+      "nt": "롬 4:13",
+      "ot": "창세기 22:17",
+      "lead": "후손의 상속",
+      "kind": "암시"
+    },
+    {
+      "url": "/romans-4/rm4-father/",
+      "nt": "롬 4:17",
+      "ot": "창세기 17:5",
+      "lead": "많은 민족의 아버지",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-4/rm4-stars/",
+      "nt": "롬 4:18",
+      "ot": "창세기 15:5",
+      "lead": "네 후손이 이와 같으리라",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/romans-4/rm4-old-age/",
+      "nt": "롬 4:19",
+      "ot": "창세기 17:17",
+      "lead": "아브라함과 사라의 나이",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/romans-4/rm4-delivered/",
+      "nt": "롬 4:25",
+      "ot": "이사야 53:12",
+      "lead": "죄 때문에 넘겨짐",
+      "kind": "암시"
+    }
+  ]
+}

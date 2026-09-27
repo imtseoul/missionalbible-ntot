@@ -1,0 +1,57 @@
+{
+  "id": "1corinthians-2",
+  "book": "1corinthians",
+  "name": "고린도전서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/1corinthians-2/c2-unheard/",
+      "nt": "고전 2:9",
+      "ot": "이사야 52:15",
+      "lead": "듣지 못한 것을 깨달음",
+      "kind": "인용 배경"
+    },
+    {
+      "url": "/1corinthians-2/c2-unseen/",
+      "nt": "고전 2:9",
+      "ot": "이사야 64:4",
+      "lead": "눈이 보지 못한 것",
+      "kind": "결합 인용"
+    },
+    {
+      "url": "/1corinthians-2/c2-heart/",
+      "nt": "고전 2:9",
+      "ot": "이사야 65:16",
+      "lead": "마음에 오르지 않음",
+      "kind": "인용 배경"
+    },
+    {
+      "url": "/1corinthians-2/c2-depth/",
+      "nt": "고전 2:10",
+      "ot": "다니엘 2:22",
+      "lead": "깊은 것을 드러내심",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-2/c2-spirit/",
+      "nt": "고전 2:11",
+      "ot": "스가랴 12:1",
+      "lead": "사람 안의 영",
+      "kind": "암시"
+    },
+    {
+      "url": "/1corinthians-2/c2-mind/",
+      "nt": "고전 2:16",
+      "ot": "이사야 40:13",
+      "lead": "누가 주의 마음을 알았는가",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/1corinthians-2/c2-council/",
+      "nt": "고전 2:16",
+      "ot": "예레미야 23:18",
+      "lead": "주의 뜻을 아는 자",
+      "kind": "인용 배경"
+    }
+  ]
+}

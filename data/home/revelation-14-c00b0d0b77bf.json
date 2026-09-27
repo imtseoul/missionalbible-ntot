@@ -1,0 +1,64 @@
+{
+  "id": "revelation-14",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 14,
+  "rows": [
+    {
+      "url": "/revelation-14/rv14-no-lie/",
+      "nt": "계 14:5",
+      "ot": "이사야 53:9",
+      "lead": "입에 거짓이 없음",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-14/rv14-babylon/",
+      "nt": "계 14:8",
+      "ot": "예레미야 28:7–8",
+      "lead": "무너진 바빌론",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-14/rv14-cup/",
+      "nt": "계 14:10",
+      "ot": "이사야 51:17, 22",
+      "lead": "진노의 잔",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-14/rv14-brimstone/",
+      "nt": "계 14:10",
+      "ot": "창세기 19:24",
+      "lead": "불과 유황",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-14/rv14-smoke/",
+      "nt": "계 14:11",
+      "ot": "이사야 34:10",
+      "lead": "영원히 올라가는 연기",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-14/rv14-cloud/",
+      "nt": "계 14:14",
+      "ot": "다니엘 7:13",
+      "lead": "구름 위의 인자 같은 이",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-14/rv14-harvest/",
+      "nt": "계 14:15, 18",
+      "ot": "요엘 4:13",
+      "lead": "낫을 보내 거두라",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-14/rv14-winepress/",
+      "nt": "계 14:20",
+      "ot": "이사야 63:2–3",
+      "lead": "밟히는 포도즙 틀",
+      "kind": "영상적 암시"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "matthew-10",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 10,
+  "rows": [
+    {
+      "url": "/matthew-10/mt10-sodom/",
+      "nt": "마 10:15",
+      "ot": "창세기 19:24–25",
+      "lead": "소돔의 심판",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/matthew-10/mt10-division/",
+      "nt": "마 10:35–36",
+      "ot": "미가 7:6",
+      "lead": "집안의 사람이 원수가 됨",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

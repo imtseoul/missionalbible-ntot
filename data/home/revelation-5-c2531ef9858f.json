@@ -1,0 +1,64 @@
+{
+  "id": "revelation-5",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 5,
+  "rows": [
+    {
+      "url": "/revelation-5/rv5-scroll/",
+      "nt": "계 5:1",
+      "ot": "에스겔 2:9–10",
+      "lead": "안팎에 글이 있는 두루마리",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-5/rv5-seal/",
+      "nt": "계 5:1",
+      "ot": "다니엘 12:4, 9",
+      "lead": "봉인된 책",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-5/rv5-lion/",
+      "nt": "계 5:5",
+      "ot": "창세기 49:9",
+      "lead": "유다 지파의 사자",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-5/rv5-root/",
+      "nt": "계 5:5",
+      "ot": "이사야 11:1, 10",
+      "lead": "다윗의 뿌리",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-5/rv5-lamb/",
+      "nt": "계 5:6, 9",
+      "ot": "이사야 53:7",
+      "lead": "죽임당한 어린양",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-5/rv5-eyes/",
+      "nt": "계 5:6",
+      "ot": "스가랴 4:10",
+      "lead": "온 땅을 보는 일곱 눈",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-5/rv5-priesthood/",
+      "nt": "계 5:10",
+      "ot": "출애굽기 19:6",
+      "lead": "하나님을 위한 나라와 제사장",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-5/rv5-myriad/",
+      "nt": "계 5:11",
+      "ot": "다니엘 7:10",
+      "lead": "만만과 천천",
+      "kind": "영상적 암시"
+    }
+  ]
+}

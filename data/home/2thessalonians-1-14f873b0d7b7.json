@@ -1,0 +1,57 @@
+{
+  "id": "2thessalonians-1",
+  "book": "2thessalonians",
+  "name": "데살로니가후서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/2thessalonians-1/2th1-fire/",
+      "nt": "살후 1:7–8",
+      "ot": "이사야 66:4, 15",
+      "lead": "불꽃 속의 갚으심",
+      "kind": "암시"
+    },
+    {
+      "url": "/2thessalonians-1/2th1-glory/",
+      "nt": "살후 1:9",
+      "ot": "이사야 2:10, 19, 21",
+      "lead": "주의 얼굴과 권능의 영광",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/2thessalonians-1/2th1-exalted/",
+      "nt": "살후 1:10",
+      "ot": "이사야 2:11, 17",
+      "lead": "그날에 높임을 받으심",
+      "kind": "암시"
+    },
+    {
+      "url": "/2thessalonians-1/2th1-saints/",
+      "nt": "살후 1:10",
+      "ot": "시편 67:36",
+      "lead": "거룩한 이들 가운데 놀라우심",
+      "kind": "암시"
+    },
+    {
+      "url": "/2thessalonians-1/2th1-assembly/",
+      "nt": "살후 1:10",
+      "ot": "시편 88:8",
+      "lead": "성도들의 모임 가운데",
+      "kind": "암시"
+    },
+    {
+      "url": "/2thessalonians-1/2th1-name/",
+      "nt": "살후 1:12",
+      "ot": "이사야 66:5",
+      "lead": "주의 이름이 영광을 받음",
+      "kind": "암시"
+    },
+    {
+      "url": "/2thessalonians-1/2th1-great-name/",
+      "nt": "살후 1:12",
+      "ot": "말라기 1:11",
+      "lead": "민족들 가운데 큰 이름",
+      "kind": "암시"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "2corinthians-11",
+  "book": "2corinthians",
+  "name": "고린도후서",
+  "chapter": 11,
+  "rows": [
+    {
+      "url": "/2corinthians-11/2co11-serpent/",
+      "nt": "고후 11:3",
+      "ot": "창세기 3:13",
+      "lead": "뱀에게 속은 하와",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/2corinthians-11/2co11-lashes/",
+      "nt": "고후 11:24",
+      "ot": "신명기 25:3",
+      "lead": "사십에서 하나를 감한 매",
+      "kind": "율법적 배경"
+    }
+  ]
+}

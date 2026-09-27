@@ -1,0 +1,85 @@
+{
+  "id": "revelation-18",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 18,
+  "rows": [
+    {
+      "url": "/revelation-18/rv18-desert/",
+      "nt": "계 18:2",
+      "ot": "이사야 13:21",
+      "lead": "황폐한 바빌론",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-18/rv18-haunt/",
+      "nt": "계 18:2",
+      "ot": "이사야 34:11, 14",
+      "lead": "부정한 것들의 거처",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-18/rv18-wine/",
+      "nt": "계 18:3",
+      "ot": "예레미야 28:7",
+      "lead": "만국을 취하게 한 포도주",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-18/rv18-leave/",
+      "nt": "계 18:4",
+      "ot": "예레미야 28:6, 9, 45",
+      "lead": "내 백성아 거기서 나오라",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-18/rv18-clean/",
+      "nt": "계 18:4",
+      "ot": "이사야 52:11",
+      "lead": "그 가운데서 나옴",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-18/rv18-judgment/",
+      "nt": "계 18:4–5",
+      "ot": "예레미야 28:9",
+      "lead": "하늘까지 이른 심판",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-18/rv18-heaven/",
+      "nt": "계 18:5",
+      "ot": "창세기 18:20",
+      "lead": "하늘에 닿은 죄",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-18/rv18-smoke/",
+      "nt": "계 18:18",
+      "ot": "이사야 34:10",
+      "lead": "불타는 연기",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-18/rv18-rejoice/",
+      "nt": "계 18:20",
+      "ot": "예레미야 28:48",
+      "lead": "그로 인하여 즐거워하라",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-18/rv18-millstone/",
+      "nt": "계 18:21",
+      "ot": "예레미야 28:63–64",
+      "lead": "돌처럼 가라앉는 성",
+      "kind": "예언 행위의 재사용"
+    },
+    {
+      "url": "/revelation-18/rv18-blood/",
+      "nt": "계 18:24",
+      "ot": "예레미야 28:49",
+      "lead": "땅에서 죽임당한 이들의 피",
+      "kind": "암시"
+    }
+  ]
+}

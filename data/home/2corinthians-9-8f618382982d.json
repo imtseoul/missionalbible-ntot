@@ -1,0 +1,36 @@
+{
+  "id": "2corinthians-9",
+  "book": "2corinthians",
+  "name": "고린도후서",
+  "chapter": 9,
+  "rows": [
+    {
+      "url": "/2corinthians-9/2co9-heart/",
+      "nt": "고후 9:7",
+      "ot": "신명기 15:10",
+      "lead": "마음으로 즐겁게 줌",
+      "kind": "암시"
+    },
+    {
+      "url": "/2corinthians-9/2co9-give/",
+      "nt": "고후 9:9",
+      "ot": "시편 111:9",
+      "lead": "흩어 가난한 이들에게 줌",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/2corinthians-9/2co9-seed/",
+      "nt": "고후 9:10",
+      "ot": "이사야 55:10",
+      "lead": "씨와 먹을 양식",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/2corinthians-9/2co9-fruit/",
+      "nt": "고후 9:10",
+      "ot": "호세아 10:12",
+      "lead": "의의 열매",
+      "kind": "암시"
+    }
+  ]
+}

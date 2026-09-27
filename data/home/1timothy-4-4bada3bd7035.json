@@ -1,0 +1,29 @@
+{
+  "id": "1timothy-4",
+  "book": "1timothy",
+  "name": "디모데전서",
+  "chapter": 4,
+  "rows": [
+    {
+      "url": "/1timothy-4/1ti4-deception/",
+      "nt": "딤전 4:1",
+      "ot": "이사야 19:14",
+      "lead": "미혹하는 영",
+      "kind": "어휘적 암시"
+    },
+    {
+      "url": "/1timothy-4/1ti4-food/",
+      "nt": "딤전 4:3",
+      "ot": "창세기 9:3",
+      "lead": "먹을 것을 주심",
+      "kind": "암시"
+    },
+    {
+      "url": "/1timothy-4/1ti4-good/",
+      "nt": "딤전 4:4",
+      "ot": "창세기 1:31",
+      "lead": "하나님의 모든 피조물은 좋음",
+      "kind": "암시"
+    }
+  ]
+}

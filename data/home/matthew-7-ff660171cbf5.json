@@ -1,0 +1,15 @@
+{
+  "id": "matthew-7",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 7,
+  "rows": [
+    {
+      "url": "/matthew-7/mt7-depart/",
+      "nt": "마 7:23",
+      "ot": "시편 6:9",
+      "lead": "불법을 행하는 자들아 떠나라",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ephesians-1",
+  "book": "ephesians",
+  "name": "에베소서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/ephesians-1/eph1-wisdom/",
+      "nt": "엡 1:17",
+      "ot": "이사야 11:2",
+      "lead": "지혜의 영",
+      "kind": "암시"
+    },
+    {
+      "url": "/ephesians-1/eph1-right-hand/",
+      "nt": "엡 1:20",
+      "ot": "시편 109:1",
+      "lead": "하나님의 오른편",
+      "kind": "암시"
+    },
+    {
+      "url": "/ephesians-1/eph1-feet/",
+      "nt": "엡 1:22",
+      "ot": "시편 8:7",
+      "lead": "만물을 발 아래",
+      "kind": "인용에 가까운 재사용"
+    }
+  ]
+}

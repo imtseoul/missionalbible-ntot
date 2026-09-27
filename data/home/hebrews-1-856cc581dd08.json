@@ -1,0 +1,78 @@
+{
+  "id": "hebrews-1",
+  "book": "hebrews",
+  "name": "히브리서",
+  "chapter": 1,
+  "rows": [
+    {
+      "url": "/hebrews-1/hb1-heir/",
+      "nt": "히 1:2",
+      "ot": "시편 2:8",
+      "lead": "아들의 상속",
+      "kind": "암시"
+    },
+    {
+      "url": "/hebrews-1/hb1-seat/",
+      "nt": "히 1:3",
+      "ot": "시편 109:1",
+      "lead": "높은 곳 우편에 앉다",
+      "kind": "암시"
+    },
+    {
+      "url": "/hebrews-1/hb1-son/",
+      "nt": "히 1:5",
+      "ot": "시편 2:7",
+      "lead": "너는 내 아들이다",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-1/hb1-father/",
+      "nt": "히 1:5",
+      "ot": "사무엘하 7:14",
+      "lead": "아버지와 아들",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-1/hb1-worship-deut/",
+      "nt": "히 1:6",
+      "ot": "신명기 32:43",
+      "lead": "천사들의 경배",
+      "kind": "인용 배경 · 신명기"
+    },
+    {
+      "url": "/hebrews-1/hb1-worship-psalm/",
+      "nt": "히 1:6",
+      "ot": "시편 96:7",
+      "lead": "모든 천사는 경배하라",
+      "kind": "인용 배경 · 시편"
+    },
+    {
+      "url": "/hebrews-1/hb1-angels/",
+      "nt": "히 1:7",
+      "ot": "시편 103:4",
+      "lead": "바람과 불꽃",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-1/hb1-throne/",
+      "nt": "히 1:8–9",
+      "ot": "시편 44:7–8",
+      "lead": "영원한 왕좌",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-1/hb1-creator/",
+      "nt": "히 1:10–12",
+      "ot": "시편 101:26–28",
+      "lead": "변하지 않는 주",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-1/hb1-right-hand/",
+      "nt": "히 1:13",
+      "ot": "시편 109:1",
+      "lead": "내 오른편에 앉아라",
+      "kind": "직접 인용"
+    }
+  ]
+}

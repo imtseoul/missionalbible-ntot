@@ -1,0 +1,57 @@
+{
+  "id": "revelation-13",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 13,
+  "rows": [
+    {
+      "url": "/revelation-13/rv13-sea-beast/",
+      "nt": "계 13:1",
+      "ot": "다니엘 7:3, 7, 24",
+      "lead": "바다에서 올라오는 짐승",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-13/rv13-composite/",
+      "nt": "계 13:2",
+      "ot": "다니엘 7:4–6",
+      "lead": "표범과 곰과 사자",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-13/rv13-who/",
+      "nt": "계 13:4",
+      "ot": "출애굽기 15:11",
+      "lead": "누가 이 짐승과 같으냐",
+      "kind": "찬양의 변형"
+    },
+    {
+      "url": "/revelation-13/rv13-mouth/",
+      "nt": "계 13:5–7",
+      "ot": "다니엘 7:8, 21, 25",
+      "lead": "큰말을 하는 입",
+      "kind": "인용에 가까운 재사용"
+    },
+    {
+      "url": "/revelation-13/rv13-blaspheme/",
+      "nt": "계 13:6",
+      "ot": "다니엘 11:36",
+      "lead": "하나님을 거스르는 말",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-13/rv13-book/",
+      "nt": "계 13:8",
+      "ot": "다니엘 12:1",
+      "lead": "생명책에 기록된 이들",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-13/rv13-mark/",
+      "nt": "계 13:16",
+      "ot": "이사야 44:5",
+      "lead": "손에 새긴 소속",
+      "kind": "대조적 암시"
+    }
+  ]
+}

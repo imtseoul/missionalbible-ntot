@@ -1,0 +1,50 @@
+{
+  "id": "1thessalonians-5",
+  "book": "1thessalonians",
+  "name": "데살로니가전서",
+  "chapter": 5,
+  "rows": [
+    {
+      "url": "/1thessalonians-5/1th5-labor/",
+      "nt": "살전 5:3",
+      "ot": "이사야 13:8",
+      "lead": "해산하는 이의 고통",
+      "kind": "암시"
+    },
+    {
+      "url": "/1thessalonians-5/1th5-peace/",
+      "nt": "살전 5:3",
+      "ot": "예레미야 6:14",
+      "lead": "평안하다고 말할 때",
+      "kind": "암시"
+    },
+    {
+      "url": "/1thessalonians-5/1th5-fainthearted/",
+      "nt": "살전 5:14",
+      "ot": "이사야 35:4",
+      "lead": "마음이 약한 이들을 격려함",
+      "kind": "암시"
+    },
+    {
+      "url": "/1thessalonians-5/1th5-lowly/",
+      "nt": "살전 5:14",
+      "ot": "이사야 57:15",
+      "lead": "마음이 상한 이에게 인내함",
+      "kind": "암시"
+    },
+    {
+      "url": "/1thessalonians-5/1th5-prophecy/",
+      "nt": "살전 5:19–20",
+      "ot": "민수기 11:26–29",
+      "lead": "예언을 막지 말라",
+      "kind": "서사적 암시"
+    },
+    {
+      "url": "/1thessalonians-5/1th5-evil/",
+      "nt": "살전 5:22",
+      "ot": "욥기 1:1, 8",
+      "lead": "모든 악을 멀리함",
+      "kind": "어휘적 암시"
+    }
+  ]
+}

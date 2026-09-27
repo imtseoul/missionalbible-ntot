@@ -1,0 +1,22 @@
+{
+  "id": "matthew-9",
+  "book": "matthew",
+  "name": "마태복음",
+  "chapter": 9,
+  "rows": [
+    {
+      "url": "/matthew-9/mt9-mercy/",
+      "nt": "마 9:13",
+      "ot": "호세아 6:6",
+      "lead": "긍휼을 원하고 제사를 원치 않음",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/matthew-9/mt9-sheep/",
+      "nt": "마 9:36",
+      "ot": "에스겔 34:5",
+      "lead": "목자 없는 양",
+      "kind": "암시"
+    }
+  ]
+}

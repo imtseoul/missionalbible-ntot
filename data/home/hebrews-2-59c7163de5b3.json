@@ -1,0 +1,29 @@
+{
+  "id": "hebrews-2",
+  "book": "hebrews",
+  "name": "히브리서",
+  "chapter": 2,
+  "rows": [
+    {
+      "url": "/hebrews-2/hb2-human/",
+      "nt": "히 2:6–8",
+      "ot": "시편 8:5–7",
+      "lead": "사람과 사람의 아들",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-2/hb2-brothers/",
+      "nt": "히 2:12",
+      "ot": "시편 21:23",
+      "lead": "형제들에게 이름을 알리다",
+      "kind": "직접 인용"
+    },
+    {
+      "url": "/hebrews-2/hb2-trust/",
+      "nt": "히 2:13",
+      "ot": "이사야 8:17–18",
+      "lead": "나와 하나님이 주신 자녀들",
+      "kind": "직접 인용"
+    }
+  ]
+}

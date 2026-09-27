@@ -1,0 +1,64 @@
+{
+  "id": "revelation-8",
+  "book": "revelation",
+  "name": "요한계시록",
+  "chapter": 8,
+  "rows": [
+    {
+      "url": "/revelation-8/rv8-silence/",
+      "nt": "계 8:1",
+      "ot": "하박국 2:20",
+      "lead": "하늘의 침묵",
+      "kind": "암시"
+    },
+    {
+      "url": "/revelation-8/rv8-censer/",
+      "nt": "계 8:5",
+      "ot": "레위기 16:12",
+      "lead": "제단의 불을 담은 향로",
+      "kind": "예전적 암시"
+    },
+    {
+      "url": "/revelation-8/rv8-hail/",
+      "nt": "계 8:7",
+      "ot": "출애굽기 9:23–25",
+      "lead": "불 섞인 우박",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-8/rv8-fire/",
+      "nt": "계 8:7",
+      "ot": "에스겔 38:22",
+      "lead": "피와 우박과 불",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-8/rv8-mountain/",
+      "nt": "계 8:8",
+      "ot": "예레미야 28:25",
+      "lead": "불타는 산",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-8/rv8-star/",
+      "nt": "계 8:10",
+      "ot": "이사야 14:12",
+      "lead": "하늘에서 떨어지는 별",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-8/rv8-bitter/",
+      "nt": "계 8:11",
+      "ot": "출애굽기 15:23",
+      "lead": "쓴 물",
+      "kind": "영상적 암시"
+    },
+    {
+      "url": "/revelation-8/rv8-dark/",
+      "nt": "계 8:12",
+      "ot": "아모스 8:9",
+      "lead": "대낮의 어둠",
+      "kind": "영상적 암시"
+    }
+  ]
+}
