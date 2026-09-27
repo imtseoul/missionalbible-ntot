@@ -81,6 +81,12 @@
       document.body.classList.remove('hide-ot','hide-greek','quotes-only');
       document.title=next.title;
       document.querySelector('meta[name="description"]').content=next.querySelector('meta[name="description"]')?.content || '';
+      const canonical=next.querySelector('link[rel="canonical"]');
+      const currentCanonical=document.querySelector('link[rel="canonical"]');
+      if(canonical) {
+        if(currentCanonical) currentCanonical.href=canonical.getAttribute('href');
+        else document.head.append(document.importNode(canonical,true));
+      } else currentCanonical?.remove();
       current=url.pathname;
       const saved=pop?pageStates.get(current):null;
       window.NTLxxReader?.mount(saved?.reader);window.NTLxxHome?.mount();
